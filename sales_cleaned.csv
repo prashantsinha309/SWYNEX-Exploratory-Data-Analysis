@@ -1,0 +1,2001 @@
+order_id,order_date,customer_name,city,state,category,product,quantity,sales,discount
+ORD01861,2025-04-17,Pooja Singh,Lucknow,Uttar Pradesh,Stationery,File Folder,3,41220.29,0.0
+ORD00354,2025-12-01,Manish Verma,Bhopal,Madhya Pradesh,Stationery,Calculator,4,74235.74,0.0
+ORD01334,2025-05-15,Nikhil Singh,Delhi,Delhi,Stationery,Calculator,2,8253.98,0.1
+ORD00906,2025-09-16,Manish Gupta,Kolkata,West Bengal,Furniture,Bookshelf,2,48952.38,0.1
+ORD01290,2025-01-13,Kavita Das,Chennai,Tamil Nadu,Stationery,Calculator,2,37787.74,0.05
+ORD01274,2025-05-31,Pooja Singh,Mumbai,Maharashtra,Electronics,Laptop,6,27224.18,0.05
+ORD00939,2025-12-18,Neha Das,Patna,Bihar,Stationery,Pen Set,6,73086.34,0.15
+ORD01732,2025-09-17,Sneha Gupta,Mumbai,Maharashtra,Clothing,T-Shirt,2,14436.78,0.1
+ORD00066,2025-05-01,Rohit Patel,Hyderabad,Telangana,Furniture,Bookshelf,8,37100.89,0.1
+ORD01324,2025-08-01,Amit Kumar,Hyderabad,Telangana,Clothing,Jacket,7,50579.24,0.0
+ORD00057,2025-12-02,Anjali Yadav,Bengaluru,Karnataka,Clothing,Jeans,7,58985.47,0.2
+ORD01293,2025-01-21,Nikhil Das,Jaipur,Rajasthan,Furniture,Bookshelf,5,27183.65,0.15
+ORD01119,2025-04-29,Neha Sharma,Ahmedabad,Gujarat,Furniture,Table,7,70434.51,0.0
+ORD00585,2025-07-16,Nikhil Das,Delhi,Delhi,Clothing,Jeans,6,6232.97,0.0
+ORD00375,2025-11-08,Rohit Kumar,Pune,Maharashtra,Clothing,T-Shirt,4,41616.4,0.2
+ORD00276,2025-04-22,Kavita Sharma,Bhopal,Madhya Pradesh,Electronics,Keyboard,5,61279.88,0.25
+ORD00747,2025-11-14,Neha Singh,Bengaluru,Karnataka,Grocery,Tea,7,44392.56,0.05
+ORD00129,2025-12-20,Rohit Yadav,Delhi,Delhi,Stationery,Marker,10,22611.78,0.15
+ORD01647,2025-06-08,Arjun Yadav,Lucknow,Uttar Pradesh,Furniture,Bookshelf,5,50918.73,0.2
+ORD01853,2025-10-12,Priya Yadav,Delhi,Delhi,Clothing,Shoes,3,33639.71,0.15
+ORD00675,2025-12-02,Amit Gupta,Kolkata,West Bengal,Clothing,Jacket,4,24225.19,0.2
+ORD01665,2025-03-13,Rahul Das,Pune,Maharashtra,Clothing,Jacket,10,56136.86,0.1
+ORD01982,2025-03-10,Neha Das,Bengaluru,Karnataka,Stationery,Pen Set,1,3540.0,0.0
+ORD01084,2025-07-03,Nikhil Sharma,Patna,Bihar,Furniture,Sofa,4,20105.46,0.0
+ORD01923,2025-06-14,Manish Das,Pune,Maharashtra,Clothing,Shoes,1,56489.73,0.0
+ORD00100,2025-04-29,Rohit Gupta,Patna,Bihar,Stationery,File Folder,10,35375.96,0.0
+ORD01180,2025-05-30,Nikhil Singh,Jaipur,Rajasthan,Furniture,Table,3,33280.81,0.15
+ORD00965,2025-09-15,Amit Sharma,Hyderabad,Telangana,Grocery,Biscuits,6,19300.8,0.0
+ORD00793,2025-02-16,Anjali Patel,Chennai,Tamil Nadu,Clothing,Shoes,1,47512.37,0.25
+ORD00030,2025-01-31,Priya Das,Mumbai,Maharashtra,Stationery,File Folder,8,16227.61,0.15
+ORD00629,2025-11-17,Neha Gupta,Mumbai,Maharashtra,Stationery,File Folder,4,19907.78,0.15
+ORD00945,2025-07-04,Nikhil Das,Chennai,Unknown,Electronics,Mobile Phone,8,65408.05,0.1
+ORD00573,2025-02-19,Priya Yadav,Pune,Maharashtra,Grocery,Sugar,7,62031.94,0.2
+ORD00908,2025-04-06,Kavita Yadav,Hyderabad,Telangana,Grocery,Cooking Oil,1,47181.33,0.2
+ORD01081,2025-03-10,MANISH SHARMA,Kolkata,West Bengal,Grocery,Cooking Oil,6,19276.06,0.0
+ORD00451,2025-05-18,Nikhil Patel,Patna,Bihar,Stationery,Marker,4,3934.5,0.15
+ORD01610,2025-10-20,Rohit Singh,Ahmedabad,Gujarat,Electronics,Laptop,7,16568.33,0.0
+ORD01291,2025-08-26,Rahul Sharma,Jaipur,Rajasthan,Grocery,Rice,5,12301.42,0.25
+ORD01079,2025-10-26,Arjun Kumar,Bhopal,Madhya Pradesh,Stationery,File Folder,5,43693.7,0.25
+ORD00255,2025-05-29,Amit Gupta,Ahmedabad,Gujarat,Grocery,Tea,7,61423.72,0.05
+ORD00125,2025-05-31,Anjali Patel,Jaipur,Rajasthan,Furniture,Bookshelf,1,3687.82,0.0
+ORD01928,2025-10-29,Sneha Singh,Bengaluru,Karnataka,Stationery,Calculator,8,29110.52,0.25
+ORD00252,2025-12-13,Manish Gupta,Chennai,Tamil Nadu,Furniture,Unknown,9,25838.94,0.1
+ORD00586,2025-11-24,Pooja Yadav,Ahmedabad,Gujarat,Grocery,Biscuits,10,4545.36,0.05
+ORD01569,2025-05-10,Sneha Patel,Ahmedabad,Gujarat,Grocery,Tea,7,35649.51,0.05
+ORD00825,2025-01-09,Pooja Gupta,Pune,Maharashtra,Furniture,Bookshelf,5,18119.91,0.0
+ORD00508,2025-01-02,Anjali Patel,Bhopal,Madhya Pradesh,Stationery,Notebook,2,57009.17,0.05
+ORD00890,2025-04-02,Vikas Patel,Patna,Bihar,Electronics,Laptop,2,37485.58,0.0
+ORD00071,2025-03-26,Riya Yadav,Jaipur,Rajasthan,Electronics,Keyboard,6,50248.3,0.15
+ORD01609,2025-10-03,Priya Das,Patna,Bihar,Clothing,Kurta,8,74228.6,0.15
+ORD01533,2025-06-09,Sneha Verma,Mumbai,Maharashtra,Furniture,Sofa,2,74499.95,0.0
+ORD00248,2025-11-14,Manish Das,Bhopal,Madhya Pradesh,Electronics,Monitor,8,12995.78,0.25
+ORD01451,2025-12-04,Vikas Kumar,Kolkata,West Bengal,Stationery,Notebook,4,15628.33,0.05
+ORD00213,2025-06-29,Pooja Kumar,Bengaluru,Karnataka,Stationery,Calculator,7,37100.89,0.15
+ORD00910,2025-12-17,Manish Gupta,Lucknow,Uttar Pradesh,Furniture,Bookshelf,8,11293.84,0.05
+ORD01742,2025-12-26,Arjun Verma,Lucknow,Uttar Pradesh,Clothing,T-Shirt,10,17279.88,0.1
+ORD01245,2025-12-23,Amit Yadav,Pune,Maharashtra,Furniture,Office Chair,3,42999.37,0.2
+ORD01697,2025-01-18,Riya Verma,Hyderabad,Telangana,Electronics,Mobile Phone,3,1320.55,0.25
+ORD01183,2025-07-26,Neha Kumar,Lucknow,Uttar Pradesh,Clothing,Kurta,7,72737.09,0.25
+ORD00362,2025-02-17,Sneha Yadav,Bhopal,Madhya Pradesh,Clothing,Shoes,8,24714.87,0.0
+ORD01474,2025-09-05,Kavita Verma,Chennai,Tamil Nadu,Grocery,Sugar,2,68619.0,0.25
+ORD00679,2025-10-08,Pooja Singh,Bhopal,Madhya Pradesh,Grocery,Cooking Oil,4,41095.21,0.1
+ORD01622,2025-03-03,Sneha Kumar,Kolkata,West Bengal,Electronics,Keyboard,5,66280.94,0.2
+ORD01090,2025-06-24,Manish Sharma,Lucknow,Uttar Pradesh,Grocery,Sugar,8,54257.65,0.15
+ORD01988,2025-09-13,Sneha Das,Kolkata,West Bengal,Stationery,Marker,6,70510.52,0.1
+ORD01848,2025-08-31,Neha Verma,Kolkata,West Bengal,Furniture,Bookshelf,3,27442.74,0.0
+ORD00988,2025-02-24,Manish Sharma,Bhopal,Madhya Pradesh,Electronics,Keyboard,8,72207.87,0.0
+ORD01513,2025-03-22,Rohit Gupta,Lucknow,Uttar Pradesh,Electronics,Monitor,7,59402.92,0.0
+ORD00112,2025-05-03,Sneha Singh,Jaipur,Rajasthan,Stationery,Notebook,1,72992.72,0.2
+ORD01488,2025-02-20,Anjali Gupta,Kolkata,West Bengal,Grocery,Biscuits,10,65998.88,0.1
+ORD01454,2025-12-14,Rohit Yadav,Bhopal,Madhya Pradesh,Electronics,Laptop,9,29261.26,0.25
+ORD00384,2025-01-06,Priya Yadav,Bengaluru,Karnataka,Furniture,Office Chair,1,53165.57,0.25
+ORD01396,2025-05-14,nikhil gupta,Chennai,Tamil Nadu,Furniture,Sofa,7,30083.74,0.0
+ORD01055,2025-02-03,Rahul Kumar,Patna,Bihar,Stationery,Notebook,5,45902.71,0.15
+ORD00756,2025-12-27,Suresh Patel,Bengaluru,Karnataka,Electronics,Headphones,9,72600.49,0.0
+ORD00325,2025-08-23,Rahul Singh,Chennai,Tamil Nadu,Clothing,Jeans,8,44637.03,0.05
+ORD01624,2025-03-16,Riya Gupta,Bhopal,Madhya Pradesh,Grocery,Tea,7,37100.89,0.0
+ORD00788,2025-04-22,Kavita Sharma,Hyderabad,Telangana,Stationery,Notebook,3,40662.25,0.15
+ORD00369,2025-12-15,Pooja Kumar,Pune,Maharashtra,Stationery,Notebook,3,44627.54,0.2
+ORD01820,2025-02-06,Priya Yadav,Delhi,Delhi,Electronics,Laptop,6,65294.43,0.2
+ORD00070,2025-04-23,Rohit Das,Kolkata,West Bengal,Grocery,Sugar,10,67361.4,0.15
+ORD00858,2025-08-26,Neha Kumar,Patna,Bihar,Clothing,Kurta,5,37184.01,0.25
+ORD01484,2025-07-14,Anjali Yadav,Patna,Bihar,Grocery,Sugar,6,50624.56,0.15
+ORD01556,2025-06-24,Pooja Sharma,Mumbai,Maharashtra,Electronics,Headphones,5,42151.81,0.0
+ORD01692,2025-11-11,Arjun Sharma,Jaipur,Rajasthan,Clothing,Jeans,6,49313.98,0.1
+ORD01475,2025-10-03,Neha Das,Jaipur,Rajasthan,Stationery,Pen Set,10,62129.63,0.05
+ORD01799,2025-12-15,Kavita Singh,Patna,Bihar,Furniture,Sofa,10,50107.77,0.1
+ORD00479,2025-04-26,Sneha Patel,Lucknow,Uttar Pradesh,Furniture,Office Chair,1,47094.85,0.05
+ORD00282,2025-02-27,Amit Das,Chennai,Tamil Nadu,Furniture,Bookshelf,4,70321.42,0.25
+ORD01648,2025-08-29,Pooja Singh,Delhi,Delhi,Furniture,Sofa,1,24110.76,0.2
+ORD01557,2025-02-14,Priya Patel,Ahmedabad,Gujarat,Stationery,Notebook,2,68871.33,0.05
+ORD01730,2025-04-06,Manish Das,Delhi,Delhi,Electronics,Keyboard,6,46729.53,0.25
+ORD00211,2025-08-06,Rahul Das,Bhopal,Madhya Pradesh,Stationery,Marker,9,20187.37,0.0
+ORD00298,2025-06-18,Neha Das,Lucknow,Uttar Pradesh,Grocery,Sugar,7,22315.62,0.05
+ORD01885,2025-11-03,Anjali Yadav,Lucknow,Uttar Pradesh,Stationery,Pen Set,1,21667.15,0.0
+ORD01834,2025-03-13,Manish Patel,Jaipur,Rajasthan,Furniture,Desk,7,31614.89,0.0
+ORD00652,2025-05-12,Amit Patel,Ahmedabad,Gujarat,Stationery,File Folder,9,46891.79,0.2
+ORD01234,2025-06-14,Neha Gupta,Chennai,Tamil Nadu,Electronics,Mobile Phone,1,290.06,0.25
+ORD01503,2025-05-07,Arjun Das,Pune,Maharashtra,Electronics,Headphones,7,72709.82,0.1
+ORD01932,2025-11-10,Nikhil Singh,Bengaluru,Karnataka,Clothing,Kurta,7,50308.93,0.05
+ORD00917,2025-09-26,Rohit Yadav,Ahmedabad,Gujarat,Grocery,Rice,9,49900.23,0.2
+ORD00994,2025-09-22,Rahul Sharma,Jaipur,Rajasthan,Grocery,Biscuits,1,33332.76,0.0
+ORD00430,2025-10-23,Arjun Verma,Jaipur,Rajasthan,Stationery,Marker,9,28307.23,0.15
+ORD01371,2025-01-28,Pooja Gupta,Pune,Maharashtra,Furniture,Sofa,9,32455.92,0.1
+ORD00240,2025-10-19,Suresh Verma,Bhopal,Madhya Pradesh,Clothing,Shoes,6,3631.87,0.0
+ORD00880,2025-06-10,Rahul Yadav,Kolkata,West Bengal,Stationery,Pen Set,9,17259.68,0.0
+ORD00621,2025-05-26,Pooja Singh,Ahmedabad,Gujarat,Furniture,Office Chair,7,23375.46,0.05
+ORD00257,2025-10-28,Neha Verma,Lucknow,Uttar Pradesh,Clothing,Kurta,5,10511.15,0.2
+ORD00612,2025-06-26,Amit Das,Bengaluru,Karnataka,Clothing,Jacket,9,41922.49,0.1
+ORD00545,2025-06-06,Neha Patel,Ahmedabad,Gujarat,Grocery,Tea,9,41177.53,0.0
+ORD00772,2025-03-19,Arjun Yadav,Bengaluru,Karnataka,Clothing,T-Shirt,2,45385.66,0.2
+ORD01420,2025-12-14,Pooja Patel,Patna,Bihar,Furniture,Desk,2,49978.26,0.15
+ORD01042,2025-04-30,Pooja Patel,Pune,Maharashtra,Electronics,Monitor,5,60678.98,0.05
+ORD01790,2025-04-25,Priya Gupta,Chennai,Tamil Nadu,Stationery,File Folder,3,34203.18,0.1
+ORD00760,2025-03-15,Sneha Yadav,Hyderabad,Telangana,Furniture,Desk,1,5613.01,0.0
+ORD00383,2025-03-01,Pooja Kumar,Bengaluru,Karnataka,Stationery,Pen Set,1,18524.86,0.15
+ORD01104,2025-08-01,Neha Singh,Bengaluru,Karnataka,Stationery,Marker,5,29484.0,0.1
+ORD00974,2025-10-27,Neha Verma,Bhopal,Madhya Pradesh,Stationery,File Folder,8,1717.18,0.15
+ORD00353,2025-07-07,Suresh Kumar,Lucknow,Uttar Pradesh,Grocery,Rice,10,8786.95,0.2
+ORD01606,2025-06-26,Rahul Verma,Kolkata,West Bengal,Electronics,Monitor,6,47445.96,0.2
+ORD01826,2025-04-27,Priya Das,Bhopal,Madhya Pradesh,Electronics,Laptop,4,14231.84,0.1
+ORD01037,2025-11-08,Pooja Kumar,Ahmedabad,Gujarat,Clothing,T-Shirt,3,48571.64,0.0
+ORD01108,2025-04-17,Suresh Kumar,Delhi,Delhi,Grocery,Biscuits,7,33957.46,0.1
+ORD00495,2025-07-17,Sneha Yadav,Mumbai,Maharashtra,Electronics,Keyboard,7,72182.67,0.1
+ORD00394,2025-05-06,Priya Kumar,Chennai,Tamil Nadu,Grocery,Tea,4,55001.63,0.2
+ORD01547,2025-11-07,Rohit Kumar,Chennai,Tamil Nadu,Electronics,Headphones,5,37833.8,0.0
+ORD00465,2025-11-24,Anjali Gupta,Bengaluru,Karnataka,Electronics,Keyboard,2,25387.2,0.1
+ORD00887,2025-10-25,Kavita Gupta,Delhi,Delhi,Furniture,Sofa,8,21069.25,0.25
+ORD01194,2025-11-07,Suresh Verma,Mumbai,Maharashtra,Grocery,Tea,6,39319.3,0.1
+ORD00367,2025-12-07,Nikhil Singh,Mumbai,Maharashtra,Clothing,T-Shirt,6,18966.6,0.1
+ORD01894,2025-04-26,Arjun Yadav,Pune,Maharashtra,Grocery,Biscuits,7,37100.89,0.0
+ORD01874,2025-03-26,Nikhil Yadav,Bhopal,Madhya Pradesh,Stationery,Marker,8,73821.15,0.2
+ORD00745,2025-05-25,Manish Patel,Delhi,Delhi,Stationery,Notebook,6,36029.24,0.05
+ORD00530,2025-06-12,Suresh Verma,Jaipur,Rajasthan,Grocery,Sugar,6,5697.84,0.25
+ORD00803,2025-01-24,Kavita Singh,Chennai,Tamil Nadu,Electronics,Monitor,9,10515.37,0.05
+ORD01224,2025-12-16,Sneha Singh,Jaipur,Rajasthan,Clothing,T-Shirt,7,36807.82,0.15
+ORD01979,2025-09-07,Vikas Kumar,Bengaluru,Karnataka,Clothing,T-Shirt,9,44025.18,0.15
+ORD01906,2025-12-23,Kavita Das,Lucknow,Uttar Pradesh,Stationery,Notebook,9,13797.19,0.1
+ORD01700,2025-05-11,Anjali Yadav,Hyderabad,Telangana,Grocery,Biscuits,6,74752.26,0.05
+ORD01545,2025-04-08,Vikas Patel,Chennai,Tamil Nadu,Stationery,Marker,7,16230.05,0.2
+ORD01314,2025-04-07,Vikas Singh,Jaipur,Rajasthan,Furniture,Sofa,10,7534.09,0.05
+ORD00307,2025-06-03,Arjun Sharma,Kolkata,West Bengal,Stationery,Calculator,4,74269.92,0.05
+ORD01667,2025-10-03,Pooja Gupta,Ahmedabad,Gujarat,Stationery,Notebook,9,65512.8,0.1
+ORD00863,2025-07-04,Vikas Patel,Chennai,Tamil Nadu,Stationery,Pen Set,6,12457.34,0.1
+ORD01567,2025-04-06,Nikhil Patel,Mumbai,Maharashtra,Stationery,File Folder,6,25416.22,0.0
+ORD00531,2025-10-02,Vikas Sharma,Mumbai,Maharashtra,Grocery,Rice,9,12162.94,0.2
+ORD00655,2025-02-09,Neha Sharma,Ahmedabad,Gujarat,Clothing,Kurta,1,55138.95,0.1
+ORD01260,2025-05-05,Amit Gupta,Ahmedabad,Gujarat,Stationery,Pen Set,5,25048.78,0.05
+ORD00234,2025-10-15,Rahul Patel,Bhopal,Madhya Pradesh,Clothing,Shoes,3,57109.71,0.2
+ORD00121,2025-07-29,Riya Singh,Unknown,Rajasthan,Electronics,Monitor,8,1397.23,0.05
+ORD01698,2025-06-26,Neha Das,Mumbai,Maharashtra,Stationery,Marker,1,43013.48,0.15
+ORD00950,2025-09-18,Riya Gupta,Delhi,Delhi,Furniture,Bookshelf,3,37100.89,0.25
+ORD00618,2025-03-27,Priya Kumar,Jaipur,Rajasthan,Clothing,Kurta,9,72423.07,0.15
+ORD01179,2025-01-28,Riya Gupta,Bhopal,Madhya Pradesh,Grocery,Tea,2,10034.83,0.2
+ORD00308,2025-09-01,Amit Kumar,Hyderabad,Telangana,Electronics,Laptop,7,28599.99,0.2
+ORD00136,2025-02-28,Pooja Sharma,Mumbai,Maharashtra,Clothing,Shoes,5,56055.31,0.1
+ORD00555,2025-10-10,Rohit Yadav,Ahmedabad,Gujarat,Grocery,Tea,10,16153.86,0.0
+ORD01674,2025-11-05,Riya Kumar,Mumbai,Maharashtra,Furniture,Bookshelf,3,7792.01,0.2
+ORD00584,2025-11-04,Vikas Sharma,Mumbai,Maharashtra,Stationery,Notebook,2,61788.35,0.15
+ORD01641,2025-10-25,Pooja Yadav,Lucknow,Uttar Pradesh,Clothing,T-Shirt,4,17262.07,0.2
+ORD00671,2025-09-01,Kavita Kumar,Kolkata,West Bengal,Clothing,Shoes,3,10131.13,0.0
+ORD00835,2025-02-14,Rahul Das,Jaipur,Rajasthan,Grocery,Biscuits,2,14329.43,0.15
+ORD00110,2025-04-07,Suresh Patel,Kolkata,West Bengal,Grocery,Rice,9,34782.73,0.0
+ORD01165,2025-07-16,Manish Gupta,Delhi,Delhi,Stationery,Notebook,3,69693.01,0.1
+ORD01960,2025-01-09,Manish Verma,Bengaluru,Karnataka,Grocery,Tea,7,67145.42,0.05
+ORD01465,2025-07-10,Riya Das,Delhi,Delhi,Grocery,Rice,4,15502.13,0.2
+ORD01729,2025-04-27,Anjali Gupta,Mumbai,Maharashtra,Stationery,Notebook,6,26547.4,0.2
+ORD01243,2025-09-11,Arjun Sharma,Patna,Bihar,Grocery,Rice,4,55618.46,0.15
+ORD00212,2025-06-17,Arjun Gupta,Ahmedabad,Gujarat,Furniture,Table,5,24260.55,0.0
+ORD01768,2025-09-18,Anjali Kumar,Lucknow,Uttar Pradesh,Electronics,Keyboard,9,39417.84,0.05
+ORD01121,2025-01-23,Rahul Verma,Jaipur,Rajasthan,Furniture,Office Chair,5,48833.39,0.1
+ORD00680,2025-01-23,Rohit Singh,Bhopal,Madhya Pradesh,Electronics,Keyboard,10,67976.51,0.2
+ORD01951,2025-05-21,Neha Gupta,Mumbai,Maharashtra,Stationery,Pen Set,4,23737.33,0.15
+ORD01839,2025-05-29,Priya Verma,Chennai,Tamil Nadu,Electronics,Laptop,6,53025.3,0.2
+ORD00412,2025-05-08,Arjun Kumar,Kolkata,West Bengal,Furniture,Sofa,4,48288.28,0.2
+ORD01325,2025-06-12,Anjali Singh,Patna,Bihar,Furniture,Bookshelf,9,61547.57,0.2
+ORD00783,2025-02-14,Riya Singh,Ahmedabad,Gujarat,Furniture,Table,2,53178.61,0.0
+ORD01346,2025-05-31,Kavita Patel,Jaipur,Rajasthan,Furniture,Office Chair,9,19166.51,0.15
+ORD00875,2025-12-10,Anjali Kumar,Delhi,Delhi,Grocery,Cooking Oil,10,67612.82,0.05
+ORD01653,2025-07-09,Priya Gupta,Bhopal,Madhya Pradesh,Clothing,Jeans,5,35530.63,0.1
+ORD01279,2025-01-07,Rohit Sharma,Jaipur,Rajasthan,Stationery,Marker,8,58659.42,0.25
+ORD00786,2025-05-13,Riya Gupta,Delhi,Delhi,Clothing,T-Shirt,7,29297.13,0.0
+ORD01819,2025-05-02,Manish Sharma,Pune,Maharashtra,Electronics,Mobile Phone,6,5105.7,0.2
+ORD01199,2025-03-20,Anjali Das,Bhopal,Madhya Pradesh,Clothing,Kurta,9,45469.62,0.15
+ORD00808,2025-09-13,Kavita Sharma,Pune,Maharashtra,Furniture,Table,1,44821.33,0.25
+ORD00713,2025-01-26,Rahul Das,Hyderabad,Telangana,Grocery,Sugar,5,25000.55,0.0
+ORD01991,2025-11-16,Pooja Sharma,Kolkata,West Bengal,Grocery,Biscuits,5,6314.41,0.05
+ORD01660,2025-05-26,Rahul Yadav,Delhi,Delhi,Electronics,Headphones,5,40457.7,0.1
+ORD01191,2025-02-14,Suresh Gupta,Delhi,Delhi,Electronics,Mobile Phone,10,15665.69,0.05
+ORD01226,2025-08-08,Kavita Kumar,Chennai,Tamil Nadu,Grocery,Rice,4,4139.98,0.1
+ORD00603,2025-06-11,Sneha Kumar,Kolkata,West Bengal,Furniture,Sofa,2,52443.78,0.15
+ORD00271,2025-10-03,Manish Verma,Bhopal,Madhya Pradesh,Grocery,Biscuits,7,52720.07,0.15
+ORD01385,2025-04-23,Arjun Singh,Delhi,Delhi,Clothing,Kurta,1,11305.55,0.15
+ORD00232,2025-01-31,Priya Yadav,Jaipur,Rajasthan,Furniture,Sofa,5,34152.42,0.25
+ORD00050,2025-06-29,Arjun Das,Kolkata,West Bengal,Clothing,Jacket,2,72524.96,0.1
+ORD00463,2025-06-04,Arjun Das,Kolkata,West Bengal,Stationery,Marker,8,19086.9,0.15
+ORD01106,2025-10-03,Rohit Sharma,Kolkata,West Bengal,Electronics,Mobile Phone,3,20714.78,0.25
+ORD00856,2025-05-20,Unknown,Delhi,Delhi,Grocery,Tea,2,744.76,0.25
+ORD00694,2025-09-02,Priya Yadav,Ahmedabad,Gujarat,Furniture,Desk,1,27104.78,0.25
+ORD01552,2025-12-02,Kavita Kumar,Chennai,Tamil Nadu,Electronics,Monitor,5,73759.41,0.05
+ORD01873,2025-06-20,Neha Yadav,Pune,Maharashtra,Grocery,Rice,5,1173.94,0.05
+ORD00527,2025-07-13,Amit Das,Hyderabad,Telangana,Electronics,Mobile Phone,3,55197.19,0.0
+ORD00174,2025-06-20,Manish Singh,Lucknow,Uttar Pradesh,Electronics,Keyboard,5,55998.91,0.05
+ORD00721,2025-08-27,Arjun Sharma,Ahmedabad,Gujarat,Furniture,Bookshelf,4,368.17,0.0
+ORD00415,2025-03-23,Rahul Verma,Patna,Bihar,Stationery,Calculator,6,57571.45,0.05
+ORD00238,2025-01-25,Amit Gupta,Kolkata,West Bengal,Grocery,Tea,4,16332.05,0.1
+ORD01473,2025-07-29,Anjali Sharma,Pune,Maharashtra,Stationery,Marker,2,52057.22,0.15
+ORD01336,2025-04-18,Arjun Das,Patna,Bihar,Stationery,Notebook,8,71951.48,0.0
+ORD01064,2025-12-22,Sneha Yadav,Hyderabad,Telangana,Furniture,Office Chair,6,14404.33,0.15
+ORD00024,2025-02-06,Suresh Verma,Delhi,Delhi,Electronics,Mobile Phone,2,67930.15,0.1
+ORD01767,2025-07-17,Neha Patel,Hyderabad,Telangana,Clothing,T-Shirt,9,2340.24,0.1
+ORD00064,2025-08-17,Nikhil Singh,Jaipur,Rajasthan,Grocery,Sugar,7,62335.05,0.2
+ORD00290,2025-06-19,Arjun Sharma,Lucknow,Uttar Pradesh,Grocery,Cooking Oil,7,18403.67,0.05
+ORD00189,2025-09-17,Manish Kumar,Mumbai,Maharashtra,Furniture,Office Chair,5,63371.02,0.0
+ORD00702,2025-02-16,Sneha Sharma,Bhopal,Madhya Pradesh,Grocery,Cooking Oil,8,62284.54,0.15
+ORD01815,2025-12-22,Arjun Gupta,Bengaluru,Karnataka,Stationery,Pen Set,8,28656.27,0.0
+ORD01138,2025-01-03,Amit Patel,Delhi,Delhi,Clothing,Jeans,8,14879.75,0.05
+ORD00355,2025-08-13,Riya Sharma,Bengaluru,Karnataka,Electronics,Keyboard,5,26306.13,0.0
+ORD00417,2025-06-12,Manish Patel,Ahmedabad,Gujarat,Stationery,Marker,3,13413.5,0.2
+ORD01246,2025-12-29,Rohit Sharma,Lucknow,Uttar Pradesh,Grocery,Biscuits,5,63972.51,0.1
+ORD00931,2025-07-08,Priya Das,Hyderabad,Telangana,Grocery,Biscuits,5,15100.11,0.15
+ORD00197,2025-02-20,Riya Patel,Pune,Maharashtra,Stationery,Notebook,6,17034.27,0.1
+ORD00580,2025-12-15,Vikas Verma,Bengaluru,Karnataka,Grocery,Tea,10,27581.9,0.1
+ORD01135,2025-08-05,Suresh Das,Delhi,Delhi,Clothing,Shoes,7,12790.51,0.15
+ORD01814,2025-01-06,Sneha Kumar,Chennai,Tamil Nadu,Grocery,Rice,3,65434.99,0.2
+ORD01935,2025-09-05,Sneha Gupta,Ahmedabad,Gujarat,Clothing,Jeans,8,28281.15,0.15
+ORD00434,2025-10-04,Rohit Gupta,Chennai,Tamil Nadu,Furniture,Desk,7,52365.45,0.25
+ORD00101,2025-10-29,Unknown,Bhopal,Madhya Pradesh,Stationery,Notebook,4,69312.35,0.25
+ORD01655,2025-08-22,Manish Gupta,Patna,Bihar,Stationery,Notebook,7,26682.49,0.05
+ORD00395,2025-01-05,Anjali Kumar,Kolkata,West Bengal,Electronics,Mobile Phone,9,26145.17,0.25
+ORD01939,2025-03-04,Anjali Kumar,Jaipur,Rajasthan,Stationery,File Folder,6,9178.5,0.05
+ORD00221,2025-03-22,Sneha Singh,Hyderabad,Telangana,Clothing,T-Shirt,9,40777.31,0.1
+ORD01676,2025-04-22,Manish Patel,Pune,Maharashtra,Clothing,Jeans,7,74327.52,0.05
+ORD01498,2025-09-12,Rohit Singh,Bengaluru,Karnataka,Stationery,Pen Set,8,61086.7,0.25
+ORD01785,2025-09-23,Suresh Kumar,Lucknow,Uttar Pradesh,Clothing,T-Shirt,2,51436.02,0.15
+ORD00345,2025-06-30,Riya Yadav,Ahmedabad,Gujarat,Stationery,Calculator,7,44128.6,0.1
+ORD01028,2025-01-15,Vikas Verma,Patna,Bihar,Clothing,Shoes,9,30678.97,0.15
+ORD00889,2025-04-29,Arjun Singh,Mumbai,Maharashtra,Stationery,Notebook,2,18989.07,0.15
+ORD01351,2025-04-11,Amit Yadav,Ahmedabad,Gujarat,Stationery,File Folder,6,61051.24,0.05
+ORD00553,2025-05-24,Riya Singh,Jaipur,Rajasthan,Grocery,Rice,3,48504.98,0.0
+ORD00744,2025-08-21,Pooja Kumar,Chennai,Tamil Nadu,Stationery,Pen Set,6,59211.21,0.1
+ORD01542,2025-06-12,Suresh Sharma,Kolkata,West Bengal,Stationery,File Folder,6,23554.2,0.2
+ORD00539,2025-05-13,Vikas Das,Mumbai,Maharashtra,Clothing,Kurta,2,43228.43,0.05
+ORD00907,2025-11-16,Suresh Yadav,Kolkata,West Bengal,Grocery,Biscuits,4,31219.99,0.1
+ORD01395,2025-04-23,Amit Yadav,Mumbai,Maharashtra,Furniture,Sofa,10,68889.92,0.1
+ORD00116,2025-05-17,Riya Kumar,Delhi,Delhi,Clothing,Shoes,6,70085.07,0.2
+ORD00830,2025-07-07,Anjali Singh,Patna,Bihar,Electronics,Keyboard,6,35035.13,0.0
+ORD01938,2025-11-18,Pooja Sharma,Lucknow,Uttar Pradesh,Grocery,Tea,4,20111.17,0.15
+ORD00809,2025-09-04,Rahul Sharma,Hyderabad,Telangana,Clothing,Jacket,7,591.61,0.05
+ORD01311,2025-10-15,Manish Verma,Bhopal,Madhya Pradesh,Stationery,Marker,10,29338.06,0.0
+ORD01005,2025-02-23,Anjali Verma,Hyderabad,Telangana,Grocery,Cooking Oil,7,39095.08,0.05
+ORD00306,2025-07-23,Rahul Patel,Unknown,Maharashtra,Grocery,Sugar,5,61187.28,0.1
+ORD01101,2025-12-17,Pooja Gupta,Mumbai,Maharashtra,Grocery,Sugar,5,44165.02,0.2
+ORD00480,2025-03-27,Rahul Kumar,Bengaluru,Karnataka,Furniture,Office Chair,7,37874.4,0.1
+ORD01424,2025-04-14,Sneha Singh,Pune,Maharashtra,Clothing,Shoes,8,50993.96,0.1
+ORD01076,2025-10-27,Nikhil Yadav,Chennai,Tamil Nadu,Furniture,Office Chair,5,65495.65,0.2
+ORD00571,2025-05-16,Priya Patel,Ahmedabad,Gujarat,Furniture,Table,3,46835.08,0.2
+ORD00619,2025-02-22,Rahul Sharma,Mumbai,Maharashtra,Furniture,Bookshelf,2,15990.22,0.15
+ORD01898,2025-12-05,Vikas Kumar,Delhi,Delhi,Clothing,Shoes,2,31788.34,0.1
+ORD01266,2025-06-04,Kavita Gupta,Ahmedabad,Gujarat,Furniture,Sofa,3,67010.54,0.25
+ORD00079,2025-02-08,Kavita Verma,Bengaluru,Karnataka,Grocery,Tea,7,70624.93,0.05
+ORD01912,2025-12-22,Anjali Sharma,Jaipur,Rajasthan,Stationery,Marker,7,1785.19,0.2
+ORD00033,2025-03-22,Amit Sharma,Patna,Bihar,Electronics,Monitor,8,37838.07,0.2
+ORD01538,2025-11-06,Rohit Yadav,Mumbai,Maharashtra,Grocery,Sugar,7,24929.47,0.2
+ORD01034,2025-07-22,Sneha Sharma,Patna,Bihar,Furniture,Table,10,5477.66,0.0
+ORD01563,2025-09-15,Suresh Gupta,Bhopal,Madhya Pradesh,Stationery,Marker,5,15756.66,0.25
+ORD00352,2025-08-23,Kavita Yadav,Bengaluru,Karnataka,Electronics,Headphones,4,40436.24,0.05
+ORD00164,2025-03-22,Anjali Gupta,Bhopal,Madhya Pradesh,Grocery,Cooking Oil,7,31632.48,0.1
+ORD00204,2025-08-29,Amit Das,Lucknow,Uttar Pradesh,Grocery,Sugar,9,41672.86,0.15
+ORD01054,2025-02-03,Manish Singh,Delhi,Delhi,Electronics,Laptop,7,23667.64,0.25
+ORD01365,2025-06-24,Neha Patel,Hyderabad,Telangana,Furniture,Sofa,6,14296.83,0.0
+ORD01967,2025-09-26,Pooja Patel,Lucknow,Uttar Pradesh,Stationery,File Folder,9,40724.8,0.15
+ORD00496,2025-03-23,Rahul Das,Kolkata,West Bengal,Furniture,Office Chair,3,52288.7,0.0
+ORD01625,2025-03-14,Nikhil Verma,Ahmedabad,Gujarat,Electronics,Mobile Phone,6,31113.76,0.1
+ORD01966,2025-01-01,Rohit Yadav,Mumbai,Maharashtra,Grocery,Rice,2,73718.51,0.05
+ORD01963,2025-09-16,Nikhil Kumar,Chennai,Unknown,Furniture,Bookshelf,9,61044.61,0.2
+ORD00611,2025-08-19,Sneha Patel,Patna,Bihar,Furniture,Bookshelf,8,62963.14,0.0
+ORD00433,2025-03-22,Amit Sharma,Bhopal,Unknown,Electronics,Keyboard,3,45646.99,0.15
+ORD01492,2025-09-24,Priya Yadav,Chennai,Tamil Nadu,Furniture,Bookshelf,10,32131.07,0.15
+ORD00219,2025-11-10,Rohit Yadav,Lucknow,Uttar Pradesh,Electronics,Headphones,5,52876.83,0.05
+ORD01931,2025-06-21,Suresh Das,Pune,Maharashtra,Grocery,Cooking Oil,6,72932.47,0.05
+ORD01466,2025-07-04,Anjali Das,Delhi,Delhi,Stationery,Marker,3,2095.92,0.2
+ORD00631,2025-09-09,Neha Patel,Delhi,Delhi,Stationery,Calculator,8,20592.03,0.2
+ORD01382,2025-03-17,Manish Sharma,Patna,Bihar,Grocery,Biscuits,4,39513.87,0.05
+ORD01302,2025-08-27,Pooja Yadav,Delhi,Delhi,Furniture,Sofa,8,50269.0,0.1
+ORD00060,2025-11-09,Riya Sharma,Pune,Maharashtra,Furniture,Office Chair,1,18551.98,0.15
+ORD00299,2025-06-22,Rohit Yadav,Ahmedabad,Gujarat,Furniture,Sofa,9,49181.95,0.25
+ORD01711,2025-02-06,Neha Gupta,Hyderabad,Telangana,Stationery,File Folder,10,14704.5,0.1
+ORD00074,2025-05-10,Riya Sharma,Jaipur,Rajasthan,Clothing,Jacket,7,21049.68,0.15
+ORD00163,2025-11-21,Amit Sharma,Mumbai,Maharashtra,Furniture,Table,7,5451.51,0.25
+ORD01275,2025-03-12,Rahul Singh,Lucknow,Uttar Pradesh,Stationery,Pen Set,4,62129.68,0.0
+ORD01594,2025-09-26,Kavita Yadav,Kolkata,West Bengal,Clothing,Jacket,8,51752.15,0.05
+ORD01434,2025-12-06,Nikhil Kumar,Patna,Bihar,Furniture,Desk,9,61302.99,0.1
+ORD01613,2025-07-24,Rohit Kumar,Jaipur,Rajasthan,Stationery,Marker,8,11983.34,0.05
+ORD00592,2025-06-24,Rahul Gupta,Kolkata,West Bengal,Grocery,Rice,10,5660.85,0.1
+ORD00317,2025-05-07,Sneha Sharma,Hyderabad,Telangana,Grocery,Tea,2,57969.51,0.1
+ORD00046,2025-11-14,Sneha Singh,Hyderabad,Telangana,Electronics,Headphones,9,66339.07,0.15
+ORD01720,2025-08-11,Arjun Gupta,Delhi,Delhi,Stationery,Pen Set,10,37249.46,0.2
+ORD01832,2025-01-22,Sneha Patel,Jaipur,Rajasthan,Clothing,Kurta,4,17301.34,0.05
+ORD00428,2025-12-21,Rahul Patel,Bhopal,Madhya Pradesh,Clothing,Shoes,1,20074.63,0.05
+ORD00582,2025-03-02,Sneha Verma,Bengaluru,Karnataka,Grocery,Biscuits,7,55249.74,0.25
+ORD00077,2025-12-25,Rohit Patel,Mumbai,Maharashtra,Stationery,Notebook,10,71094.84,0.15
+ORD01917,2025-03-10,Sneha Das,Delhi,Delhi,Grocery,Rice,4,15382.93,0.1
+ORD01415,2025-05-22,Amit Singh,Patna,Bihar,Clothing,Jeans,8,66211.21,0.15
+ORD00781,2025-09-26,Rahul Yadav,Lucknow,Uttar Pradesh,Electronics,Laptop,2,1144.12,0.0
+ORD01920,2025-02-20,Priya Das,Jaipur,Rajasthan,Unknown,Desk,5,36001.09,0.05
+ORD01174,2025-05-21,Riya Yadav,Ahmedabad,Gujarat,Clothing,Jacket,9,74277.55,0.0
+ORD01320,2025-11-16,Nikhil Sharma,Delhi,Delhi,Electronics,Monitor,7,7999.73,0.25
+ORD00938,2025-11-28,Pooja Sharma,Pune,Maharashtra,Grocery,Tea,4,27880.42,0.25
+ORD00031,2025-10-12,Arjun Yadav,Patna,Bihar,Stationery,Marker,8,21572.38,0.25
+ORD01092,2025-09-13,Manish Patel,Mumbai,Maharashtra,Grocery,Cooking Oil,5,70765.71,0.0
+ORD01616,2025-03-27,Kavita Yadav,Ahmedabad,Gujarat,Grocery,Tea,1,24545.27,0.05
+ORD01230,2025-01-20,Rohit Verma,Pune,Maharashtra,Grocery,Cooking Oil,4,9254.47,0.15
+ORD00975,2025-11-19,Riya Das,Bengaluru,Karnataka,Grocery,Tea,1,25205.29,0.0
+ORD01085,2025-04-27,Rahul Sharma,Bengaluru,Karnataka,Grocery,Sugar,9,48363.17,0.1
+ORD00515,2025-05-31,Pooja Singh,Kolkata,West Bengal,Grocery,Cooking Oil,5,29990.78,0.1
+ORD01551,2025-01-29,Pooja Kumar,Bhopal,Madhya Pradesh,Furniture,Desk,2,31613.05,0.0
+ORD01568,2025-08-13,Manish Yadav,Bengaluru,Karnataka,Furniture,Sofa,9,14165.51,0.0
+ORD01811,2025-05-10,Neha Gupta,Patna,Unknown,Grocery,Sugar,7,74379.71,0.1
+ORD01574,2025-04-15,Vikas Sharma,Pune,Maharashtra,Furniture,Bookshelf,5,6258.05,0.05
+ORD00045,2025-07-03,Neha Verma,Mumbai,Maharashtra,Electronics,Headphones,6,67448.87,0.0
+ORD01687,2025-07-26,Arjun Patel,Chennai,Tamil Nadu,Electronics,Mobile Phone,1,37442.27,0.1
+ORD00169,2025-01-04,Pooja Das,Bengaluru,Karnataka,Furniture,Desk,5,21886.17,0.0
+ORD00304,2025-05-21,Unknown,Lucknow,Uttar Pradesh,Grocery,Tea,1,1500.28,0.25
+ORD00991,2025-01-04,Neha Yadav,Chennai,Tamil Nadu,Furniture,Office Chair,4,37100.89,0.15
+ORD00556,2025-05-29,Priya Yadav,Hyderabad,Telangana,Furniture,Bookshelf,7,16942.17,0.2
+ORD01925,2025-02-08,Vikas Kumar,Hyderabad,Telangana,Furniture,Desk,10,39214.07,0.15
+ORD00608,2025-04-11,Priya Singh,Bhopal,Madhya Pradesh,Clothing,Jeans,9,32558.35,0.15
+ORD01619,2025-05-06,Arjun Yadav,Bengaluru,Karnataka,Electronics,Laptop,4,43425.77,0.15
+ORD00758,2025-12-06,Priya Yadav,Bhopal,Madhya Pradesh,Stationery,File Folder,7,32780.46,0.05
+ORD00439,2025-05-15,Pooja Yadav,Mumbai,Maharashtra,Clothing,Shoes,6,14197.07,0.0
+ORD00583,2025-10-09,Kavita Kumar,Jaipur,Rajasthan,Furniture,Office Chair,4,38248.68,0.1
+ORD01519,2025-05-26,Nikhil Verma,Kolkata,West Bengal,Electronics,Mobile Phone,7,42184.47,0.15
+ORD00528,2025-01-03,Anjali Yadav,Bengaluru,Karnataka,Grocery,Biscuits,3,12279.43,0.1
+ORD00343,2025-04-06,Anjali Patel,Pune,Maharashtra,Clothing,T-Shirt,10,7855.97,0.2
+ORD01737,2025-03-16,Amit Gupta,Bhopal,Madhya Pradesh,Furniture,Desk,4,33166.6,0.05
+ORD00368,2025-12-27,Rahul Kumar,Patna,Bihar,Stationery,Marker,4,32335.01,0.0
+ORD00186,2025-06-08,Suresh Das,Bengaluru,Karnataka,Stationery,Pen Set,10,53235.34,0.0
+ORD01117,2025-03-27,Sneha Singh,Pune,Maharashtra,Electronics,Mobile Phone,2,59820.08,0.25
+ORD01755,2025-03-30,Neha Yadav,Kolkata,West Bengal,Clothing,T-Shirt,10,42361.51,0.0
+ORD01426,2025-10-07,Riya Sharma,Patna,Bihar,Furniture,Office Chair,6,58135.33,0.2
+ORD00301,2025-12-09,Amit Kumar,Mumbai,Maharashtra,Grocery,Rice,9,2778.33,0.0
+ORD01904,2025-01-18,Anjali Gupta,Jaipur,Rajasthan,Stationery,Marker,4,45369.75,0.15
+ORD00833,2025-01-28,Rahul Patel,Chennai,Tamil Nadu,Clothing,Jacket,9,51096.95,0.1
+ORD00544,2025-05-03,Amit Kumar,Bengaluru,Karnataka,Clothing,T-Shirt,9,65638.83,0.05
+ORD01601,2025-03-08,Rohit Gupta,Patna,Bihar,Stationery,Pen Set,1,58708.28,0.25
+ORD00351,2025-10-17,Amit Verma,Kolkata,West Bengal,Stationery,File Folder,8,36780.29,0.0
+ORD01933,2025-06-14,Neha Yadav,Bhopal,Madhya Pradesh,Clothing,Jeans,6,53518.42,0.2
+ORD01511,2025-04-28,Rohit Singh,Lucknow,Uttar Pradesh,Furniture,Desk,9,29815.59,0.25
+ORD00979,2025-08-18,Sneha Das,Jaipur,Rajasthan,Electronics,Keyboard,10,70437.59,0.1
+ORD00176,2025-03-20,Manish Sharma,Pune,Maharashtra,Electronics,Mobile Phone,5,14996.07,0.2
+ORD00483,2025-03-05,Anjali Kumar,Bhopal,Madhya Pradesh,Furniture,Desk,1,44329.54,0.05
+ORD01413,2025-03-17,Amit Gupta,Kolkata,West Bengal,Stationery,Notebook,8,37100.89,0.15
+ORD01611,2025-08-03,Nikhil Gupta,Mumbai,Maharashtra,Stationery,Calculator,7,26563.84,0.05
+ORD00124,2025-11-21,Sneha Sharma,Pune,Maharashtra,Clothing,Jeans,2,32689.37,0.0
+ORD00600,2025-11-14,Anjali Yadav,Ahmedabad,Gujarat,Electronics,Monitor,1,63638.79,0.1
+ORD01795,2025-12-04,Manish Patel,Pune,Maharashtra,Furniture,Desk,10,14796.49,0.25
+ORD01746,2025-07-22,Neha Yadav,Bhopal,Madhya Pradesh,Electronics,Monitor,6,32454.54,0.05
+ORD01379,2025-03-14,Amit Yadav,Hyderabad,Telangana,Electronics,Mobile Phone,3,25078.61,0.15
+ORD01186,2025-09-18,Neha Kumar,Delhi,Delhi,Electronics,Laptop,2,36819.08,0.25
+ORD00486,2025-09-24,Rohit Singh,Pune,Maharashtra,Electronics,Headphones,7,49709.43,0.25
+ORD00332,2025-09-03,Kavita Das,Bhopal,Madhya Pradesh,Stationery,File Folder,2,33817.74,0.2
+ORD00789,2025-05-09,Manish Yadav,Jaipur,Rajasthan,Clothing,T-Shirt,1,5700.73,0.2
+ORD00195,2025-03-17,Riya Das,Bengaluru,Karnataka,Electronics,Mobile Phone,5,33836.61,0.2
+ORD00638,2025-09-04,Arjun Gupta,Chennai,Tamil Nadu,Furniture,Office Chair,9,39189.24,0.1
+ORD00472,2025-08-29,Amit Sharma,Chennai,Tamil Nadu,Clothing,Kurta,5,34916.11,0.0
+ORD01714,2025-03-05,Suresh Yadav,Hyderabad,Telangana,Grocery,Tea,4,49616.5,0.1
+ORD00323,2025-06-04,Rohit Yadav,Ahmedabad,Gujarat,Grocery,Cooking Oil,7,12920.26,0.1
+ORD01197,2025-07-24,Pooja Sharma,Delhi,Delhi,Grocery,Biscuits,5,28788.23,0.05
+ORD00267,2025-05-17,Anjali Gupta,Chennai,Tamil Nadu,Furniture,Office Chair,5,28922.19,0.15
+ORD01544,2025-06-28,Priya Kumar,Bhopal,Madhya Pradesh,Clothing,T-Shirt,9,67507.22,0.25
+ORD01804,2025-06-05,Rahul Singh,Ahmedabad,Gujarat,Stationery,File Folder,6,52844.34,0.1
+ORD00068,2025-02-01,Neha Das,Delhi,Delhi,Stationery,File Folder,6,40810.18,0.15
+ORD01738,2025-10-12,Suresh Verma,Pune,Maharashtra,Electronics,Monitor,8,62885.32,0.15
+ORD01593,2025-03-16,Arjun Yadav,Pune,Maharashtra,Furniture,Office Chair,9,7319.3,0.25
+ORD01564,2025-01-17,Nikhil Sharma,Delhi,Delhi,Grocery,Cooking Oil,5,16564.56,0.1
+ORD00481,2025-08-11,Nikhil Singh,Bengaluru,Karnataka,Clothing,Shoes,9,44828.65,0.1
+ORD01757,2025-01-16,Kavita Kumar,Ahmedabad,Gujarat,Furniture,Sofa,3,38172.82,0.15
+ORD01913,2025-08-05,Rahul Sharma,Kolkata,West Bengal,Stationery,Notebook,5,32862.76,0.25
+ORD01441,2025-04-29,Rahul Kumar,Chennai,Unknown,Furniture,Bookshelf,7,68875.63,0.05
+ORD01461,2025-03-07,Neha Singh,Jaipur,Rajasthan,Furniture,Bookshelf,5,19650.68,0.15
+ORD00888,2025-09-06,Suresh Gupta,Hyderabad,Telangana,Stationery,Marker,8,50084.11,0.15
+ORD00423,2025-08-12,Manish Yadav,Chennai,Tamil Nadu,Clothing,Jacket,3,73195.59,0.25
+ORD01675,2025-04-28,Arjun Verma,Mumbai,Maharashtra,Grocery,Biscuits,2,24727.71,0.1
+ORD01450,2025-09-11,Amit Das,Bengaluru,Karnataka,Electronics,Laptop,5,64129.42,0.15
+ORD00765,2025-09-27,Riya Gupta,Delhi,Delhi,Grocery,Tea,2,10871.04,0.25
+ORD00520,2025-01-28,Arjun Kumar,Kolkata,West Bengal,Electronics,Monitor,2,2139.09,0.05
+ORD01432,2025-10-07,Sneha Sharma,Lucknow,Uttar Pradesh,Grocery,Sugar,5,30091.67,0.0
+ORD00614,2025-08-17,Nikhil Sharma,Bengaluru,Karnataka,Clothing,Jacket,9,36690.16,0.25
+ORD01531,2025-04-18,Nikhil Patel,Ahmedabad,Gujarat,Clothing,Kurta,10,19030.14,0.15
+ORD01783,2025-04-10,Anjali Yadav,Mumbai,Maharashtra,Clothing,Kurta,2,17086.36,0.25
+ORD01659,2025-10-28,Vikas Kumar,Patna,Bihar,Stationery,File Folder,4,21190.66,0.2
+ORD00454,2025-09-06,Manish Patel,Ahmedabad,Gujarat,Electronics,Mobile Phone,8,16051.44,0.15
+ORD00731,2025-04-14,Nikhil Sharma,Pune,Maharashtra,Grocery,Biscuits,3,8639.29,0.0
+ORD00535,2025-04-09,Anjali Sharma,Lucknow,Uttar Pradesh,Grocery,Tea,8,3527.91,0.25
+ORD00966,2025-02-12,Vikas Gupta,Bhopal,Madhya Pradesh,Stationery,Pen Set,3,63257.51,0.0
+ORD01285,2025-01-15,Neha Gupta,Bengaluru,Karnataka,Electronics,Laptop,2,27361.95,0.1
+ORD01740,2025-06-13,Suresh Patel,Bhopal,Madhya Pradesh,Clothing,Jacket,7,27924.58,0.05
+ORD00262,2025-11-05,Rahul Patel,Jaipur,Rajasthan,Furniture,Bookshelf,1,942.72,0.2
+ORD00536,2025-04-18,Arjun Verma,Delhi,Delhi,Furniture,Table,9,797.96,0.0
+ORD00969,2025-08-24,Sneha Das,Patna,Bihar,Stationery,Notebook,1,13087.22,0.15
+ORD00241,2025-10-09,Rohit Sharma,Chennai,Tamil Nadu,Grocery,Biscuits,2,29129.57,0.15
+ORD00820,2025-04-28,Rahul Das,Ahmedabad,Gujarat,Furniture,Table,3,43464.58,0.2
+ORD00693,2025-11-12,Rohit Verma,Mumbai,Maharashtra,Furniture,Office Chair,3,14059.8,0.2
+ORD00421,2025-12-27,Nikhil Singh,Chennai,Tamil Nadu,Furniture,Bookshelf,1,1887.99,0.2
+ORD01086,2025-12-12,Anjali Gupta,Delhi,Delhi,Clothing,T-Shirt,9,15222.92,0.05
+ORD01999,2025-02-06,Riya Gupta,Jaipur,Rajasthan,Electronics,Headphones,10,22034.28,0.2
+ORD00366,2025-03-09,Nikhil Gupta,Jaipur,Rajasthan,Stationery,Notebook,7,15373.29,0.25
+ORD01023,2025-02-28,Rahul Singh,Kolkata,West Bengal,Electronics,Monitor,6,28805.32,0.0
+ORD01241,2025-08-12,Rahul Yadav,Lucknow,Uttar Pradesh,Clothing,Jacket,8,47332.38,0.0
+ORD00589,2025-01-08,Sneha Sharma,Kolkata,West Bengal,Clothing,Shoes,7,44059.49,0.2
+ORD00737,2025-01-08,Kavita Sharma,Jaipur,Rajasthan,Electronics,Headphones,3,12022.83,0.0
+ORD01762,2025-09-30,Suresh Das,Lucknow,Uttar Pradesh,Electronics,Headphones,9,42334.0,0.25
+ORD00942,2025-12-10,Anjali Singh,Patna,Bihar,Clothing,Kurta,10,28725.09,0.15
+ORD00072,2025-10-16,Arjun Kumar,Mumbai,Maharashtra,Grocery,Sugar,1,68042.93,0.2
+ORD01408,2025-02-23,Pooja Kumar,Mumbai,Maharashtra,Grocery,Rice,9,7490.56,0.05
+ORD00260,2025-02-15,Arjun Verma,Jaipur,Rajasthan,Furniture,Bookshelf,6,21584.8,0.0
+ORD00052,2025-08-12,Kavita Sharma,Patna,Bihar,Electronics,Monitor,7,26090.11,0.1
+ORD00199,2025-01-10,Rohit Verma,Bhopal,Madhya Pradesh,Stationery,File Folder,10,642.53,0.0
+ORD01789,2025-12-16,Pooja Gupta,Bengaluru,Karnataka,Grocery,Tea,10,68290.52,0.05
+ORD00651,2025-04-09,Rahul Kumar,Patna,Bihar,Furniture,Desk,1,15355.41,0.15
+ORD00333,2025-12-26,Nikhil Sharma,Lucknow,Uttar Pradesh,Grocery,Tea,9,2998.2,0.1
+ORD01360,2025-11-10,Manish Das,Delhi,Delhi,Electronics,Headphones,2,19963.6,0.25
+ORD00594,2025-03-01,Rohit Sharma,Chennai,Tamil Nadu,Stationery,File Folder,10,64686.24,0.15
+ORD01392,2025-05-25,Riya Sharma,Bengaluru,Karnataka,Electronics,Headphones,1,34175.9,0.05
+ORD01801,2025-01-19,Arjun Sharma,Jaipur,Rajasthan,Clothing,Kurta,10,39911.46,0.25
+ORD01315,2025-12-14,Kavita Kumar,Ahmedabad,Gujarat,Stationery,Pen Set,6,15929.79,0.05
+ORD01112,2025-05-31,Rahul Das,Bengaluru,Karnataka,Furniture,Desk,1,45622.39,0.05
+ORD01007,2025-12-13,Suresh Das,Kolkata,West Bengal,Furniture,Sofa,4,33600.77,0.1
+ORD01327,2025-03-30,Vikas Patel,Patna,Bihar,Grocery,Tea,3,70469.53,0.15
+ORD00427,2025-03-27,Arjun Sharma,Jaipur,Rajasthan,Furniture,Bookshelf,2,18040.2,0.1
+ORD01559,2025-05-27,Priya Gupta,Bengaluru,Karnataka,Furniture,Desk,5,4236.81,0.25
+ORD01294,2025-10-18,Arjun Yadav,Pune,Maharashtra,Furniture,Table,6,37100.89,0.05
+ORD00591,2025-01-03,Rohit Singh,Pune,Maharashtra,Grocery,Cooking Oil,8,69746.11,0.2
+ORD01958,2025-04-28,Vikas Gupta,Bengaluru,Karnataka,Furniture,Sofa,5,65357.9,0.05
+ORD01977,2025-11-19,Suresh Patel,Mumbai,Maharashtra,Grocery,Biscuits,1,2095.09,0.05
+ORD01133,2025-08-06,Priya Verma,Kolkata,West Bengal,Stationery,Marker,3,54195.11,0.05
+ORD00986,2025-06-24,Manish Patel,Ahmedabad,Gujarat,Furniture,Office Chair,9,17001.15,0.1
+ORD00399,2025-07-21,Sneha Patel,Kolkata,West Bengal,Furniture,Desk,5,19759.07,0.1
+ORD01512,2025-01-07,Amit Kumar,Chennai,Tamil Nadu,Clothing,Shoes,4,41583.1,0.05
+ORD00437,2025-02-11,Pooja Sharma,Pune,Maharashtra,Electronics,Laptop,4,13019.71,0.1
+ORD00193,2025-04-13,Manish Singh,Jaipur,Rajasthan,Clothing,Shoes,9,39677.62,0.05
+ORD01436,2025-03-08,Rohit Kumar,Kolkata,West Bengal,Grocery,Sugar,2,66592.02,0.15
+ORD00615,2025-03-27,Arjun Patel,Kolkata,West Bengal,Grocery,Biscuits,8,47470.49,0.05
+ORD01494,2025-02-08,Anjali Singh,Bengaluru,Karnataka,Electronics,Headphones,2,55884.75,0.05
+ORD00577,2025-05-26,Kavita Das,Kolkata,West Bengal,Furniture,Bookshelf,8,57497.95,0.0
+ORD00987,2025-11-06,Arjun Sharma,Patna,Bihar,Grocery,Biscuits,3,64042.26,0.2
+ORD01433,2025-05-14,Neha Patel,Ahmedabad,Gujarat,Stationery,Marker,1,2662.54,0.15
+ORD00707,2025-12-31,Amit Das,Unknown,Tamil Nadu,Grocery,Cooking Oil,3,65194.19,0.05
+ORD01259,2025-04-14,Priya Yadav,Patna,Bihar,Electronics,Monitor,6,63990.84,0.0
+ORD00142,2025-07-28,Rohit Kumar,Ahmedabad,Gujarat,Furniture,Sofa,2,62568.56,0.2
+ORD01358,2025-08-12,Neha Singh,Patna,Bihar,Electronics,Mobile Phone,2,74517.14,0.25
+ORD00003,2025-05-23,Manish Kumar,Lucknow,Uttar Pradesh,Furniture,Table,7,16727.94,0.2
+ORD01222,2025-04-12,Rahul Verma,Mumbai,Maharashtra,Furniture,Bookshelf,7,684.31,0.25
+ORD01870,2025-07-18,Manish Sharma,Ahmedabad,Gujarat,Grocery,Tea,4,14066.19,0.0
+ORD01623,2025-01-21,Anjali Das,Jaipur,Rajasthan,Stationery,Notebook,5,60921.76,0.25
+ORD00340,2025-03-23,Anjali Das,Chennai,Tamil Nadu,Electronics,Mobile Phone,4,38820.54,0.2
+ORD01770,2025-04-16,Nikhil Sharma,Jaipur,Rajasthan,Furniture,Table,10,1415.56,0.15
+ORD01537,2025-04-02,Rohit Sharma,Delhi,Delhi,Grocery,Cooking Oil,2,54866.69,0.1
+ORD00484,2025-12-05,Rahul Kumar,Kolkata,West Bengal,Clothing,Kurta,10,3881.88,0.0
+ORD00266,2025-04-05,Priya Yadav,Kolkata,West Bengal,Grocery,Biscuits,2,30212.29,0.0
+ORD00377,2025-11-01,Rahul Kumar,Pune,Maharashtra,Stationery,File Folder,2,18270.86,0.25
+ORD00742,2025-12-24,Pooja Sharma,Bhopal,Madhya Pradesh,Grocery,Rice,8,42692.25,0.0
+ORD01014,2025-01-23,Vikas Yadav,Bhopal,Madhya Pradesh,Stationery,Notebook,2,41178.41,0.0
+ORD00440,2025-12-08,Rahul Sharma,Bengaluru,Karnataka,Furniture,Bookshelf,10,4857.54,0.25
+ORD00272,2025-07-05,Rahul Sharma,Pune,Maharashtra,Grocery,Rice,9,33644.41,0.25
+ORD00185,2025-12-06,Priya Patel,Bengaluru,Karnataka,Clothing,Kurta,3,25168.81,0.2
+ORD00940,2025-01-31,Amit Patel,Bhopal,Madhya Pradesh,Stationery,Calculator,5,5710.91,0.2
+ORD00245,2025-09-18,Suresh Yadav,Mumbai,Maharashtra,Stationery,Calculator,5,44630.92,0.2
+ORD00932,2025-11-28,Kavita Verma,Kolkata,West Bengal,Grocery,Unknown,1,71121.16,0.2
+ORD00446,2025-09-24,Pooja Kumar,Delhi,Delhi,Stationery,Calculator,7,41516.05,0.1
+ORD00597,2025-04-04,Sneha Verma,Jaipur,Rajasthan,Clothing,Jacket,4,67100.14,0.1
+ORD00818,2025-01-31,Rohit Singh,Bengaluru,Karnataka,Furniture,Bookshelf,3,2649.07,0.2
+ORD01273,2025-07-05,Suresh Yadav,Pune,Maharashtra,Clothing,T-Shirt,4,74544.42,0.0
+ORD01677,2025-01-14,Pooja Verma,Patna,Bihar,Furniture,Sofa,2,62603.25,0.15
+ORD00487,2025-02-24,Pooja Verma,Kolkata,West Bengal,Electronics,Monitor,10,9050.66,0.0
+ORD00681,2025-12-02,Amit Sharma,Patna,Bihar,Clothing,Unknown,10,20528.29,0.15
+ORD00416,2025-01-29,Manish Verma,Hyderabad,Telangana,Furniture,Bookshelf,9,61267.32,0.25
+ORD00274,2025-08-17,Manish Kumar,Delhi,Delhi,Furniture,Table,8,7047.89,0.2
+ORD01472,2025-06-18,Neha Patel,Chennai,Tamil Nadu,Clothing,Jeans,10,22156.63,0.1
+ORD01830,2025-12-24,Arjun Sharma,Delhi,Delhi,Stationery,Notebook,2,24050.25,0.1
+ORD01455,2025-08-28,Sneha Verma,Kolkata,West Bengal,Grocery,Sugar,9,19692.53,0.15
+ORD00251,2025-12-06,Pooja Das,Bhopal,Madhya Pradesh,Electronics,Mobile Phone,9,15748.79,0.1
+ORD00414,2025-01-16,Nikhil Gupta,Kolkata,West Bengal,Clothing,Jeans,1,24086.1,0.05
+ORD01386,2025-08-09,Anjali Verma,Chennai,Tamil Nadu,Stationery,Notebook,4,43424.42,0.25
+ORD01308,2025-02-11,Rohit Yadav,Hyderabad,Telangana,Furniture,Office Chair,3,5427.11,0.15
+ORD00716,2025-03-04,Sneha Gupta,Delhi,Delhi,Stationery,Calculator,2,22139.25,0.05
+ORD00311,2025-04-02,Nikhil Patel,Patna,Bihar,Electronics,Headphones,9,42372.36,0.0
+ORD00927,2025-11-05,Sneha Patel,Delhi,Delhi,Furniture,Bookshelf,9,5210.95,0.15
+ORD00382,2025-12-15,Arjun Sharma,Mumbai,Maharashtra,Grocery,Biscuits,7,44086.18,0.25
+ORD01566,2025-07-03,Riya Kumar,Hyderabad,Telangana,Grocery,Rice,6,52671.3,0.25
+ORD00426,2025-04-24,Arjun Sharma,Ahmedabad,Gujarat,Electronics,Mobile Phone,10,24036.71,0.2
+ORD01875,2025-05-08,Rahul Sharma,Jaipur,Rajasthan,Grocery,Sugar,5,59676.49,0.25
+ORD00533,2025-11-11,Nikhil Verma,Lucknow,Uttar Pradesh,Electronics,Laptop,6,33563.63,0.25
+ORD00753,2025-10-23,Pooja Verma,Mumbai,Maharashtra,Furniture,Sofa,9,22039.87,0.2
+ORD00766,2025-05-06,Pooja Sharma,Jaipur,Rajasthan,Grocery,Rice,9,66771.18,0.0
+ORD01357,2025-02-22,Amit Verma,Bengaluru,Karnataka,Stationery,File Folder,2,63269.9,0.2
+ORD00409,2025-03-30,Anjali Verma,Bhopal,Madhya Pradesh,Stationery,File Folder,1,28859.03,0.15
+ORD01615,2025-11-09,Kavita Sharma,Kolkata,West Bengal,Stationery,Pen Set,1,46510.98,0.05
+ORD00695,2025-03-25,Neha Verma,Bhopal,Madhya Pradesh,Clothing,Jeans,7,36985.56,0.05
+ORD01739,2025-07-18,Sneha Gupta,Kolkata,West Bengal,Furniture,Table,10,30121.36,0.2
+ORD00549,2025-06-12,Pooja Yadav,Mumbai,Maharashtra,Furniture,Office Chair,5,46558.8,0.05
+ORD00937,2025-01-15,Rohit Gupta,Bengaluru,Karnataka,Furniture,Sofa,3,30787.18,0.05
+ORD01390,2025-09-13,Nikhil Singh,Jaipur,Rajasthan,Grocery,Biscuits,5,8486.75,0.0
+ORD01608,2025-10-17,Vikas Das,Patna,Bihar,Furniture,Table,10,12713.39,0.1
+ORD01940,2025-03-07,Manish Sharma,Patna,Bihar,Electronics,Headphones,2,41249.68,0.1
+ORD01482,2025-11-19,Pooja Das,Bhopal,Madhya Pradesh,Electronics,Laptop,6,71256.45,0.15
+ORD00183,2025-05-25,Vikas Das,Jaipur,Rajasthan,Grocery,Sugar,10,12116.28,0.1
+ORD01941,2025-01-31,Amit Sharma,Bhopal,Madhya Pradesh,Stationery,Pen Set,1,66875.54,0.2
+ORD01161,2025-12-04,Riya Sharma,Bhopal,Madhya Pradesh,Grocery,Rice,6,32236.74,0.15
+ORD00171,2025-06-10,Kavita Das,Delhi,Delhi,Stationery,Notebook,7,1650.93,0.0
+ORD00293,2025-04-19,Nikhil Verma,Jaipur,Rajasthan,Furniture,Bookshelf,5,71787.23,0.0
+ORD00562,2025-12-01,Vikas Patel,Bhopal,Madhya Pradesh,Clothing,Kurta,9,42869.47,0.15
+ORD01457,2025-12-04,Rohit Kumar,Ahmedabad,Gujarat,Stationery,Notebook,6,20751.67,0.1
+ORD01877,2025-11-27,Neha Das,Kolkata,West Bengal,Grocery,Cooking Oil,2,4251.95,0.05
+ORD01652,2025-09-22,Pooja Das,Kolkata,West Bengal,Furniture,Desk,10,49778.66,0.1
+ORD00850,2025-10-03,Riya Yadav,Ahmedabad,Gujarat,Grocery,Cooking Oil,5,14879.75,0.0
+ORD00273,2025-03-26,Anjali Yadav,Patna,Bihar,Grocery,Sugar,4,43059.45,0.05
+ORD01550,2025-07-09,Amit Singh,Jaipur,Rajasthan,Furniture,Sofa,9,37100.89,0.0
+ORD01035,2025-06-12,Nikhil Patel,Mumbai,Maharashtra,Grocery,Biscuits,7,16011.05,0.2
+ORD01744,2025-01-30,Nikhil Patel,Delhi,Delhi,Furniture,Office Chair,9,33773.0,0.25
+ORD00372,2025-11-29,Priya Yadav,Hyderabad,Telangana,Furniture,Office Chair,9,42356.02,0.2
+ORD01670,2025-04-04,Arjun Patel,Bengaluru,Karnataka,Stationery,File Folder,3,48870.67,0.0
+ORD00722,2025-06-29,Suresh Verma,Bhopal,Madhya Pradesh,Furniture,Table,7,31199.58,0.1
+ORD00734,2025-03-01,Amit Gupta,Pune,Maharashtra,Electronics,Keyboard,7,53597.38,0.2
+ORD00778,2025-11-23,Anjali Das,Kolkata,West Bengal,Clothing,Kurta,1,7527.98,0.2
+ORD00519,2025-12-30,Vikas Gupta,Chennai,Tamil Nadu,Grocery,Tea,10,42905.21,0.25
+ORD00335,2025-09-19,Sneha Verma,Chennai,Tamil Nadu,Stationery,Notebook,1,7620.84,0.05
+ORD00846,2025-01-03,Sneha Patel,Kolkata,West Bengal,Stationery,Pen Set,8,69603.89,0.05
+ORD01252,2025-04-23,Anjali Gupta,Bhopal,Madhya Pradesh,Stationery,Marker,10,41428.12,0.15
+ORD01053,2025-11-17,Pooja Sharma,Lucknow,Uttar Pradesh,Furniture,Office Chair,10,46562.6,0.0
+ORD01924,2025-03-07,Pooja Das,Patna,Bihar,Furniture,Bookshelf,7,33874.67,0.05
+ORD00016,2025-03-22,Pooja Kumar,Hyderabad,Unknown,Grocery,Biscuits,6,8588.52,0.15
+ORD00708,2025-03-09,Neha Kumar,Bengaluru,Karnataka,Clothing,Shoes,5,47077.35,0.0
+ORD00901,2025-10-29,Amit Patel,Ahmedabad,Gujarat,Grocery,Tea,5,1775.07,0.15
+ORD01980,2025-07-13,Anjali Yadav,Hyderabad,Telangana,Grocery,Sugar,9,5279.87,0.05
+ORD01573,2025-08-24,Amit Singh,Delhi,Delhi,Clothing,Jeans,6,34538.84,0.05
+ORD00904,2025-06-02,Kavita Das,Jaipur,Rajasthan,Electronics,Monitor,4,21729.83,0.0
+ORD00466,2025-01-30,Manish Das,Bengaluru,Karnataka,Clothing,Jeans,3,38917.7,0.05
+ORD01978,2025-06-27,Kavita Patel,Patna,Bihar,Stationery,File Folder,6,59938.71,0.15
+ORD00200,2025-05-02,Rohit Sharma,Mumbai,Maharashtra,Grocery,Sugar,5,31888.29,0.1
+ORD01207,2025-04-04,Pooja Patel,Patna,Bihar,Clothing,Jeans,10,31513.72,0.15
+ORD01056,2025-07-30,Neha Kumar,Lucknow,Uttar Pradesh,Electronics,Headphones,7,30275.81,0.2
+ORD01132,2025-05-01,Suresh Sharma,Pune,Maharashtra,Furniture,Office Chair,3,44549.14,0.05
+ORD01380,2025-03-29,Arjun Kumar,Kolkata,West Bengal,Clothing,T-Shirt,3,73084.22,0.0
+ORD00999,2025-01-19,Suresh Patel,Bhopal,Madhya Pradesh,Clothing,Shoes,4,66102.86,0.0
+ORD00728,2025-11-17,Suresh Singh,Delhi,Delhi,Furniture,Bookshelf,1,25601.64,0.15
+ORD01772,2025-05-13,Nikhil Das,Patna,Bihar,Furniture,Desk,10,18651.44,0.25
+ORD01910,2025-10-26,Riya Yadav,Kolkata,West Bengal,Electronics,Headphones,3,16950.84,0.25
+ORD01822,2025-04-30,Neha Kumar,Mumbai,Maharashtra,Unknown,Laptop,1,32614.46,0.25
+ORD00568,2025-05-13,Nikhil Singh,Mumbai,Maharashtra,Grocery,Rice,10,11228.17,0.05
+ORD00044,2025-10-10,Priya Das,Delhi,Delhi,Furniture,Table,1,62635.98,0.2
+ORD00275,2025-10-14,Pooja Gupta,Jaipur,Rajasthan,Furniture,Table,7,34395.69,0.0
+ORD01097,2025-07-17,Rohit Verma,Bhopal,Madhya Pradesh,Grocery,Tea,1,14205.23,0.0
+ORD00102,2025-03-14,Rahul Kumar,Kolkata,West Bengal,Electronics,Monitor,4,48660.7,0.1
+ORD01232,2025-09-19,Vikas Kumar,Bhopal,Madhya Pradesh,Furniture,Desk,6,32099.17,0.0
+ORD01722,2025-02-20,Kavita Sharma,Patna,Bihar,Grocery,Rice,10,62905.87,0.25
+ORD01833,2025-08-26,Riya Yadav,Kolkata,West Bengal,Stationery,File Folder,6,69277.59,0.15
+ORD00108,2025-07-30,Sneha Yadav,Kolkata,West Bengal,Clothing,Jacket,2,64365.55,0.1
+ORD01618,2025-04-13,Anjali Singh,Mumbai,Maharashtra,Stationery,Marker,4,13347.02,0.25
+ORD00498,2025-08-14,Amit Sharma,Hyderabad,Telangana,Furniture,Sofa,8,8692.08,0.15
+ORD01981,2025-02-17,Kavita Das,Bhopal,Madhya Pradesh,Clothing,Jeans,3,57217.63,0.05
+ORD00882,2025-11-04,Sneha Gupta,Delhi,Delhi,Clothing,Shoes,2,29012.39,0.15
+ORD00757,2025-07-21,Arjun Patel,Delhi,Delhi,Clothing,T-Shirt,4,32520.73,0.2
+ORD00620,2025-02-12,Rahul Gupta,Jaipur,Rajasthan,Grocery,Rice,1,57877.29,0.2
+ORD01107,2025-03-04,Anjali Sharma,Bhopal,Madhya Pradesh,Furniture,Sofa,7,74431.13,0.2
+ORD01936,2025-02-06,Rohit Sharma,Ahmedabad,Gujarat,Stationery,Calculator,6,11188.91,0.2
+ORD00810,2025-12-04,Neha Gupta,Ahmedabad,Gujarat,Clothing,Kurta,9,16640.89,0.25
+ORD01038,2025-09-08,Manish Das,Patna,Bihar,Furniture,Sofa,9,67171.3,0.25
+ORD00073,2025-07-14,Anjali Verma,Delhi,Delhi,Stationery,Pen Set,8,13834.24,0.1
+ORD01284,2025-11-28,Vikas Verma,Chennai,Tamil Nadu,Stationery,File Folder,3,4336.71,0.1
+ORD01272,2025-04-23,Sneha Sharma,Kolkata,West Bengal,Electronics,Monitor,7,37100.89,0.25
+ORD01335,2025-07-20,Rahul Yadav,Delhi,Delhi,Electronics,Keyboard,6,68475.75,0.05
+ORD01459,2025-11-23,Riya Verma,Jaipur,Rajasthan,Electronics,Keyboard,1,72449.94,0.15
+ORD00482,2025-01-10,Neha Verma,Chennai,Tamil Nadu,Stationery,Marker,4,12575.04,0.15
+ORD01069,2025-01-23,Amit Verma,Bengaluru,Karnataka,Stationery,Pen Set,10,68474.98,0.1
+ORD00507,2025-11-04,Pooja Patel,Chennai,Tamil Nadu,Electronics,Mobile Phone,8,25064.95,0.2
+ORD01238,2025-12-02,Riya Verma,Delhi,Delhi,Electronics,Mobile Phone,10,9246.49,0.2
+ORD01862,2025-10-13,Amit Kumar,Delhi,Delhi,Clothing,Jeans,4,4474.43,0.25
+ORD01990,2025-07-05,Vikas Das,Pune,Maharashtra,Stationery,Pen Set,2,52379.28,0.2
+ORD01477,2025-09-11,Arjun Verma,Delhi,Unknown,Stationery,File Folder,9,73747.77,0.2
+ORD01867,2025-11-18,Sneha Gupta,Lucknow,Uttar Pradesh,Furniture,Sofa,4,11631.12,0.0
+ORD01456,2025-10-05,Rohit Patel,Mumbai,Maharashtra,Electronics,Headphones,5,6643.88,0.05
+ORD00312,2025-07-23,Nikhil Sharma,Patna,Bihar,Furniture,Table,3,56481.02,0.25
+ORD00963,2025-08-07,Rohit Kumar,Bengaluru,Karnataka,Furniture,Desk,5,63154.96,0.2
+ORD00406,2025-12-18,Arjun Sharma,Patna,Bihar,Furniture,Desk,4,61819.59,0.1
+ORD01331,2025-11-20,Manish Patel,Ahmedabad,Gujarat,Stationery,Notebook,3,73760.21,0.25
+ORD01650,2025-06-13,Manish Yadav,Pune,Maharashtra,Electronics,Mobile Phone,4,23213.23,0.1
+ORD00310,2025-10-18,Pooja Gupta,Lucknow,Uttar Pradesh,Electronics,Mobile Phone,4,67620.15,0.25
+ORD00227,2025-05-26,Riya Sharma,Mumbai,Maharashtra,Clothing,Jeans,6,71074.36,0.2
+ORD01858,2025-03-09,Pooja Sharma,Chennai,Tamil Nadu,Grocery,Sugar,1,66273.66,0.0
+ORD00711,2025-05-23,Kavita Verma,Delhi,Delhi,Grocery,Sugar,1,18542.31,0.2
+ORD01944,2025-02-16,Kavita Gupta,Mumbai,Maharashtra,Stationery,Pen Set,9,46318.17,0.05
+ORD01384,2025-12-30,Anjali Yadav,Bengaluru,Karnataka,Clothing,Shoes,1,62124.27,0.1
+ORD01786,2025-12-17,Neha Kumar,Ahmedabad,Gujarat,Furniture,Bookshelf,6,3122.64,0.0
+ORD00149,2025-02-28,Sneha Sharma,Mumbai,Maharashtra,Clothing,T-Shirt,3,55693.42,0.2
+ORD01555,2025-12-19,Suresh Das,Delhi,Delhi,Furniture,Sofa,1,20845.53,0.05
+ORD01957,2025-05-11,Pooja Singh,Delhi,Delhi,Grocery,Sugar,1,18966.74,0.2
+ORD00926,2025-06-20,Sneha Das,Patna,Bihar,Clothing,T-Shirt,8,35464.07,0.15
+ORD00943,2025-09-10,Nikhil Patel,Lucknow,Uttar Pradesh,Electronics,Monitor,3,19706.8,0.2
+ORD00837,2025-10-05,Nikhil Singh,Mumbai,Maharashtra,Furniture,Table,1,22164.42,0.25
+ORD00576,2025-12-23,Kavita Sharma,Pune,Maharashtra,Stationery,File Folder,6,44281.34,0.25
+ORD00558,2025-12-04,Riya Singh,Lucknow,Uttar Pradesh,Furniture,Sofa,3,13641.1,0.2
+ORD01236,2025-06-19,Anjali Patel,Bengaluru,Karnataka,Electronics,Laptop,1,51301.37,0.05
+ORD01361,2025-06-13,Riya Singh,Bengaluru,Karnataka,Furniture,Desk,10,34686.86,0.05
+ORD01348,2025-03-04,Amit Patel,Delhi,Delhi,Furniture,Bookshelf,6,11091.72,0.1
+ORD01162,2025-09-24,Nikhil Kumar,Bhopal,Madhya Pradesh,Stationery,Marker,10,14832.0,0.05
+ORD01443,2025-06-10,Anjali Verma,Delhi,Delhi,Electronics,Mobile Phone,8,13749.36,0.0
+ORD00287,2025-11-26,Arjun Das,Hyderabad,Telangana,Stationery,Calculator,8,3754.59,0.1
+ORD01605,2025-12-11,Vikas Gupta,Mumbai,Maharashtra,Stationery,File Folder,4,40034.97,0.05
+ORD01058,2025-01-07,Kavita Sharma,Jaipur,Rajasthan,Grocery,Biscuits,10,14637.98,0.0
+ORD00599,2025-12-13,Arjun Yadav,Ahmedabad,Gujarat,Clothing,Jeans,2,9210.92,0.0
+ORD00933,2025-01-26,Vikas Das,Delhi,Delhi,Stationery,Pen Set,5,52669.27,0.05
+ORD01462,2025-04-05,Arjun Yadav,Mumbai,Maharashtra,Grocery,Rice,4,8804.88,0.0
+ORD01638,2025-08-17,Kavita Verma,Bengaluru,Karnataka,Grocery,Sugar,9,65478.02,0.0
+ORD01588,2025-12-29,Kavita Gupta,Kolkata,West Bengal,Grocery,Tea,2,11491.44,0.1
+ORD01041,2025-05-24,Arjun Patel,Chennai,Tamil Nadu,Furniture,Sofa,1,16808.68,0.0
+ORD01231,2025-07-14,Vikas Gupta,Mumbai,Maharashtra,Stationery,Notebook,10,15173.35,0.0
+ORD00807,2025-09-25,Pooja Das,Kolkata,West Bengal,Stationery,Pen Set,4,10945.82,0.1
+ORD00905,2025-05-20,Rahul Yadav,Pune,Maharashtra,Grocery,Rice,10,7331.34,0.1
+ORD01680,2025-08-01,Neha Verma,Delhi,Delhi,Stationery,Calculator,6,56288.77,0.1
+ORD01205,2025-09-02,Kavita Singh,Kolkata,West Bengal,Furniture,Bookshelf,9,41487.46,0.15
+ORD00768,2025-08-04,Anjali Gupta,Jaipur,Rajasthan,Stationery,Calculator,8,43153.91,0.1
+ORD00610,2025-07-23,Rahul Singh,Jaipur,Rajasthan,Clothing,Jacket,9,64423.02,0.0
+ORD01993,2025-07-22,Kavita Verma,Chennai,Tamil Nadu,Clothing,T-Shirt,5,17867.25,0.15
+ORD01565,2025-07-10,Kavita Das,Lucknow,Uttar Pradesh,Furniture,Sofa,3,35176.7,0.1
+ORD01423,2025-07-13,Priya Verma,Ahmedabad,Gujarat,Electronics,Mobile Phone,6,8297.66,0.15
+ORD01011,2025-03-03,Anjali Gupta,Lucknow,Uttar Pradesh,Clothing,T-Shirt,10,63960.76,0.0
+ORD00494,2025-02-17,Anjali Patel,Chennai,Tamil Nadu,Clothing,Shoes,10,20306.13,0.25
+ORD01321,2025-05-29,Riya Das,Hyderabad,Telangana,Stationery,Calculator,10,60488.83,0.25
+ORD00278,2025-11-27,Vikas Patel,Patna,Bihar,Clothing,Shoes,3,57730.66,0.25
+ORD01847,2025-05-17,Rahul Yadav,Lucknow,Uttar Pradesh,Stationery,File Folder,10,67557.18,0.25
+ORD00359,2025-12-02,Priya Singh,Lucknow,Uttar Pradesh,Electronics,Mobile Phone,7,68927.96,0.1
+ORD01111,2025-08-13,Priya Yadav,Jaipur,Rajasthan,Stationery,Notebook,6,41245.03,0.05
+ORD00237,2025-09-12,Amit Sharma,Pune,Maharashtra,Furniture,Sofa,9,35144.43,0.1
+ORD00552,2025-08-17,Anjali Gupta,Bengaluru,Karnataka,Clothing,Jeans,6,65871.97,0.15
+ORD01868,2025-11-08,Rohit Patel,Bengaluru,Karnataka,Grocery,Biscuits,9,29284.38,0.05
+ORD01813,2025-12-03,Pooja Sharma,Bengaluru,Karnataka,Stationery,File Folder,6,3274.07,0.25
+ORD00209,2025-12-02,Anjali Gupta,Bengaluru,Karnataka,Electronics,Mobile Phone,5,26933.82,0.0
+ORD01387,2025-11-17,Arjun Yadav,Bhopal,Madhya Pradesh,Electronics,Mobile Phone,7,47995.35,0.1
+ORD01561,2025-07-01,Kavita Patel,Mumbai,Maharashtra,Clothing,Jacket,8,20024.75,0.15
+ORD00059,2025-12-11,Rohit Verma,Bengaluru,Karnataka,Grocery,Sugar,6,7230.69,0.05
+ORD00632,2025-05-25,Rohit Singh,Patna,Bihar,Furniture,Office Chair,9,1904.28,0.0
+ORD01962,2025-05-06,Manish Kumar,Lucknow,Uttar Pradesh,Clothing,Jeans,3,40140.89,0.05
+ORD01860,2025-09-10,Vikas Kumar,Chennai,Tamil Nadu,Clothing,T-Shirt,7,25932.09,0.0
+ORD01817,2025-05-17,Rahul Yadav,Mumbai,Maharashtra,Clothing,Jacket,9,14669.53,0.1
+ORD00364,2025-09-06,Manish Patel,Chennai,Tamil Nadu,Clothing,Jacket,9,43450.54,0.2
+ORD00506,2025-12-10,Pooja Patel,Ahmedabad,Gujarat,Grocery,Biscuits,9,42284.36,0.25
+ORD01166,2025-11-21,Sneha Yadav,Pune,Maharashtra,Clothing,Shoes,2,49994.36,0.2
+ORD01122,2025-12-31,Suresh Singh,Kolkata,West Bengal,Clothing,Kurta,8,73736.91,0.0
+ORD01630,2025-03-07,Priya Gupta,Jaipur,Rajasthan,Stationery,Marker,3,55844.05,0.25
+ORD01217,2025-08-24,Anjali Gupta,Jaipur,Rajasthan,Grocery,Tea,1,26841.87,0.2
+ORD01152,2025-07-13,Rahul Gupta,Jaipur,Rajasthan,Grocery,Rice,3,6215.78,0.0
+ORD01125,2025-04-30,Amit Sharma,Kolkata,West Bengal,Grocery,Cooking Oil,9,44163.27,0.0
+ORD01595,2025-11-23,Manish Sharma,Patna,Bihar,Electronics,Headphones,5,3111.98,0.2
+ORD00119,2025-08-31,Sneha Das,Ahmedabad,Gujarat,Stationery,Pen Set,7,3512.64,0.25
+ORD01250,2025-01-06,Riya Patel,Kolkata,West Bengal,Grocery,Biscuits,6,73898.28,0.25
+ORD01994,2025-06-22,Priya Patel,Kolkata,West Bengal,Stationery,Pen Set,5,18431.88,0.05
+ORD00523,2025-05-28,Sneha Kumar,Bhopal,Madhya Pradesh,Grocery,Tea,4,38441.44,0.25
+ORD00514,2025-06-14,Suresh Das,Bhopal,Madhya Pradesh,Furniture,Office Chair,7,49399.76,0.2
+ORD00082,2025-04-01,Sneha Gupta,Delhi,Delhi,Stationery,Marker,8,53121.32,0.15
+ORD00916,2025-03-13,Neha Sharma,Delhi,Delhi,Stationery,Marker,2,29917.91,0.25
+ORD01019,2025-10-23,Manish Kumar,Hyderabad,Telangana,Grocery,Rice,4,71648.83,0.2
+ORD00381,2025-06-08,Rahul Verma,Hyderabad,Telangana,Grocery,Sugar,10,11662.86,0.0
+ORD01030,2025-09-14,Neha Singh,Bengaluru,Karnataka,Grocery,Tea,8,6522.15,0.25
+ORD01689,2025-09-26,Priya Singh,Patna,Bihar,Furniture,Sofa,1,40575.75,0.2
+ORD00085,2025-07-01,Manish Gupta,Chennai,Tamil Nadu,Electronics,Keyboard,6,13842.53,0.05
+ORD01678,2025-07-14,Kavita Sharma,Kolkata,West Bengal,Electronics,Keyboard,8,30088.57,0.05
+ORD00330,2025-08-13,Manish Gupta,Hyderabad,Telangana,Grocery,Rice,8,70737.37,0.05
+ORD00007,2025-04-30,Riya Sharma,Bhopal,Madhya Pradesh,Electronics,Laptop,10,58036.86,0.0
+ORD00746,2025-02-24,Anjali Sharma,Ahmedabad,Unknown,Grocery,Cooking Oil,9,7944.18,0.25
+ORD01554,2025-03-17,Sneha Gupta,Kolkata,West Bengal,Electronics,Laptop,5,61922.3,0.2
+ORD00915,2025-06-10,Kavita Gupta,Hyderabad,Telangana,Electronics,Keyboard,1,4385.71,0.0
+ORD00874,2025-01-06,Manish Sharma,Jaipur,Rajasthan,Electronics,Headphones,1,5201.99,0.25
+ORD00452,2025-12-23,Arjun Sharma,Patna,Bihar,Clothing,Jacket,5,21205.91,0.15
+ORD00491,2025-06-01,Rohit Yadav,Lucknow,Uttar Pradesh,Electronics,Laptop,5,48414.18,0.15
+ORD01481,2025-10-30,Kavita Sharma,Bhopal,Madhya Pradesh,Clothing,T-Shirt,6,67332.62,0.1
+ORD00288,2025-04-05,Manish Yadav,Lucknow,Uttar Pradesh,Clothing,Shoes,7,11404.02,0.15
+ORD00949,2025-03-17,Rahul Patel,Bhopal,Madhya Pradesh,Grocery,Tea,8,37100.89,0.25
+ORD01986,2025-06-19,Arjun Patel,Jaipur,Rajasthan,Clothing,Kurta,9,41207.42,0.25
+ORD01369,2025-05-17,Amit Yadav,Bhopal,Madhya Pradesh,Electronics,Mobile Phone,1,67083.83,0.05
+ORD01147,2025-03-15,Rohit Verma,Bhopal,Madhya Pradesh,Electronics,Laptop,10,58307.66,0.1
+ORD00706,2025-01-23,Manish Singh,Bhopal,Madhya Pradesh,Grocery,Sugar,3,28556.23,0.15
+ORD01727,2025-08-23,Sneha Gupta,Chennai,Tamil Nadu,Furniture,Bookshelf,8,58832.31,0.1
+ORD01702,2025-02-26,Rahul Gupta,Kolkata,West Bengal,Electronics,Monitor,3,7320.12,0.15
+ORD01629,2025-03-23,Kavita Gupta,Pune,Maharashtra,Clothing,Kurta,6,53606.78,0.1
+ORD01600,2025-12-14,Rohit Gupta,Bengaluru,Karnataka,Grocery,Rice,10,30050.63,0.05
+ORD01539,2025-11-11,Priya Singh,Pune,Maharashtra,Furniture,Office Chair,4,74184.27,0.0
+ORD01406,2025-03-11,Neha Singh,Bhopal,Madhya Pradesh,Furniture,Table,3,42263.18,0.15
+ORD01651,2025-06-15,Priya Verma,Delhi,Delhi,Clothing,Kurta,4,42932.88,0.05
+ORD00328,2025-09-09,Kavita Verma,Mumbai,Maharashtra,Stationery,Marker,5,55181.86,0.25
+ORD00443,2025-01-18,Suresh Singh,Jaipur,Rajasthan,Clothing,T-Shirt,7,67732.6,0.25
+ORD00775,2025-01-28,Arjun Gupta,Bhopal,Madhya Pradesh,Furniture,Desk,10,55143.49,0.1
+ORD01088,2025-07-27,Riya Kumar,Patna,Bihar,Clothing,Jacket,6,37100.89,0.15
+ORD01221,2025-12-03,Riya Yadav,Kolkata,West Bengal,Furniture,Table,5,8374.95,0.15
+ORD01636,2025-09-26,Nikhil Verma,Chennai,Tamil Nadu,Stationery,File Folder,10,68474.51,0.0
+ORD00178,2025-11-20,Rohit Gupta,Hyderabad,Telangana,Clothing,Jeans,8,5354.4,0.15
+ORD01323,2025-09-17,Rohit Gupta,Jaipur,Rajasthan,Stationery,File Folder,1,70486.36,0.05
+ORD00705,2025-07-05,Rahul Das,Bhopal,Madhya Pradesh,Electronics,Laptop,2,53040.45,0.25
+ORD00087,2025-09-01,Arjun Yadav,Bhopal,Madhya Pradesh,Stationery,File Folder,9,56922.81,0.25
+ORD01884,2025-11-29,Amit Das,Patna,Bihar,Clothing,Jeans,4,51803.22,0.0
+ORD01948,2025-04-16,Nikhil Yadav,Mumbai,Maharashtra,Stationery,Calculator,7,1971.24,0.1
+ORD00458,2025-04-01,Riya Yadav,Hyderabad,Telangana,Electronics,Mobile Phone,6,36786.81,0.15
+ORD01829,2025-01-31,Kavita Das,Delhi,Delhi,Electronics,Laptop,8,25980.69,0.25
+ORD00055,2025-10-11,Priya Verma,Lucknow,Uttar Pradesh,Clothing,Shoes,6,30329.43,0.1
+ORD01502,2025-09-04,Rohit Sharma,Bengaluru,Karnataka,Stationery,File Folder,7,44938.7,0.2
+ORD00644,2025-05-09,Nikhil Kumar,Bhopal,Madhya Pradesh,Furniture,Office Chair,7,27023.02,0.05
+ORD00678,2025-01-12,Anjali Verma,Bengaluru,Karnataka,Electronics,Headphones,2,23057.57,0.15
+ORD00222,2025-05-02,Manish Yadav,Chennai,Tamil Nadu,Grocery,Cooking Oil,2,73888.66,0.05
+ORD00114,2025-08-01,Riya Yadav,Hyderabad,Telangana,Furniture,Sofa,5,38288.18,0.1
+ORD00983,2025-09-09,Rahul Das,Hyderabad,Telangana,Stationery,Pen Set,3,15161.45,0.2
+ORD01229,2025-12-25,Sneha Singh,Hyderabad,Telangana,Stationery,Pen Set,8,53057.95,0.0
+ORD01000,2025-09-19,Suresh Gupta,Kolkata,West Bengal,Furniture,Table,9,21473.61,0.0
+ORD00175,2025-06-29,Sneha Singh,Delhi,Delhi,Grocery,Rice,9,38368.92,0.1
+ORD00782,2025-11-14,Rahul Kumar,Chennai,Tamil Nadu,Furniture,Bookshelf,5,14682.69,0.0
+ORD00590,2025-06-27,riya gupta,Delhi,Delhi,Grocery,Biscuits,9,68646.92,0.1
+ORD01560,2025-05-20,Nikhil Verma,Mumbai,Maharashtra,Grocery,Biscuits,7,17140.54,0.05
+ORD00019,2025-05-03,Amit Verma,Jaipur,Rajasthan,Electronics,Laptop,6,65934.46,0.1
+ORD00424,2025-07-02,Neha Singh,Hyderabad,Telangana,Clothing,Jeans,9,52093.64,0.2
+ORD01344,2025-05-20,Unknown,Bhopal,Madhya Pradesh,Stationery,File Folder,8,31924.36,0.25
+ORD00286,2025-10-13,Kavita Singh,Mumbai,Maharashtra,Grocery,Cooking Oil,7,22712.45,0.0
+ORD01584,2025-01-07,Priya Patel,Jaipur,Rajasthan,Electronics,Headphones,2,49276.18,0.15
+ORD00429,2025-08-03,Priya Das,Bengaluru,Karnataka,Electronics,Laptop,1,29098.8,0.25
+ORD01510,2025-09-23,Neha Patel,Delhi,Delhi,Clothing,Jacket,9,4993.99,0.0
+ORD01319,2025-02-14,Manish Sharma,Kolkata,West Bengal,Clothing,Shoes,5,52731.42,0.0
+ORD00670,2025-09-16,Rahul Verma,Mumbai,Maharashtra,Electronics,Keyboard,8,56524.81,0.2
+ORD00032,2025-10-05,Amit Patel,Mumbai,Maharashtra,Furniture,Bookshelf,4,72661.03,0.2
+ORD00941,2025-12-30,Sneha Kumar,Pune,Maharashtra,Stationery,Marker,10,70464.32,0.2
+ORD00723,2025-06-03,Suresh Patel,Patna,Bihar,Furniture,Bookshelf,5,59317.11,0.1
+ORD00995,2025-01-19,Arjun Singh,Chennai,Tamil Nadu,Clothing,Shoes,3,32696.9,0.15
+ORD00215,2025-12-14,Manish Yadav,Chennai,Tamil Nadu,Grocery,Cooking Oil,1,10922.77,0.1
+ORD00814,2025-12-04,Sneha Patel,Delhi,Delhi,Furniture,Sofa,10,43587.19,0.15
+ORD00327,2025-04-13,Pooja Patel,Kolkata,West Bengal,Grocery,Cooking Oil,5,24219.72,0.25
+ORD00561,2025-11-21,Riya Gupta,Patna,Bihar,Electronics,Headphones,2,52854.28,0.2
+ORD01113,2025-04-02,Neha Kumar,Mumbai,Maharashtra,Electronics,Laptop,5,11723.86,0.1
+ORD00701,2025-05-31,Kavita Kumar,Jaipur,Rajasthan,Stationery,Marker,5,34735.7,0.15
+ORD01579,2025-01-14,Unknown,Lucknow,Uttar Pradesh,Electronics,Headphones,8,50323.28,0.2
+ORD01190,2025-10-12,Pooja Patel,Pune,Maharashtra,Electronics,Mobile Phone,10,52217.39,0.0
+ORD00342,2025-01-03,Sneha Verma,Bhopal,Madhya Pradesh,Grocery,Cooking Oil,8,44517.19,0.15
+ORD00630,2025-04-04,Priya Gupta,Bengaluru,Karnataka,Grocery,Biscuits,7,14303.05,0.0
+ORD00148,2025-10-29,Anjali Kumar,Delhi,Delhi,Electronics,Mobile Phone,1,27028.61,0.05
+ORD01310,2025-09-04,Pooja Singh,Chennai,Tamil Nadu,Clothing,Jeans,4,26358.4,0.15
+ORD00361,2025-02-17,Vikas Gupta,Ahmedabad,Gujarat,Clothing,Shoes,7,34036.38,0.25
+ORD00084,2025-10-19,Kavita Das,Pune,Maharashtra,Electronics,Headphones,8,18478.79,0.15
+ORD00049,2025-04-25,Amit Verma,Jaipur,Rajasthan,Furniture,Desk,8,26386.97,0.05
+ORD00469,2025-12-03,Nikhil Singh,Hyderabad,Telangana,Grocery,Tea,6,38171.79,0.05
+ORD00156,2025-05-11,Anjali Singh,Kolkata,West Bengal,Stationery,Notebook,6,32150.61,0.25
+ORD00773,2025-01-17,Anjali Sharma,Chennai,Tamil Nadu,Furniture,Bookshelf,4,36497.66,0.2
+ORD01240,2025-10-09,Sneha Gupta,Pune,Maharashtra,Grocery,Cooking Oil,1,9805.44,0.15
+ORD01201,2025-03-16,Riya Verma,Delhi,Delhi,Clothing,T-Shirt,6,68216.09,0.1
+ORD01403,2025-08-24,Riya Kumar,Mumbai,Maharashtra,Stationery,Notebook,8,60609.21,0.2
+ORD01203,2025-02-18,Suresh Patel,Mumbai,Maharashtra,Grocery,Biscuits,10,61645.41,0.15
+ORD01631,2025-06-05,Priya Kumar,Kolkata,West Bengal,Clothing,Jeans,1,63856.21,0.2
+ORD00501,2025-01-28,Amit Singh,Hyderabad,Telangana,Stationery,Pen Set,9,66931.63,0.2
+ORD01765,2025-12-17,Sneha Kumar,Ahmedabad,Gujarat,Stationery,Marker,8,74423.48,0.1
+ORD00180,2025-07-16,Pooja Kumar,Chennai,Tamil Nadu,Clothing,T-Shirt,2,46221.88,0.2
+ORD01048,2025-01-25,Rohit Das,Jaipur,Rajasthan,Clothing,Kurta,1,66314.23,0.05
+ORD01756,2025-03-21,Kavita Patel,Mumbai,Maharashtra,Grocery,Cooking Oil,6,7498.19,0.25
+ORD00951,2025-09-27,Manish Singh,Ahmedabad,Gujarat,Grocery,Cooking Oil,10,74850.84,0.0
+ORD01317,2025-08-07,Suresh Patel,Hyderabad,Telangana,Stationery,File Folder,7,26541.74,0.2
+ORD01620,2025-06-19,Riya Singh,Pune,Maharashtra,Furniture,Sofa,9,48193.1,0.2
+ORD00529,2025-01-27,Manish Gupta,Bhopal,Madhya Pradesh,Furniture,Office Chair,3,69664.96,0.2
+ORD00347,2025-09-19,Vikas Das,Pune,Maharashtra,Clothing,T-Shirt,3,28154.63,0.05
+ORD01388,2025-10-29,Vikas Gupta,Lucknow,Uttar Pradesh,Furniture,Bookshelf,6,66627.62,0.15
+ORD01961,2025-10-01,Rahul Yadav,Ahmedabad,Gujarat,Electronics,Unknown,2,20361.05,0.05
+ORD01051,2025-10-31,Manish Patel,Delhi,Delhi,Electronics,Laptop,8,32538.18,0.0
+ORD01973,2025-01-27,Neha Singh,Jaipur,Rajasthan,Stationery,Marker,4,34881.62,0.15
+ORD01442,2025-05-08,Riya Kumar,Pune,Maharashtra,Stationery,Calculator,10,3672.03,0.0
+ORD00602,2025-10-04,Amit Patel,Ahmedabad,Gujarat,Furniture,Office Chair,9,37100.89,0.15
+ORD01282,2025-04-19,Vikas Kumar,Kolkata,West Bengal,Furniture,Bookshelf,2,39232.2,0.05
+ORD00244,2025-03-13,Anjali Patel,Jaipur,Rajasthan,Grocery,Tea,3,45567.97,0.2
+ORD01337,2025-04-02,Arjun Kumar,Kolkata,West Bengal,Clothing,Shoes,3,13690.53,0.0
+ORD01068,2025-10-12,Rahul Singh,Mumbai,Maharashtra,Electronics,Headphones,1,5761.4,0.0
+ORD01476,2025-06-24,Anjali Sharma,Hyderabad,Telangana,Grocery,Cooking Oil,10,19705.85,0.1
+ORD00313,2025-12-13,Nikhil Patel,Bengaluru,Karnataka,Furniture,Table,4,42610.52,0.15
+ORD00436,2025-11-17,Kavita Yadav,Chennai,Tamil Nadu,Electronics,Keyboard,2,22267.57,0.25
+ORD01899,2025-06-05,Vikas Yadav,Bhopal,Madhya Pradesh,Grocery,Biscuits,6,29234.11,0.05
+ORD01329,2025-02-17,Rahul Kumar,Hyderabad,Telangana,Clothing,Kurta,3,71165.35,0.05
+ORD00309,2025-06-19,Kavita Sharma,Bhopal,Madhya Pradesh,Furniture,Office Chair,8,63438.4,0.25
+ORD00431,2025-05-14,Rahul Sharma,Mumbai,Maharashtra,Stationery,Notebook,1,22294.42,0.1
+ORD00661,2025-01-01,Sneha Kumar,Lucknow,Uttar Pradesh,Clothing,Jacket,8,33700.61,0.15
+ORD00371,2025-03-12,Vikas Singh,Delhi,Delhi,Electronics,Laptop,6,27725.24,0.1
+ORD00567,2025-03-07,Kavita Singh,Pune,Maharashtra,Grocery,Cooking Oil,7,1927.84,0.0
+ORD00980,2025-04-29,Suresh Verma,Patna,Bihar,Furniture,Bookshelf,4,35325.72,0.15
+ORD00182,2025-05-07,Sneha Yadav,Delhi,Delhi,Clothing,T-Shirt,9,48548.0,0.0
+ORD01363,2025-12-31,Rahul Patel,Bengaluru,Karnataka,Clothing,Shoes,4,7112.0,0.1
+ORD00622,2025-06-16,Riya Yadav,Mumbai,Maharashtra,Grocery,Cooking Oil,1,2877.83,0.1
+ORD00819,2025-04-23,Nikhil Gupta,Delhi,Delhi,Stationery,File Folder,7,13047.3,0.1
+ORD01193,2025-12-04,Suresh Yadav,Pune,Maharashtra,Clothing,T-Shirt,9,67870.31,0.1
+ORD00953,2025-01-15,Rahul Yadav,Kolkata,West Bengal,Clothing,Kurta,2,62814.05,0.05
+ORD01422,2025-02-07,Pooja Patel,Patna,Bihar,Grocery,Biscuits,2,3047.02,0.25
+ORD01841,2025-03-08,Suresh Gupta,Hyderabad,Telangana,Clothing,Kurta,7,45969.1,0.2
+ORD00923,2025-07-05,Nikhil Sharma,Bengaluru,Karnataka,Grocery,Tea,5,48011.44,0.25
+ORD01074,2025-06-12,Kavita Das,Mumbai,Maharashtra,Furniture,Desk,9,28520.12,0.1
+ORD00297,2025-03-16,Amit Gupta,Pune,Maharashtra,Clothing,Jacket,7,3667.23,0.05
+ORD00967,2025-06-24,Nikhil Singh,Chennai,Tamil Nadu,Grocery,Tea,8,46879.83,0.1
+ORD00462,2025-06-06,Sneha Gupta,Hyderabad,Telangana,Furniture,Table,1,16976.81,0.2
+ORD01303,2025-08-10,Neha Das,Delhi,Delhi,Electronics,Mobile Phone,2,68830.16,0.15
+ORD01177,2025-12-14,Pooja Patel,Bengaluru,Karnataka,Furniture,Office Chair,9,29573.35,0.15
+ORD00378,2025-08-04,Anjali Singh,Chennai,Tamil Nadu,Clothing,Jeans,7,64595.85,0.2
+ORD00799,2025-01-19,Sneha Singh,Hyderabad,Telangana,Grocery,Cooking Oil,10,17665.68,0.0
+ORD01103,2025-01-21,Sneha Sharma,Lucknow,Uttar Pradesh,Clothing,Kurta,8,34650.29,0.2
+ORD00106,2025-08-29,Suresh Yadav,Hyderabad,Telangana,Clothing,Kurta,1,57292.4,0.05
+ORD00127,2025-10-26,Priya Verma,Delhi,Delhi,Grocery,Tea,10,51314.31,0.15
+ORD01996,2025-01-17,Priya Gupta,Jaipur,Rajasthan,Electronics,Mobile Phone,1,406.02,0.05
+ORD00839,2025-12-02,Arjun Patel,Patna,Bihar,Furniture,Table,6,31023.96,0.1
+ORD00356,2025-11-20,Vikas Singh,Pune,Maharashtra,Furniture,Table,6,64613.39,0.2
+ORD01617,2025-07-19,Suresh Verma,Hyderabad,Telangana,Electronics,Headphones,1,55786.66,0.25
+ORD00683,2025-02-15,Priya Verma,Lucknow,Uttar Pradesh,Electronics,Headphones,8,65041.26,0.2
+ORD00813,2025-09-06,Suresh Sharma,Patna,Bihar,Electronics,Laptop,9,13397.6,0.0
+ORD01681,2025-08-22,Amit Kumar,Delhi,Delhi,Grocery,Biscuits,8,19332.52,0.0
+ORD00210,2025-06-23,Priya Yadav,Delhi,Delhi,Clothing,Shoes,7,55812.25,0.15
+ORD01493,2025-05-15,Rahul Singh,Bengaluru,Karnataka,Electronics,Laptop,8,66693.76,0.15
+ORD00141,2025-07-09,Arjun Das,Delhi,Delhi,Electronics,Mobile Phone,9,10390.89,0.15
+ORD01975,2025-09-02,Amit Yadav,Delhi,Delhi,Grocery,Biscuits,6,61626.79,0.2
+ORD01340,2025-04-23,Rahul Singh,Pune,Maharashtra,Clothing,T-Shirt,4,2454.95,0.05
+ORD01798,2025-08-10,Priya Yadav,Pune,Maharashtra,Clothing,Kurta,3,49558.95,0.2
+ORD01575,2025-01-03,Pooja Singh,Bhopal,Madhya Pradesh,Furniture,Desk,9,63463.71,0.1
+ORD01182,2025-04-02,Amit Sharma,Kolkata,West Bengal,Stationery,Pen Set,1,7429.57,0.15
+ORD01394,2025-03-21,Rahul Gupta,Mumbai,Maharashtra,Clothing,Jacket,9,49983.12,0.2
+ORD01816,2025-07-28,Sneha Patel,Bhopal,Madhya Pradesh,Stationery,Marker,6,60285.17,0.15
+ORD00712,2025-03-16,Riya Kumar,Patna,Bihar,Furniture,Desk,1,49082.45,0.0
+ORD01794,2025-07-24,Priya Verma,Jaipur,Rajasthan,Stationery,File Folder,6,25500.65,0.25
+ORD00893,2025-08-15,Pooja Kumar,Patna,Bihar,Stationery,Notebook,7,33896.14,0.15
+ORD00860,2025-09-10,Rahul Patel,Kolkata,West Bengal,Furniture,Sofa,4,2376.08,0.1
+ORD00011,2025-06-11,Neha Yadav,Chennai,Tamil Nadu,Stationery,Marker,2,16020.97,0.2
+ORD01695,2025-12-09,Kavita Gupta,Bengaluru,Karnataka,Furniture,Bookshelf,6,53356.92,0.15
+ORD01428,2025-02-04,Pooja Das,Lucknow,Uttar Pradesh,Clothing,Jacket,10,67506.74,0.05
+ORD00283,2025-01-18,Pooja Kumar,Ahmedabad,Gujarat,Electronics,Mobile Phone,4,5279.99,0.2
+ORD00811,2025-09-12,Priya Singh,Patna,Bihar,Furniture,Office Chair,3,51471.97,0.15
+ORD01342,2025-05-09,Priya Verma,Jaipur,Rajasthan,Stationery,File Folder,9,70989.34,0.05
+ORD00292,2025-10-28,Sneha Verma,Hyderabad,Telangana,Grocery,Sugar,1,65553.13,0.05
+ORD00755,2025-07-26,Riya Singh,Bhopal,Madhya Pradesh,Clothing,T-Shirt,10,856.91,0.2
+ORD00627,2025-05-30,Kavita Verma,Lucknow,Uttar Pradesh,Electronics,Keyboard,8,22645.89,0.15
+ORD00944,2025-03-14,Rohit Sharma,Jaipur,Rajasthan,Furniture,Office Chair,6,53341.6,0.15
+ORD00862,2025-10-25,Amit Singh,Chennai,Tamil Nadu,Grocery,Sugar,1,63434.69,0.05
+ORD00130,2025-10-20,Anjali Gupta,Bengaluru,Karnataka,Furniture,Sofa,8,8222.33,0.15
+ORD01176,2025-09-07,Sneha Das,Mumbai,Maharashtra,Furniture,Desk,1,69256.05,0.05
+ORD00324,2025-09-05,Manish Sharma,Mumbai,Maharashtra,Electronics,Mobile Phone,7,20878.15,0.1
+ORD01091,2025-10-13,Amit Patel,Chennai,Tamil Nadu,Furniture,Sofa,7,15916.46,0.15
+ORD00844,2025-12-07,Anjali Patel,Bengaluru,Karnataka,Clothing,Jeans,4,42295.92,0.0
+ORD00964,2025-07-31,Rahul Yadav,Lucknow,Uttar Pradesh,Electronics,Laptop,9,8295.5,0.15
+ORD01865,2025-10-29,Amit Verma,Jaipur,Rajasthan,Electronics,Keyboard,9,5330.12,0.05
+ORD00866,2025-01-07,Priya Gupta,Bengaluru,Karnataka,Clothing,T-Shirt,9,43608.49,0.05
+ORD00922,2025-01-28,Sneha Verma,Bengaluru,Karnataka,Electronics,Monitor,1,63150.1,0.25
+ORD00696,2025-12-10,Neha Verma,Patna,Bihar,Stationery,Notebook,5,71277.3,0.05
+ORD00216,2025-07-05,Vikas Kumar,Patna,Bihar,Furniture,Office Chair,4,58444.02,0.1
+ORD01781,2025-10-19,Amit Singh,Hyderabad,Telangana,Grocery,Cooking Oil,4,54437.03,0.0
+ORD01262,2025-04-27,Vikas Das,Lucknow,Uttar Pradesh,Stationery,Pen Set,1,68434.48,0.0
+ORD00159,2025-06-09,Anjali Sharma,Kolkata,West Bengal,Clothing,Shoes,1,72637.8,0.2
+ORD01059,2025-07-01,Vikas Yadav,Ahmedabad,Gujarat,Furniture,Table,3,47892.94,0.1
+ORD00989,2025-04-16,Nikhil Patel,Lucknow,Uttar Pradesh,Electronics,Monitor,2,12736.71,0.0
+ORD00842,2025-10-02,Rohit Singh,Bengaluru,Karnataka,Stationery,Pen Set,10,69328.84,0.25
+ORD00635,2025-04-09,Nikhil Gupta,Patna,Bihar,Clothing,Shoes,2,40853.6,0.05
+ORD00517,2025-05-29,Arjun Patel,Bhopal,Madhya Pradesh,Grocery,Cooking Oil,4,15926.02,0.25
+ORD01429,2025-06-02,Rahul Sharma,Hyderabad,Telangana,Stationery,Notebook,10,6091.25,0.2
+ORD01748,2025-11-11,Rahul Das,Patna,Bihar,Grocery,Rice,6,37100.89,0.0
+ORD00598,2025-04-28,Neha Verma,Jaipur,Rajasthan,Furniture,Desk,4,65487.5,0.05
+ORD00196,2025-01-28,Vikas Patel,Delhi,Delhi,Furniture,Sofa,6,69802.78,0.15
+ORD01784,2025-10-13,Priya Singh,Patna,Bihar,Stationery,Notebook,4,45224.09,0.1
+ORD00870,2025-09-25,Manish Patel,Bhopal,Madhya Pradesh,Clothing,Jeans,8,66757.05,0.2
+ORD00411,2025-02-01,Rahul Gupta,Hyderabad,Telangana,Clothing,Shoes,7,66237.7,0.15
+ORD00097,2025-08-19,Nikhil Yadav,Ahmedabad,Gujarat,Grocery,Sugar,4,58233.09,0.15
+ORD01001,2025-10-31,Rohit Verma,Lucknow,Uttar Pradesh,Clothing,Jeans,1,2334.87,0.2
+ORD01506,2025-07-30,Vikas Yadav,Kolkata,West Bengal,Electronics,Monitor,6,19804.99,0.1
+ORD00157,2025-08-10,Rahul Patel,Hyderabad,Telangana,Stationery,Notebook,10,62424.95,0.0
+ORD00420,2025-04-14,Manish Singh,Patna,Bihar,Grocery,Tea,1,25047.12,0.2
+ORD01803,2025-02-03,Anjali Patel,Chennai,Tamil Nadu,Clothing,Jeans,3,71857.25,0.1
+ORD00478,2025-01-08,Nikhil Patel,Kolkata,West Bengal,Electronics,Laptop,9,15156.22,0.1
+ORD01856,2025-07-12,Suresh Kumar,Lucknow,Uttar Pradesh,Stationery,Marker,3,23816.34,0.25
+ORD00669,2025-06-17,Suresh Verma,Bengaluru,Karnataka,Grocery,Rice,6,40609.75,0.05
+ORD01418,2025-12-04,Priya Gupta,Kolkata,West Bengal,Electronics,Keyboard,7,72200.99,0.2
+ORD01872,2025-04-28,Kavita Gupta,Ahmedabad,Gujarat,Clothing,Jacket,8,4313.97,0.25
+ORD01300,2025-01-30,Sneha Verma,Lucknow,Uttar Pradesh,Stationery,Marker,1,46640.88,0.25
+ORD00448,2025-02-21,Manish Gupta,Ahmedabad,Gujarat,Grocery,Sugar,2,69388.38,0.2
+ORD00554,2025-09-17,Arjun Kumar,Lucknow,Uttar Pradesh,Furniture,Bookshelf,2,54625.05,0.0
+ORD00179,2025-08-20,Amit Kumar,Ahmedabad,Gujarat,Electronics,Headphones,9,5795.75,0.15
+ORD00391,2025-04-02,Neha Kumar,Ahmedabad,Gujarat,Clothing,T-Shirt,9,50581.1,0.0
+ORD00579,2025-08-07,Arjun Gupta,Hyderabad,Telangana,Furniture,Bookshelf,6,27329.67,0.05
+ORD01478,2025-10-11,Sneha Yadav,Mumbai,Maharashtra,Stationery,Notebook,3,9278.97,0.1
+ORD01707,2025-06-01,Vikas Das,Lucknow,Uttar Pradesh,Grocery,Tea,4,21062.0,0.15
+ORD01288,2025-07-02,Manish Gupta,Patna,Bihar,Electronics,Headphones,2,70777.31,0.0
+ORD01645,2025-11-04,Rohit Yadav,Ahmedabad,Gujarat,Grocery,Tea,1,19068.15,0.15
+ORD01024,2025-06-07,Vikas Singh,Bengaluru,Karnataka,Furniture,Desk,5,57680.78,0.05
+ORD00821,2025-05-23,Amit Das,Lucknow,Uttar Pradesh,Stationery,Pen Set,10,35643.3,0.15
+ORD01825,2025-05-15,Priya Verma,Jaipur,Rajasthan,Furniture,Table,1,6196.98,0.05
+ORD00985,2025-06-22,Vikas Sharma,Chennai,Tamil Nadu,Furniture,Desk,9,2639.76,0.0
+ORD01339,2025-01-12,Suresh Singh,Lucknow,Uttar Pradesh,Clothing,T-Shirt,4,45556.78,0.2
+ORD00665,2025-04-22,Sneha Sharma,Pune,Maharashtra,Clothing,Jacket,2,42893.92,0.2
+ORD00143,2025-07-05,Rahul Patel,Bhopal,Madhya Pradesh,Clothing,Jeans,8,33491.02,0.05
+ORD01517,2025-01-12,Rohit Gupta,Pune,Maharashtra,Grocery,Biscuits,6,32030.16,0.25
+ORD01430,2025-04-25,Riya Gupta,Jaipur,Rajasthan,Furniture,Office Chair,10,40655.22,0.0
+ORD00865,2025-12-17,Manish Gupta,Delhi,Delhi,Grocery,Cooking Oil,9,24364.86,0.1
+ORD00422,2025-07-22,Kavita Sharma,Delhi,Delhi,Grocery,Biscuits,2,28175.91,0.25
+ORD00637,2025-08-31,Vikas Gupta,Pune,Maharashtra,Stationery,Notebook,9,50034.09,0.05
+ORD01407,2025-02-28,Rahul Kumar,Bengaluru,Karnataka,Clothing,T-Shirt,8,46868.88,0.05
+ORD00800,2025-11-29,Priya Kumar,Jaipur,Rajasthan,Electronics,Keyboard,10,3673.68,0.25
+ORD01404,2025-05-29,Kavita Yadav,Delhi,Delhi,Electronics,Headphones,2,25177.89,0.0
+ORD00616,2025-02-10,Priya Patel,Kolkata,West Bengal,Grocery,Sugar,7,63705.33,0.0
+ORD00295,2025-07-03,Rohit Gupta,Lucknow,Uttar Pradesh,Clothing,Jacket,7,35102.22,0.25
+ORD00924,2025-05-11,Rohit Sharma,Lucknow,Uttar Pradesh,Furniture,Sofa,7,837.99,0.15
+ORD01269,2025-03-07,Priya Das,Delhi,Delhi,Grocery,Tea,5,11063.92,0.1
+ORD01903,2025-11-20,Nikhil Sharma,Lucknow,Uttar Pradesh,Electronics,Laptop,4,54389.83,0.25
+ORD00089,2025-10-09,Anjali Patel,Jaipur,Rajasthan,Grocery,Sugar,6,32056.41,0.25
+ORD00042,2025-01-02,Anjali Singh,Bengaluru,Karnataka,Electronics,Laptop,7,62243.77,0.0
+ORD01802,2025-06-19,Riya Sharma,Delhi,Delhi,Electronics,Laptop,1,69032.84,0.0
+ORD01934,2025-11-23,Neha Verma,Ahmedabad,Gujarat,Grocery,Cooking Oil,2,54413.3,0.1
+ORD00132,2025-04-23,Arjun Verma,Ahmedabad,Gujarat,Stationery,Marker,4,45628.11,0.1
+ORD01002,2025-05-13,Arjun Patel,Bengaluru,Karnataka,Stationery,Calculator,2,54965.97,0.1
+ORD01158,2025-05-24,Sneha Verma,Bhopal,Madhya Pradesh,Furniture,Office Chair,10,9436.37,0.2
+ORD01095,2025-09-01,Rahul Patel,Kolkata,West Bengal,Furniture,Sofa,2,40203.17,0.05
+ORD01855,2025-01-27,Riya Patel,Mumbai,Maharashtra,Grocery,Cooking Oil,6,71718.89,0.0
+ORD01345,2025-06-30,Anjali Sharma,Ahmedabad,Gujarat,Electronics,Monitor,7,32341.14,0.2
+ORD01499,2025-09-09,Suresh Verma,Pune,Maharashtra,Electronics,Monitor,4,489.03,0.0
+ORD00165,2025-03-21,Priya Kumar,Bhopal,Madhya Pradesh,Clothing,Kurta,10,6600.54,0.0
+ORD00725,2025-11-27,Priya Yadav,Pune,Maharashtra,Clothing,Jacket,8,68733.19,0.0
+ORD00291,2025-01-27,Rohit Das,Jaipur,Rajasthan,Clothing,T-Shirt,9,54412.71,0.05
+ORD01209,2025-05-03,Rahul Singh,Bengaluru,Karnataka,Stationery,Marker,2,47692.08,0.0
+ORD01589,2025-05-25,Amit Sharma,Pune,Maharashtra,Grocery,Sugar,8,37100.89,0.15
+ORD01897,2025-04-06,Riya Sharma,Pune,Maharashtra,Electronics,Laptop,1,22359.86,0.05
+ORD01642,2025-04-11,Pooja Sharma,Delhi,Delhi,Grocery,Rice,6,59303.71,0.0
+ORD01362,2025-10-23,Pooja Yadav,Ahmedabad,Unknown,Stationery,File Folder,2,39251.84,0.05
+ORD00779,2025-05-11,Arjun Das,Ahmedabad,Gujarat,Clothing,Jacket,5,20214.81,0.0
+ORD00840,2025-10-18,Priya Gupta,Jaipur,Rajasthan,Grocery,Sugar,9,33532.91,0.1
+ORD00349,2025-08-19,Kavita Kumar,Lucknow,Uttar Pradesh,Furniture,Sofa,5,10737.17,0.1
+ORD01945,2025-05-04,Pooja Singh,Jaipur,Rajasthan,Electronics,Laptop,4,63442.32,0.05
+ORD00572,2025-03-09,Rahul Kumar,Jaipur,Rajasthan,Grocery,Sugar,2,17428.58,0.15
+ORD00918,2025-06-18,Riya Das,Delhi,Delhi,Furniture,Table,2,58046.02,0.1
+ORD00977,2025-04-29,Sneha Kumar,Jaipur,Rajasthan,Grocery,Sugar,10,70162.25,0.15
+ORD01914,2025-03-12,Rahul Kumar,Delhi,Delhi,Clothing,Jacket,8,30249.19,0.05
+ORD01469,2025-07-15,Manish Sharma,Pune,Maharashtra,Stationery,Calculator,1,49365.19,0.05
+ORD01592,2025-01-19,Suresh Das,Jaipur,Rajasthan,Clothing,Jacket,1,44784.47,0.1
+ORD01318,2025-11-01,Priya Das,Delhi,Delhi,Furniture,Sofa,7,28140.83,0.2
+ORD01845,2025-09-08,Kavita Yadav,Chennai,Tamil Nadu,Grocery,Cooking Oil,10,45801.69,0.05
+ORD00137,2025-01-08,Rohit Sharma,Mumbai,Maharashtra,Furniture,Sofa,9,27591.68,0.15
+ORD00459,2025-12-19,Rahul Gupta,Ahmedabad,Gujarat,Grocery,Biscuits,6,12472.64,0.1
+ORD00376,2025-07-20,Rohit Kumar,Hyderabad,Telangana,Clothing,Jeans,9,45617.78,0.05
+ORD01343,2025-06-09,Priya Verma,Hyderabad,Telangana,Clothing,Shoes,2,43877.71,0.2
+ORD00334,2025-10-16,Arjun Das,Delhi,Delhi,Furniture,Bookshelf,3,48613.24,0.0
+ORD01160,2025-11-07,Pooja Das,Patna,Bihar,Clothing,T-Shirt,6,50925.22,0.05
+ORD01761,2025-12-04,Sneha Sharma,Pune,Maharashtra,Stationery,Notebook,6,4632.16,0.15
+ORD01458,2025-08-16,Pooja Kumar,Delhi,Delhi,Clothing,Kurta,6,62740.98,0.05
+ORD00817,2025-04-10,Arjun Patel,Ahmedabad,Gujarat,Stationery,Pen Set,7,28168.01,0.15
+ORD01115,2025-07-13,Manish Verma,Kolkata,West Bengal,Clothing,Shoes,1,44965.85,0.0
+ORD01006,2025-02-11,Rahul Kumar,Chennai,Tamil Nadu,Stationery,Notebook,3,53445.12,0.15
+ORD01857,2025-01-18,Arjun Gupta,Hyderabad,Telangana,Stationery,Marker,7,13555.38,0.2
+ORD01955,2025-11-27,Suresh Verma,Bengaluru,Karnataka,Stationery,Unknown,3,16630.47,0.2
+ORD01851,2025-05-08,Manish Das,Bengaluru,Karnataka,Electronics,Mobile Phone,9,59963.93,0.1
+ORD00911,2025-05-17,Riya Gupta,Kolkata,West Bengal,Stationery,Marker,2,47636.08,0.15
+ORD01930,2025-06-10,Nikhil Patel,Bengaluru,Karnataka,Clothing,Jacket,5,44683.93,0.05
+ORD01126,2025-03-12,Anjali Yadav,Bengaluru,Karnataka,Furniture,Sofa,4,46577.53,0.0
+ORD00329,2025-04-13,Kavita Singh,Chennai,Tamil Nadu,Stationery,Marker,7,27534.91,0.2
+ORD01248,2025-10-01,Rahul Kumar,Mumbai,Maharashtra,Clothing,T-Shirt,4,74217.84,0.05
+ORD00319,2025-08-16,Anjali Gupta,Chennai,Tamil Nadu,Clothing,T-Shirt,2,638.34,0.1
+ORD01690,2025-02-27,Pooja Yadav,Delhi,Delhi,Electronics,Headphones,4,7136.26,0.0
+ORD01359,2025-01-27,Rohit Kumar,Delhi,Delhi,Furniture,Bookshelf,9,74219.99,0.25
+ORD01733,2025-04-12,Rahul Sharma,Lucknow,Uttar Pradesh,Grocery,Cooking Oil,7,46480.71,0.0
+ORD00168,2025-01-29,Amit Verma,Lucknow,Uttar Pradesh,Clothing,T-Shirt,4,29795.94,0.2
+ORD00013,2025-03-12,Suresh Yadav,Bhopal,Madhya Pradesh,Grocery,Tea,10,30105.19,0.05
+ORD01927,2025-06-05,Riya Patel,Bengaluru,Karnataka,Stationery,Marker,8,48849.97,0.1
+ORD00172,2025-06-16,Priya Yadav,Ahmedabad,Gujarat,Stationery,File Folder,5,8859.21,0.0
+ORD00650,2025-02-19,Suresh Sharma,Ahmedabad,Gujarat,Clothing,Jacket,7,48157.57,0.0
+ORD01062,2025-09-23,Kavita Singh,Bengaluru,Karnataka,Grocery,Biscuits,5,27820.04,0.0
+ORD00261,2025-01-19,Riya Das,Lucknow,Uttar Pradesh,Electronics,Mobile Phone,7,66197.81,0.05
+ORD01367,2025-04-07,Rahul Gupta,Kolkata,West Bengal,Stationery,Calculator,9,15425.8,0.15
+ORD01549,2025-11-08,Arjun Yadav,Hyderabad,Telangana,Electronics,Monitor,1,64773.1,0.15
+ORD00902,2025-02-21,Sneha Verma,Kolkata,West Bengal,Grocery,Tea,6,43047.26,0.15
+ORD00673,2025-04-11,Suresh Verma,Jaipur,Rajasthan,Grocery,Cooking Oil,8,29800.08,0.2
+ORD00259,2025-07-28,Arjun Yadav,Delhi,Delhi,Furniture,Office Chair,9,73348.83,0.05
+ORD00845,2025-06-04,Rahul Kumar,Mumbai,Maharashtra,Clothing,Shoes,9,73166.06,0.2
+ORD00868,2025-09-30,Sneha Sharma,Lucknow,Uttar Pradesh,Furniture,Desk,9,46103.77,0.2
+ORD01800,2025-08-28,Neha Singh,Hyderabad,Telangana,Stationery,Calculator,4,11513.57,0.1
+ORD00139,2025-04-24,Arjun Sharma,Jaipur,Rajasthan,Electronics,Monitor,9,24768.47,0.2
+ORD00894,2025-09-09,Vikas Singh,Patna,Bihar,Furniture,Table,5,66381.34,0.05
+ORD01838,2025-09-07,Arjun Kumar,Jaipur,Rajasthan,Grocery,Tea,7,32774.29,0.05
+ORD00550,2025-07-06,Manish Patel,Chennai,Tamil Nadu,Grocery,Biscuits,10,11641.52,0.2
+ORD00320,2025-10-12,Suresh Das,Delhi,Delhi,Furniture,Office Chair,3,32465.72,0.2
+ORD01527,2025-03-24,Suresh Sharma,Delhi,Delhi,Stationery,Notebook,7,37100.89,0.0
+ORD01806,2025-08-16,Rahul Kumar,Bhopal,Madhya Pradesh,Clothing,Jeans,2,49874.21,0.05
+ORD01178,2025-12-23,Nikhil Verma,Kolkata,West Bengal,Stationery,Notebook,9,54574.91,0.1
+ORD00559,2025-04-29,Rahul Gupta,Bhopal,Madhya Pradesh,Stationery,Marker,1,16606.73,0.15
+ORD00140,2025-01-20,Rohit Yadav,Hyderabad,Telangana,Stationery,Marker,7,8971.53,0.0
+ORD01735,2025-06-15,Neha Yadav,Mumbai,Maharashtra,Stationery,Notebook,5,46103.15,0.0
+ORD00532,2025-04-22,Manish Yadav,Chennai,Tamil Nadu,Furniture,Desk,6,24997.22,0.1
+ORD00225,2025-03-07,Nikhil Singh,Chennai,Tamil Nadu,Electronics,Keyboard,8,51088.15,0.1
+ORD00724,2025-11-12,Amit Singh,Patna,Bihar,Electronics,Headphones,6,29854.69,0.2
+ORD00787,2025-11-09,Vikas Singh,Mumbai,Maharashtra,Stationery,Notebook,8,73461.79,0.05
+ORD01718,2025-05-24,Riya Gupta,Pune,Maharashtra,Stationery,File Folder,7,4484.78,0.0
+ORD01008,2025-09-13,Arjun Das,Ahmedabad,Gujarat,Grocery,Sugar,7,65433.11,0.2
+ORD00410,2025-11-11,Kavita Verma,Mumbai,Maharashtra,Clothing,Jacket,8,66285.93,0.0
+ORD00326,2025-06-18,Pooja Patel,Bengaluru,Karnataka,Electronics,Keyboard,6,63160.6,0.15
+ORD01766,2025-10-20,Suresh Singh,Lucknow,Uttar Pradesh,Electronics,Mobile Phone,2,23207.21,0.2
+ORD00300,2025-03-28,Priya Yadav,Bhopal,Madhya Pradesh,Stationery,File Folder,3,55024.72,0.1
+ORD01263,2025-07-16,Arjun Sharma,Mumbai,Maharashtra,Clothing,Jacket,4,69146.4,0.25
+ORD01946,2025-06-07,Vikas Das,Mumbai,Maharashtra,Furniture,Bookshelf,2,486.83,0.25
+ORD00026,2025-07-01,Vikas Das,Jaipur,Rajasthan,Stationery,Pen Set,2,7495.58,0.15
+ORD01859,2025-05-01,Rahul Patel,Delhi,Delhi,Unknown,Desk,2,39327.85,0.25
+ORD00715,2025-06-15,Anjali Das,Jaipur,Rajasthan,Grocery,Biscuits,1,7211.19,0.1
+ORD01010,2025-08-31,Amit Singh,Mumbai,Maharashtra,Grocery,Sugar,2,52161.69,0.15
+ORD00194,2025-12-31,Riya Sharma,Bengaluru,Karnataka,Electronics,Keyboard,6,41701.92,0.0
+ORD00441,2025-04-27,Suresh Kumar,Hyderabad,Telangana,Clothing,Kurta,7,72810.24,0.2
+ORD00574,2025-02-17,Pooja Singh,Ahmedabad,Gujarat,Grocery,Rice,9,37873.86,0.0
+ORD00947,2025-04-28,Priya Kumar,Mumbai,Maharashtra,Grocery,Tea,1,14371.77,0.0
+ORD00998,2025-11-13,Arjun Yadav,Bhopal,Madhya Pradesh,Stationery,File Folder,6,66596.59,0.2
+ORD00504,2025-08-17,Anjali Sharma,Delhi,Delhi,Stationery,File Folder,10,33745.37,0.15
+ORD00606,2025-07-06,Riya Das,Jaipur,Rajasthan,Stationery,Pen Set,7,52628.27,0.1
+ORD01717,2025-11-05,Kavita Patel,Bengaluru,Karnataka,Furniture,Table,2,6870.83,0.25
+ORD01164,2025-12-04,Sneha Sharma,Delhi,Delhi,Stationery,Calculator,4,18440.86,0.05
+ORD01787,2025-03-03,Riya Verma,Kolkata,West Bengal,Electronics,Monitor,1,61074.53,0.2
+ORD00847,2025-12-08,Priya Yadav,Hyderabad,Telangana,Clothing,Shoes,5,72728.02,0.2
+ORD00004,2025-02-22,Rahul Das,Mumbai,Maharashtra,Stationery,Marker,5,11872.09,0.1
+ORD01287,2025-10-17,Amit Yadav,Hyderabad,Telangana,Electronics,Mobile Phone,5,6606.69,0.2
+ORD01223,2025-01-17,Priya Verma,Bengaluru,Karnataka,Electronics,Mobile Phone,7,31723.92,0.1
+ORD00468,2025-04-08,Anjali Verma,Kolkata,West Bengal,Stationery,Notebook,10,53178.15,0.2
+ORD00322,2025-10-14,Nikhil Verma,Kolkata,West Bengal,Electronics,Headphones,7,29238.02,0.0
+ORD00006,2025-07-05,Kavita Verma,Kolkata,West Bengal,Electronics,Monitor,5,62248.0,0.2
+ORD00223,2025-03-08,Kavita Sharma,Patna,Bihar,Clothing,Kurta,10,27826.11,0.2
+ORD01375,2025-12-25,Sneha Das,Pune,Maharashtra,Electronics,Monitor,2,20840.6,0.2
+ORD00548,2025-09-07,Anjali Patel,Bengaluru,Karnataka,Electronics,Headphones,2,15006.97,0.2
+ORD00229,2025-11-16,Sneha Patel,Lucknow,Uttar Pradesh,Furniture,Table,10,11776.02,0.25
+ORD00040,2025-10-11,Priya Gupta,Hyderabad,Telangana,Electronics,Mobile Phone,5,8878.29,0.0
+ORD00543,2025-10-07,Rohit Singh,Jaipur,Rajasthan,Furniture,Table,4,10444.51,0.15
+ORD00243,2025-01-20,Priya Patel,Pune,Maharashtra,Grocery,Sugar,7,37630.82,0.0
+ORD00899,2025-10-31,Rahul Sharma,Chennai,Tamil Nadu,Electronics,Mobile Phone,4,17788.0,0.1
+ORD01134,2025-05-20,Riya Yadav,Bengaluru,Karnataka,Clothing,Kurta,8,72587.5,0.05
+ORD01449,2025-05-19,Rohit Das,Bhopal,Madhya Pradesh,Stationery,File Folder,2,1841.4,0.0
+ORD01869,2025-08-20,Amit Yadav,Pune,Maharashtra,Clothing,Jacket,7,9157.78,0.1
+ORD00843,2025-10-22,Priya Yadav,Mumbai,Maharashtra,Furniture,Desk,4,8989.57,0.1
+ORD01419,2025-07-26,Rahul Kumar,Mumbai,Maharashtra,Clothing,Kurta,10,26270.12,0.2
+ORD01654,2025-07-21,Manish Das,Chennai,Tamil Nadu,Clothing,Jacket,8,37100.89,0.2
+ORD01970,2025-04-12,Manish Kumar,Kolkata,West Bengal,Stationery,Marker,6,2034.72,0.15
+ORD00662,2025-01-04,Rohit Verma,Bengaluru,Karnataka,Grocery,Rice,9,10347.66,0.1
+ORD01211,2025-01-08,Kavita Verma,Jaipur,Rajasthan,Stationery,Calculator,9,52416.68,0.15
+ORD00315,2025-07-23,Manish Patel,Pune,Maharashtra,Electronics,Headphones,10,57733.17,0.2
+ORD00692,2025-08-15,Sneha Gupta,Bhopal,Madhya Pradesh,Electronics,Headphones,7,72099.41,0.1
+ORD01504,2025-12-23,Vikas Singh,Delhi,Delhi,Furniture,Sofa,6,49630.81,0.1
+ORD00425,2025-12-26,Kavita Das,Kolkata,West Bengal,Clothing,Jacket,3,13533.69,0.0
+ORD00595,2025-09-22,Suresh Kumar,Kolkata,West Bengal,Furniture,Desk,6,31078.84,0.1
+ORD01964,2025-05-04,Riya Patel,Kolkata,West Bengal,Furniture,Desk,1,35312.75,0.05
+ORD00623,2025-10-04,Priya Yadav,Jaipur,Rajasthan,Grocery,Biscuits,9,33502.16,0.25
+ORD01171,2025-09-24,Arjun Verma,Kolkata,West Bengal,Stationery,Marker,6,59864.48,0.05
+ORD01044,2025-12-04,Sneha Singh,Bengaluru,Karnataka,Grocery,Sugar,8,12993.16,0.05
+ORD00228,2025-11-11,Suresh Sharma,Bengaluru,Karnataka,Furniture,Table,5,9606.48,0.1
+ORD01118,2025-10-15,Arjun Verma,Patna,Bihar,Stationery,Calculator,2,61217.92,0.1
+ORD01332,2025-07-13,Manish Gupta,Mumbai,Maharashtra,Furniture,Desk,5,14738.71,0.05
+ORD01316,2025-03-05,Sneha Yadav,Chennai,Tamil Nadu,Clothing,T-Shirt,5,67274.95,0.2
+ORD00067,2025-12-22,Priya Verma,Chennai,Tamil Nadu,Grocery,Rice,3,11524.59,0.15
+ORD00025,2025-10-23,Pooja Verma,Bengaluru,Karnataka,Stationery,Pen Set,9,10140.31,0.2
+ORD00145,2025-03-06,Manish Verma,Hyderabad,Telangana,Grocery,Rice,1,59062.9,0.05
+ORD00537,2025-08-11,Arjun Sharma,Hyderabad,Telangana,Stationery,Notebook,4,40447.13,0.25
+ORD00812,2025-05-09,Anjali Yadav,Hyderabad,Telangana,Electronics,Laptop,6,21558.57,0.15
+ORD01467,2025-07-08,Amit Gupta,Hyderabad,Telangana,Clothing,Shoes,5,46738.25,0.05
+ORD00086,2025-04-08,Rahul Verma,Chennai,Tamil Nadu,Clothing,Kurta,5,41795.38,0.2
+ORD01661,2025-10-29,Rohit Verma,Mumbai,Maharashtra,Electronics,Headphones,7,61867.22,0.05
+ORD01646,2025-11-27,Rohit Gupta,Hyderabad,Telangana,Furniture,Bookshelf,9,36375.15,0.1
+ORD01805,2025-07-29,Priya Yadav,Mumbai,Maharashtra,Furniture,Sofa,2,40039.81,0.2
+ORD01818,2025-03-07,Manish Sharma,Hyderabad,Telangana,Electronics,Headphones,9,67212.48,0.0
+ORD01577,2025-07-18,Priya Patel,Hyderabad,Telangana,Stationery,File Folder,4,57288.45,0.0
+ORD01145,2025-03-26,Riya Das,Kolkata,West Bengal,Grocery,Rice,9,68268.7,0.15
+ORD00363,2025-04-19,Pooja Gupta,Hyderabad,Telangana,Clothing,T-Shirt,9,29979.26,0.15
+ORD01612,2025-07-20,Neha Das,Chennai,Tamil Nadu,Clothing,T-Shirt,6,37797.27,0.2
+ORD01866,2025-10-25,NIKHIL PATEL,Pune,Maharashtra,Grocery,Tea,1,26366.27,0.0
+ORD01027,2025-07-17,Rahul Gupta,Ahmedabad,Gujarat,Grocery,Cooking Oil,8,38269.44,0.2
+ORD01031,2025-10-12,Pooja Kumar,Chennai,Tamil Nadu,Grocery,Cooking Oil,4,40430.79,0.15
+ORD01304,2025-04-19,Sneha Yadav,Chennai,Tamil Nadu,Electronics,Headphones,6,74733.76,0.15
+ORD01356,2025-11-10,Amit Das,Chennai,Tamil Nadu,Stationery,Notebook,9,58152.35,0.15
+ORD01731,2025-07-05,Manish Singh,Pune,Maharashtra,Clothing,Shoes,6,25440.84,0.15
+ORD00666,2025-12-26,Kavita Sharma,Bhopal,Madhya Pradesh,Clothing,Shoes,3,36748.66,0.25
+ORD00365,2025-01-09,Rahul Singh,Hyderabad,Telangana,Electronics,Laptop,2,47056.92,0.15
+ORD00078,2025-06-09,Rahul Kumar,Mumbai,Maharashtra,Grocery,Sugar,2,58389.94,0.05
+ORD00028,2025-08-25,Neha Sharma,Pune,Maharashtra,Grocery,Tea,3,31785.65,0.1
+ORD01437,2025-08-09,Pooja Gupta,Delhi,Delhi,Electronics,Keyboard,9,17087.07,0.1
+ORD00526,2025-05-31,Pooja Singh,Ahmedabad,Gujarat,Grocery,Sugar,4,58266.97,0.05
+ORD01835,2025-03-30,Priya Singh,Kolkata,West Bengal,Furniture,Sofa,6,1292.77,0.1
+ORD00056,2025-10-08,Riya Kumar,Kolkata,West Bengal,Stationery,Pen Set,10,42790.62,0.15
+ORD00639,2025-11-21,Vikas Patel,Pune,Maharashtra,Clothing,T-Shirt,4,73002.24,0.05
+ORD00303,2025-09-07,Amit Kumar,Unknown,Tamil Nadu,Electronics,Monitor,10,68478.17,0.25
+ORD00719,2025-07-01,Nikhil Singh,Ahmedabad,Gujarat,Clothing,Jacket,9,43241.92,0.2
+ORD00625,2025-07-31,Rohit Singh,Jaipur,Rajasthan,Grocery,Cooking Oil,2,33279.06,0.1
+ORD00008,2025-04-18,Arjun Gupta,Kolkata,West Bengal,Clothing,Shoes,6,12408.39,0.1
+ORD00804,2025-03-28,Sneha Patel,Chennai,Tamil Nadu,Electronics,Laptop,5,10807.45,0.15
+ORD01050,2025-03-26,Anjali Gupta,Bhopal,Madhya Pradesh,Furniture,Sofa,2,37100.89,0.05
+ORD00337,2025-03-01,Riya Singh,Chennai,Tamil Nadu,Electronics,Keyboard,2,22333.56,0.0
+ORD00048,2025-07-15,Riya Kumar,Hyderabad,Telangana,Furniture,Bookshelf,3,59106.24,0.0
+ORD01764,2025-02-23,Anjali Yadav,Kolkata,West Bengal,Stationery,File Folder,2,36912.28,0.15
+ORD00107,2025-02-16,Pooja Patel,Bengaluru,Karnataka,Furniture,Table,7,47700.16,0.15
+ORD00350,2025-10-15,Suresh Yadav,Chennai,Tamil Nadu,Electronics,Keyboard,3,14835.85,0.15
+ORD01080,2025-04-22,Rohit Das,Pune,Maharashtra,Furniture,Desk,8,64771.83,0.15
+ORD00239,2025-08-09,Priya Gupta,Jaipur,Rajasthan,Grocery,Tea,5,40367.63,0.0
+ORD00214,2025-02-08,Arjun Das,Bhopal,Madhya Pradesh,Clothing,Kurta,7,20773.01,0.0
+ORD01776,2025-03-27,Sneha Gupta,Delhi,Delhi,Furniture,Sofa,2,13956.05,0.1
+ORD01139,2025-07-16,Pooja Gupta,Jaipur,Rajasthan,Stationery,File Folder,7,72794.32,0.1
+ORD00794,2025-07-16,Arjun Verma,Delhi,Delhi,Stationery,Marker,4,13452.22,0.0
+ORD01587,2025-02-27,Manish Singh,Lucknow,Uttar Pradesh,Clothing,Shoes,6,63351.59,0.1
+ORD01583,2025-09-22,Riya Sharma,Patna,Bihar,Clothing,Shoes,3,12474.83,0.25
+ORD01672,2025-04-25,Kavita Patel,Patna,Bihar,Electronics,Mobile Phone,6,32179.44,0.1
+ORD00524,2025-01-07,Sneha Gupta,Kolkata,West Bengal,Stationery,File Folder,6,72446.03,0.0
+ORD00233,2025-06-10,Riya Patel,Kolkata,West Bengal,Stationery,File Folder,4,25679.39,0.05
+ORD00645,2025-04-08,Kavita Singh,Jaipur,Rajasthan,Stationery,Calculator,5,40819.37,0.15
+ORD01508,2025-10-02,Neha Sharma,Bengaluru,Karnataka,Stationery,File Folder,4,43044.8,0.05
+ORD00534,2025-05-25,Amit Patel,Patna,Bihar,Clothing,Shoes,2,29094.23,0.2
+ORD01942,2025-04-23,Kavita Gupta,Chennai,Tamil Nadu,Grocery,Biscuits,5,32377.75,0.05
+ORD00604,2025-11-10,Riya Gupta,Patna,Bihar,Furniture,Sofa,10,7780.9,0.1
+ORD01330,2025-10-06,Nikhil Sharma,Kolkata,West Bengal,Electronics,Monitor,3,2329.42,0.25
+ORD01075,2025-05-31,Manish Singh,Hyderabad,Telangana,Furniture,Office Chair,10,44152.61,0.2
+ORD01305,2025-03-16,Arjun Verma,Delhi,Delhi,Clothing,Shoes,1,40994.82,0.15
+ORD00061,2025-09-11,Vikas Verma,Jaipur,Rajasthan,Stationery,Calculator,4,53946.36,0.15
+ORD01264,2025-07-02,Rahul Patel,Jaipur,Rajasthan,Furniture,Office Chair,4,7854.79,0.1
+ORD00093,2025-11-23,Riya Yadav,Bengaluru,Karnataka,Electronics,Laptop,9,22087.21,0.05
+ORD00667,2025-06-21,Anjali Das,Ahmedabad,Gujarat,Clothing,T-Shirt,10,28770.57,0.0
+ORD00281,2025-04-28,Neha Yadav,Patna,Bihar,Clothing,Shoes,9,31953.57,0.15
+ORD01114,2025-09-25,Arjun Sharma,Hyderabad,Telangana,Grocery,Cooking Oil,8,52331.49,0.25
+ORD00360,2025-07-21,Pooja Singh,Pune,Maharashtra,Furniture,Bookshelf,4,57170.15,0.25
+ORD01129,2025-06-25,Neha Verma,Hyderabad,Telangana,Clothing,T-Shirt,4,63558.38,0.1
+ORD01170,2025-02-01,Kavita Verma,Mumbai,Maharashtra,Clothing,Shoes,10,55334.61,0.1
+ORD00848,2025-03-01,Rohit Kumar,Chennai,Tamil Nadu,Electronics,Keyboard,1,10671.89,0.2
+ORD01522,2025-09-08,Kavita Verma,Chennai,Tamil Nadu,Furniture,Office Chair,2,42176.19,0.05
+ORD00111,2025-03-09,Nikhil Gupta,Ahmedabad,Gujarat,Stationery,File Folder,1,15465.98,0.2
+ORD00043,2025-10-15,Amit Sharma,Hyderabad,Telangana,Clothing,Jeans,8,41488.11,0.15
+ORD00126,2025-04-03,Priya Singh,Kolkata,West Bengal,Furniture,Desk,9,31050.87,0.25
+ORD00205,2025-05-04,Sneha Sharma,Chennai,Tamil Nadu,Clothing,T-Shirt,6,59191.87,0.1
+ORD00053,2025-01-01,Suresh Verma,Kolkata,West Bengal,Grocery,Cooking Oil,5,3567.89,0.15
+ORD00546,2025-11-12,Riya Gupta,Pune,Maharashtra,Stationery,Calculator,3,12281.34,0.05
+ORD00069,2025-06-30,Rohit Das,Kolkata,West Bengal,Grocery,Rice,10,28683.48,0.0
+ORD01741,2025-03-07,Rahul Yadav,Delhi,Delhi,Furniture,Bookshelf,4,59717.89,0.2
+ORD01548,2025-12-27,Rohit Gupta,Hyderabad,Telangana,Clothing,Shoes,7,3532.82,0.25
+ORD00184,2025-10-13,Arjun Das,Chennai,Tamil Nadu,Grocery,Rice,6,5176.91,0.0
+ORD00138,2025-07-10,Rahul Verma,Jaipur,Rajasthan,Clothing,Jacket,10,28731.66,0.25
+ORD00900,2025-01-20,Pooja Das,Bengaluru,Karnataka,Electronics,Headphones,3,1723.47,0.1
+ORD00797,2025-01-09,Amit Patel,Delhi,Delhi,Grocery,Biscuits,8,40162.02,0.15
+ORD00133,2025-01-21,Rohit Yadav,Ahmedabad,Gujarat,Clothing,Jeans,2,67779.43,0.25
+ORD00081,2025-08-04,Riya Yadav,Hyderabad,Telangana,Clothing,T-Shirt,9,48653.86,0.0
+ORD01987,2025-05-06,Neha Kumar,Lucknow,Uttar Pradesh,Furniture,Table,9,51274.46,0.2
+ORD01541,2025-05-04,Suresh Das,Kolkata,West Bengal,Stationery,Marker,5,37653.04,0.0
+ORD00542,2025-07-15,Vikas Kumar,Bengaluru,Karnataka,Clothing,Kurta,2,21293.43,0.15
+ORD01669,2025-02-07,Manish Das,Lucknow,Uttar Pradesh,Electronics,Monitor,8,45849.85,0.05
+ORD00984,2025-07-03,Nikhil Gupta,Jaipur,Rajasthan,Clothing,Jeans,4,41873.08,0.0
+ORD00166,2025-11-07,Pooja Das,Hyderabad,Telangana,Electronics,Headphones,8,49729.92,0.15
+ORD00249,2025-04-08,Amit Yadav,Mumbai,Maharashtra,Furniture,Office Chair,5,71128.34,0.0
+ORD00447,2025-08-01,Priya Singh,Bhopal,Madhya Pradesh,Grocery,Sugar,9,58681.0,0.0
+ORD01515,2025-12-27,Manish Das,Mumbai,Maharashtra,Clothing,T-Shirt,2,5773.3,0.25
+ORD00859,2025-08-30,Rahul Gupta,Patna,Bihar,Furniture,Bookshelf,5,71712.99,0.25
+ORD01212,2025-12-05,Nikhil Kumar,Bhopal,Madhya Pradesh,Electronics,Keyboard,9,56287.68,0.05
+ORD00098,2025-09-11,Sneha Sharma,Bengaluru,Karnataka,Grocery,Tea,5,42755.05,0.0
+ORD01974,2025-07-17,Nikhil Das,Hyderabad,Telangana,Electronics,Headphones,6,4220.67,0.15
+ORD00738,2025-12-27,Manish Gupta,Pune,Maharashtra,Grocery,Biscuits,9,24056.75,0.05
+ORD01256,2025-07-26,Rahul Singh,Delhi,Delhi,Furniture,Office Chair,7,18582.72,0.25
+ORD00103,2025-03-05,Pooja Gupta,Mumbai,Maharashtra,Clothing,Kurta,10,69109.14,0.15
+ORD00435,2025-09-09,Priya Kumar,Bengaluru,Karnataka,Furniture,Office Chair,1,37100.89,0.2
+ORD00075,2025-04-25,Arjun Sharma,Jaipur,Rajasthan,Electronics,Monitor,1,74993.11,0.1
+ORD01792,2025-04-27,Vikas Singh,Mumbai,Maharashtra,Electronics,Keyboard,7,53373.77,0.2
+ORD01235,2025-09-09,Anjali Patel,Jaipur,Rajasthan,Clothing,Kurta,2,32460.34,0.1
+ORD00919,2025-04-20,Rohit Yadav,Bhopal,Madhya Pradesh,Furniture,Sofa,4,11034.77,0.05
+ORD01712,2025-04-16,Pooja Singh,Mumbai,Maharashtra,Stationery,Notebook,10,70839.5,0.05
+ORD01671,2025-01-04,Kavita Das,Jaipur,Rajasthan,Grocery,Tea,6,30259.59,0.1
+ORD01621,2025-12-13,Vikas Yadav,Pune,Maharashtra,Stationery,Notebook,1,56208.49,0.25
+ORD00763,2025-05-02,Sneha Gupta,Mumbai,Maharashtra,Stationery,Calculator,1,43450.9,0.25
+ORD00990,2025-03-20,Arjun Patel,Mumbai,Maharashtra,Clothing,Shoes,9,37504.73,0.0
+ORD00389,2025-04-02,Nikhil Kumar,Pune,Maharashtra,Electronics,Keyboard,6,28877.72,0.05
+ORD00236,2025-06-17,Nikhil Patel,Kolkata,West Bengal,Grocery,Tea,4,72210.77,0.05
+ORD01507,2025-04-23,Anjali Kumar,Kolkata,West Bengal,Stationery,Marker,1,20306.71,0.25
+ORD00268,2025-05-01,Amit Sharma,Ahmedabad,Gujarat,Grocery,Rice,5,49112.83,0.25
+ORD01188,2025-06-16,Rahul Singh,Kolkata,West Bengal,Stationery,File Folder,5,42963.88,0.0
+ORD00118,2025-04-07,Sneha Verma,Chennai,Tamil Nadu,Clothing,Kurta,9,28446.45,0.1
+ORD01607,2025-08-20,Arjun Yadav,Bhopal,Madhya Pradesh,Grocery,Biscuits,5,22063.77,0.1
+ORD00674,2025-02-15,Rahul Das,Pune,Maharashtra,Electronics,Headphones,7,24425.02,0.2
+ORD00250,2025-09-14,Manish Yadav,Chennai,Tamil Nadu,Stationery,Pen Set,7,51864.89,0.15
+ORD01453,2025-08-11,Riya Das,Bengaluru,Karnataka,Grocery,Cooking Oil,1,25735.59,0.2
+ORD01995,2025-01-05,Priya Das,Ahmedabad,Gujarat,Stationery,Notebook,2,6386.59,0.25
+ORD00095,2025-10-23,Arjun Kumar,Bengaluru,Karnataka,Stationery,Notebook,2,30202.88,0.0
+ORD00034,2025-07-26,Rahul Verma,Mumbai,Maharashtra,Electronics,Monitor,2,50722.14,0.05
+ORD01464,2025-02-25,Rahul Yadav,Hyderabad,Telangana,Clothing,Kurta,1,45143.27,0.1
+ORD01668,2025-02-27,Suresh Singh,Ahmedabad,Gujarat,Clothing,T-Shirt,2,42506.68,0.2
+ORD00449,2025-10-20,Kavita Yadav,Lucknow,Uttar Pradesh,Clothing,Shoes,5,28882.5,0.15
+ORD00717,2025-11-10,Amit Sharma,Chennai,Tamil Nadu,Grocery,Tea,9,15935.94,0.05
+ORD01810,2025-07-01,Kavita Yadav,Mumbai,Maharashtra,Electronics,Mobile Phone,6,22103.12,0.0
+ORD01518,2025-08-30,Vikas Gupta,Jaipur,Rajasthan,Furniture,Office Chair,5,72702.36,0.2
+ORD00001,2025-02-22,Arjun Sharma,Hyderabad,Telangana,Electronics,Laptop,5,18555.67,0.05
+ORD01376,2025-05-18,Pooja Verma,Kolkata,West Bengal,Stationery,Notebook,4,55110.85,0.25
+ORD01102,2025-11-06,Manish Verma,Pune,Maharashtra,Electronics,Mobile Phone,8,5031.76,0.15
+ORD01109,2025-07-24,Riya Verma,Jaipur,Rajasthan,Electronics,Laptop,8,28741.38,0.25
+ORD01227,2025-05-07,Kavita Singh,Kolkata,West Bengal,Stationery,Marker,5,36573.21,0.15
+ORD00083,2025-10-31,Rohit Patel,Ahmedabad,Gujarat,Grocery,Tea,8,32809.19,0.25
+ORD01289,2025-07-02,Priya Sharma,Kolkata,West Bengal,Grocery,Cooking Oil,6,56450.21,0.25
+ORD00677,2025-05-05,Kavita Singh,Pune,Maharashtra,Clothing,Jeans,2,8649.79,0.0
+ORD01921,2025-03-16,Riya Sharma,Lucknow,Uttar Pradesh,Grocery,Rice,3,50114.41,0.2
+ORD01047,2025-05-21,Rahul Yadav,Hyderabad,Telangana,Electronics,Headphones,7,63364.53,0.15
+ORD00771,2025-05-10,Priya Gupta,Bengaluru,Karnataka,Stationery,Notebook,3,38043.31,0.1
+ORD01947,2025-12-31,Pooja Yadav,Jaipur,Rajasthan,Furniture,Desk,2,63584.35,0.15
+ORD01281,2025-06-06,Sneha Verma,Kolkata,West Bengal,Stationery,Calculator,5,68956.48,0.2
+ORD01581,2025-06-04,Vikas Sharma,Delhi,Delhi,Unknown,Desk,8,14300.8,0.05
+ORD01489,2025-03-28,Rohit Gupta,Mumbai,Maharashtra,Electronics,Headphones,5,36626.02,0.05
+ORD00405,2025-03-13,Rahul Kumar,Jaipur,Rajasthan,Grocery,Sugar,4,7330.71,0.0
+ORD01728,2025-07-25,Manish Patel,Mumbai,Maharashtra,Furniture,Table,9,48709.45,0.25
+ORD01299,2025-02-12,Arjun Das,Jaipur,Rajasthan,Clothing,Kurta,10,71415.36,0.1
+ORD01341,2025-12-29,Suresh Gupta,Bengaluru,Karnataka,Clothing,Shoes,4,71503.89,0.1
+ORD00105,2025-12-12,Riya Kumar,Kolkata,West Bengal,Clothing,Kurta,5,2183.4,0.05
+ORD00689,2025-04-14,Riya Singh,Lucknow,Uttar Pradesh,Furniture,Desk,3,43682.04,0.25
+ORD01306,2025-07-05,Manish Das,Chennai,Tamil Nadu,Grocery,Rice,10,37100.89,0.0
+ORD00827,2025-11-21,Amit Sharma,Bhopal,Madhya Pradesh,Stationery,Pen Set,6,47104.12,0.25
+ORD00063,2025-12-08,Suresh Patel,Lucknow,Uttar Pradesh,Furniture,Office Chair,8,10217.1,0.15
+ORD00853,2025-10-15,Rahul Verma,Patna,Bihar,Clothing,Jacket,6,23279.38,0.15
+ORD01354,2025-09-28,Amit Patel,Jaipur,Rajasthan,Clothing,Jeans,7,3016.36,0.2
+ORD00224,2025-10-22,Rahul Singh,Delhi,Delhi,Clothing,Shoes,8,39545.75,0.15
+ORD00146,2025-06-18,Manish Singh,Delhi,Delhi,Grocery,Cooking Oil,10,16392.36,0.05
+ORD01089,2025-04-18,Pooja Verma,Jaipur,Rajasthan,Grocery,Cooking Oil,7,17261.49,0.25
+ORD00374,2025-06-11,Manish Singh,Mumbai,Maharashtra,Electronics,Monitor,7,26527.29,0.15
+ORD01421,2025-08-04,Nikhil Sharma,Pune,Maharashtra,Furniture,Office Chair,3,54680.2,0.15
+ORD01143,2025-03-17,Rohit Verma,Hyderabad,Telangana,Electronics,Mobile Phone,5,45506.31,0.25
+ORD01827,2025-05-27,Neha Das,Hyderabad,Telangana,Grocery,Biscuits,10,31068.08,0.25
+ORD01495,2025-12-11,Manish Sharma,Lucknow,Uttar Pradesh,Clothing,Jacket,8,47389.14,0.2
+ORD01602,2025-12-30,Anjali Verma,Jaipur,Rajasthan,Grocery,Biscuits,2,16793.95,0.0
+ORD01271,2025-10-01,Pooja Verma,Mumbai,Maharashtra,Furniture,Sofa,7,41313.11,0.2
+ORD00010,2025-04-28,Riya Kumar,Bengaluru,Karnataka,Grocery,Cooking Oil,6,63253.18,0.0
+ORD00450,2025-12-15,Sneha Das,Patna,Bihar,Furniture,Bookshelf,7,11002.99,0.2
+ORD00709,2025-10-06,Manish Kumar,Ahmedabad,Gujarat,Clothing,T-Shirt,8,37447.66,0.15
+ORD00256,2025-09-03,Neha Verma,Bhopal,Madhya Pradesh,Electronics,Headphones,8,49283.91,0.25
+ORD00883,2025-04-07,Riya Sharma,Hyderabad,Telangana,Stationery,Pen Set,9,30694.35,0.15
+ORD00390,2025-06-13,Rohit Sharma,Lucknow,Uttar Pradesh,Stationery,Pen Set,6,18807.67,0.25
+ORD00909,2025-10-17,Sneha Kumar,Pune,Maharashtra,Stationery,Marker,9,60717.78,0.15
+ORD00925,2025-06-12,Nikhil Das,Pune,Maharashtra,Clothing,Jeans,3,68712.84,0.25
+ORD01704,2025-07-01,Suresh Singh,Lucknow,Uttar Pradesh,Furniture,Desk,4,58249.37,0.05
+ORD01233,2025-12-31,Vikas Verma,Bengaluru,Karnataka,Electronics,Headphones,6,21221.56,0.1
+ORD00461,2025-01-05,Pooja Singh,Hyderabad,Telangana,Furniture,Bookshelf,7,38617.77,0.25
+ORD01270,2025-11-05,Manish Patel,Chennai,Tamil Nadu,Clothing,Shoes,7,36226.32,0.15
+ORD01760,2025-03-14,Neha Yadav,Jaipur,Rajasthan,Electronics,Monitor,2,25541.21,0.1
+ORD01169,2025-03-01,Kavita Patel,Delhi,Delhi,Electronics,Laptop,6,55608.45,0.05
+ORD00959,2025-07-18,Pooja Gupta,Chennai,Tamil Nadu,Electronics,Headphones,9,15190.38,0.15
+ORD00502,2025-06-14,Neha Patel,Lucknow,Uttar Pradesh,Stationery,File Folder,3,5846.18,0.15
+ORD00740,2025-02-14,Vikas Das,Mumbai,Maharashtra,Electronics,Keyboard,1,8168.04,0.0
+ORD01850,2025-11-27,Neha Sharma,Chennai,Tamil Nadu,Stationery,Marker,10,66270.21,0.05
+ORD00869,2025-09-03,Anjali Gupta,Kolkata,West Bengal,Stationery,Notebook,2,61458.64,0.0
+ORD00732,2025-04-08,Anjali Yadav,Jaipur,Rajasthan,Grocery,Rice,8,67895.45,0.05
+ORD00540,2025-03-02,Suresh Kumar,Jaipur,Rajasthan,Stationery,File Folder,6,1512.6,0.25
+ORD01202,2025-07-13,Rahul Sharma,Bengaluru,Karnataka,Electronics,Laptop,7,73466.52,0.05
+ORD00698,2025-06-10,Vikas Kumar,Kolkata,West Bengal,Stationery,Notebook,10,55216.05,0.15
+ORD01393,2025-01-01,Amit Gupta,Patna,Bihar,Stationery,Marker,1,32416.63,0.25
+ORD01377,2025-01-02,Rahul Singh,Mumbai,Maharashtra,Furniture,Bookshelf,5,53012.54,0.1
+ORD01146,2025-10-28,Rohit Das,Bengaluru,Karnataka,Clothing,Kurta,9,49471.83,0.15
+ORD01032,2025-01-01,Amit Yadav,Patna,Bihar,Stationery,Calculator,5,49066.15,0.05
+ORD00373,2025-04-22,Rahul Sharma,Chennai,Tamil Nadu,Furniture,Desk,7,46301.68,0.15
+ORD00668,2025-11-20,Vikas Kumar,Kolkata,West Bengal,Electronics,Mobile Phone,10,69666.82,0.25
+ORD01526,2025-09-05,Suresh Sharma,Lucknow,Uttar Pradesh,Stationery,Marker,4,24307.39,0.25
+ORD00358,2025-05-29,Kavita Gupta,Ahmedabad,Gujarat,Grocery,Cooking Oil,6,73430.26,0.1
+ORD00968,2025-02-24,Vikas Kumar,Pune,Maharashtra,Furniture,Office Chair,10,19634.0,0.25
+ORD00784,2025-05-31,Pooja Sharma,Kolkata,West Bengal,Grocery,Cooking Oil,2,52250.11,0.1
+ORD00736,2025-05-27,Rohit Patel,Patna,Bihar,Grocery,Biscuits,4,24235.81,0.05
+ORD01036,2025-06-24,Neha Yadav,Hyderabad,Telangana,Clothing,Shoes,5,18633.14,0.1
+ORD00971,2025-01-09,Sneha Verma,Bengaluru,Karnataka,Electronics,Mobile Phone,3,1287.22,0.0
+ORD01525,2025-12-20,Neha Yadav,Bhopal,Madhya Pradesh,Grocery,Sugar,7,65389.24,0.1
+ORD01487,2025-01-22,Riya Verma,Bengaluru,Karnataka,Clothing,Shoes,6,56858.19,0.05
+ORD01524,2025-03-19,Amit Patel,Patna,Bihar,Stationery,Marker,7,23531.26,0.1
+ORD01491,2025-01-04,Pooja Kumar,Patna,Bihar,Grocery,Rice,9,40459.22,0.05
+ORD01643,2025-04-21,Kavita Yadav,Jaipur,Rajasthan,Electronics,Keyboard,4,7715.72,0.2
+ORD01253,2025-08-11,Anjali Singh,Pune,Maharashtra,Grocery,Tea,3,33592.68,0.25
+ORD01694,2025-02-23,Neha Verma,Pune,Maharashtra,Electronics,Laptop,7,21351.91,0.2
+ORD01750,2025-10-21,Sneha Das,Bhopal,Madhya Pradesh,Electronics,Headphones,2,7288.57,0.15
+ORD01237,2025-05-22,Neha Das,Bhopal,Madhya Pradesh,Grocery,Sugar,10,28026.52,0.25
+ORD00886,2025-04-13,Kavita Das,Bhopal,Madhya Pradesh,Furniture,Office Chair,6,37100.89,0.1
+ORD00080,2025-01-22,Anjali Das,Delhi,Delhi,Clothing,Kurta,2,59767.98,0.2
+ORD01173,2025-12-07,Riya Kumar,Pune,Maharashtra,Stationery,File Folder,3,45209.54,0.05
+ORD00815,2025-07-31,Riya Verma,Pune,Maharashtra,Electronics,Headphones,4,7580.29,0.25
+ORD01286,2025-06-08,Neha Verma,Mumbai,Maharashtra,Grocery,Rice,2,16090.27,0.0
+ORD00672,2025-12-24,Priya Singh,Lucknow,Uttar Pradesh,Stationery,Marker,2,30039.9,0.15
+ORD01532,2025-01-06,Anjali Das,Bhopal,Madhya Pradesh,Furniture,Desk,9,53702.34,0.15
+ORD00058,2025-03-28,Arjun Sharma,Jaipur,Rajasthan,Stationery,Pen Set,9,35620.67,0.25
+ORD00134,2025-06-17,Sneha Das,Patna,Bihar,Grocery,Biscuits,3,6987.47,0.1
+ORD01141,2025-11-22,Sneha Patel,Pune,Maharashtra,Stationery,Marker,6,38343.23,0.15
+ORD00934,2025-10-18,Rahul Kumar,Ahmedabad,Gujarat,Clothing,Jeans,2,71862.96,0.05
+ORD01685,2025-12-05,Rohit Patel,Bhopal,Madhya Pradesh,Stationery,Notebook,1,44816.29,0.05
+ORD00824,2025-01-07,Sneha Das,Jaipur,Rajasthan,Electronics,Keyboard,8,18228.23,0.2
+ORD01215,2025-05-31,Rohit Verma,Hyderabad,Telangana,Furniture,Table,2,21932.34,0.15
+ORD00505,2025-10-09,Amit Sharma,Jaipur,Rajasthan,Electronics,Laptop,7,31072.31,0.2
+ORD01775,2025-04-25,Rahul Sharma,Hyderabad,Telangana,Stationery,Notebook,8,9884.4,0.25
+ORD00348,2025-11-22,Suresh Singh,Ahmedabad,Gujarat,Furniture,Table,7,31872.15,0.15
+ORD00387,2025-03-27,Anjali Singh,Jaipur,Rajasthan,Stationery,Calculator,6,4394.07,0.2
+ORD01025,2025-06-02,Vikas Sharma,Patna,Bihar,Grocery,Biscuits,3,2281.05,0.0
+ORD00895,2025-12-04,Suresh Yadav,Bengaluru,Karnataka,Stationery,File Folder,2,42771.93,0.15
+ORD00829,2025-09-21,Nikhil Patel,Hyderabad,Telangana,Electronics,Monitor,6,55248.12,0.0
+ORD01893,2025-09-25,Arjun Das,Jaipur,Rajasthan,Electronics,Headphones,6,41246.69,0.15
+ORD00476,2025-10-23,Manish Singh,Patna,Bihar,Stationery,Marker,4,57149.2,0.05
+ORD01471,2025-09-26,Suresh Yadav,Lucknow,Uttar Pradesh,Electronics,Monitor,1,45630.88,0.25
+ORD01448,2025-03-14,Amit Verma,Lucknow,Uttar Pradesh,Furniture,Bookshelf,9,16005.03,0.1
+ORD01582,2025-07-18,Arjun Yadav,Chennai,Tamil Nadu,Stationery,Pen Set,7,11518.38,0.1
+ORD00653,2025-12-02,Pooja Sharma,Pune,Maharashtra,Grocery,Rice,1,69783.28,0.05
+ORD00173,2025-08-12,Kavita Das,Bhopal,Madhya Pradesh,Clothing,T-Shirt,7,63375.21,0.05
+ORD01150,2025-02-26,Pooja Verma,Chennai,Tamil Nadu,Furniture,Desk,4,36613.73,0.2
+ORD00039,2025-09-28,Amit Gupta,Jaipur,Rajasthan,Grocery,Biscuits,10,73793.03,0.25
+ORD00714,2025-11-01,Kavita Singh,Mumbai,Maharashtra,Furniture,Bookshelf,10,49654.11,0.25
+ORD00091,2025-05-22,Sneha Gupta,Bhopal,Madhya Pradesh,Grocery,Cooking Oil,4,16424.75,0.15
+ORD01937,2025-09-11,Pooja Gupta,Kolkata,West Bengal,Grocery,Tea,1,5224.34,0.1
+ORD01206,2025-07-13,Kavita Gupta,Bengaluru,Karnataka,Electronics,Monitor,3,49402.83,0.05
+ORD00876,2025-09-14,Manish Verma,Delhi,Delhi,Furniture,Bookshelf,10,26250.78,0.05
+ORD01352,2025-03-29,Kavita Patel,Jaipur,Rajasthan,Electronics,Headphones,7,9164.61,0.15
+ORD01890,2025-03-23,Riya Singh,Chennai,Tamil Nadu,Grocery,Cooking Oil,10,25788.33,0.25
+ORD01094,2025-03-20,Anjali Das,Chennai,Tamil Nadu,Grocery,Rice,10,58955.5,0.05
+ORD01156,2025-12-07,Vikas Das,Chennai,Tamil Nadu,Clothing,Jacket,6,61309.33,0.1
+ORD01782,2025-01-29,Vikas Das,Chennai,Tamil Nadu,Clothing,Jeans,6,34787.15,0.25
+ORD01959,2025-01-27,Kavita Singh,Mumbai,Maharashtra,Grocery,Rice,4,65417.81,0.2
+ORD00500,2025-05-08,Pooja Patel,Lucknow,Uttar Pradesh,Grocery,Sugar,2,32605.38,0.25
+ORD00339,2025-12-30,Rahul Kumar,Delhi,Delhi,Stationery,File Folder,6,5271.28,0.0
+ORD01189,2025-09-08,Rahul Sharma,Kolkata,West Bengal,Electronics,Keyboard,9,61355.35,0.2
+ORD00029,2025-01-08,Rahul Verma,Jaipur,Rajasthan,Grocery,Rice,1,48997.83,0.2
+ORD01218,2025-07-25,Anjali Kumar,Chennai,Tamil Nadu,Electronics,Laptop,6,66792.17,0.05
+ORD01400,2025-07-30,Pooja Kumar,Lucknow,Uttar Pradesh,Clothing,Shoes,6,32218.27,0.15
+ORD01821,2025-03-13,Neha Sharma,Hyderabad,Telangana,Clothing,T-Shirt,10,9367.89,0.25
+ORD00946,2025-03-26,Anjali Yadav,Bengaluru,Karnataka,Clothing,Kurta,5,38893.71,0.15
+ORD00170,2025-10-14,Riya Patel,Mumbai,Maharashtra,Furniture,Sofa,9,52849.43,0.2
+ORD01405,2025-09-19,Sneha Kumar,Bhopal,Madhya Pradesh,Clothing,T-Shirt,2,55600.35,0.25
+ORD01198,2025-05-18,Arjun Verma,Bengaluru,Karnataka,Stationery,Pen Set,9,15481.28,0.25
+ORD01254,2025-04-07,Kavita Yadav,Jaipur,Rajasthan,Electronics,Keyboard,3,34589.41,0.05
+ORD01614,2025-07-16,Kavita Das,Lucknow,Uttar Pradesh,Clothing,Shoes,3,51330.55,0.0
+ORD00913,2025-08-05,Arjun Kumar,Patna,Bihar,Furniture,Bookshelf,8,36532.33,0.15
+ORD00492,2025-12-13,Anjali Das,Patna,Bihar,Electronics,Mobile Phone,1,63955.59,0.1
+ORD00954,2025-06-18,Amit Yadav,Bhopal,Madhya Pradesh,Stationery,File Folder,5,44666.77,0.0
+ORD01098,2025-09-23,Amit Singh,Pune,Maharashtra,Clothing,Kurta,2,34236.11,0.1
+ORD01033,2025-04-19,Kavita Gupta,Bengaluru,Karnataka,Grocery,Biscuits,7,74943.33,0.25
+ORD00588,2025-03-22,Rahul Gupta,Ahmedabad,Gujarat,Furniture,Office Chair,6,18134.43,0.0
+ORD00751,2025-07-14,Anjali Yadav,Kolkata,West Bengal,Electronics,Monitor,2,51491.77,0.2
+ORD00658,2025-07-25,Suresh Patel,Bhopal,Madhya Pradesh,Stationery,Notebook,3,59486.5,0.2
+ORD00235,2025-02-19,Amit Gupta,Pune,Maharashtra,Stationery,Notebook,5,33857.3,0.05
+ORD00733,2025-09-22,Arjun Singh,Bhopal,Madhya Pradesh,Grocery,Biscuits,6,10961.3,0.0
+ORD01989,2025-10-12,Neha Verma,Patna,Bihar,Grocery,Biscuits,5,8210.64,0.05
+ORD01633,2025-11-28,Priya Yadav,Ahmedabad,Gujarat,Grocery,Biscuits,9,28233.6,0.15
+ORD01157,2025-08-22,Riya Das,Ahmedabad,Gujarat,Electronics,Headphones,6,60518.7,0.0
+ORD01470,2025-10-08,Sneha Das,Delhi,Delhi,Furniture,Table,9,74836.52,0.25
+ORD01425,2025-12-09,Rahul Verma,Kolkata,West Bengal,Grocery,Cooking Oil,2,43762.57,0.25
+ORD01628,2025-09-25,rohit kumar,Ahmedabad,Gujarat,Clothing,Kurta,1,57158.87,0.05
+ORD00935,2025-03-02,Neha Verma,Bhopal,Madhya Pradesh,Grocery,Tea,8,62087.49,0.15
+ORD01210,2025-01-06,vikas singh,Ahmedabad,Gujarat,Electronics,Laptop,5,41673.44,0.15
+ORD01066,2025-11-24,Neha Verma,Mumbai,Maharashtra,Electronics,Keyboard,1,37320.82,0.0
+ORD00109,2025-05-10,Anjali Sharma,Bengaluru,Karnataka,Stationery,Calculator,1,34248.24,0.1
+ORD01543,2025-10-14,Pooja Yadav,Ahmedabad,Gujarat,Furniture,Desk,5,53423.24,0.15
+ORD00569,2025-12-05,Riya Gupta,Lucknow,Uttar Pradesh,Stationery,Calculator,10,47912.3,0.25
+ORD01168,2025-05-13,Rahul Gupta,Kolkata,West Bengal,Stationery,Calculator,7,60681.45,0.05
+ORD01175,2025-01-31,Manish Patel,Hyderabad,Telangana,Furniture,Sofa,5,52884.5,0.15
+ORD00891,2025-12-05,Unknown,Mumbai,Maharashtra,Clothing,Kurta,10,7450.94,0.0
+ORD00948,2025-01-21,Pooja Patel,Jaipur,Rajasthan,Clothing,Jeans,8,32873.13,0.15
+ORD01049,2025-02-11,Nikhil Kumar,Lucknow,Uttar Pradesh,Stationery,Marker,1,29541.45,0.1
+ORD01353,2025-11-26,Manish Kumar,Ahmedabad,Gujarat,Stationery,Pen Set,10,1839.84,0.0
+ORD01778,2025-03-07,Suresh Kumar,Kolkata,West Bengal,Furniture,Office Chair,9,63522.46,0.05
+ORD01447,2025-04-15,Nikhil Singh,Patna,Bihar,Clothing,Shoes,10,36594.03,0.0
+ORD00885,2025-12-22,Kavita Sharma,Jaipur,Rajasthan,Grocery,Rice,2,10966.73,0.15
+ORD01673,2025-10-23,Priya Verma,Lucknow,Uttar Pradesh,Stationery,Pen Set,10,69420.4,0.25
+ORD00851,2025-11-05,Kavita Kumar,Hyderabad,Telangana,Electronics,Monitor,7,14785.14,0.1
+ORD00735,2025-02-22,Suresh Gupta,Patna,Bihar,Grocery,Unknown,6,35148.97,0.0
+ORD00718,2025-12-28,Rohit Das,Ahmedabad,Gujarat,Grocery,Rice,8,54374.54,0.2
+ORD00455,2025-07-26,Priya Kumar,Patna,Bihar,Grocery,Cooking Oil,2,23506.45,0.2
+ORD00265,2025-03-31,Kavita Das,Patna,Bihar,Clothing,Jacket,10,50661.49,0.05
+ORD00076,2025-11-15,Priya Verma,Unknown,Telangana,Electronics,Laptop,4,15152.21,0.0
+ORD01658,2025-09-03,Sneha Yadav,Bengaluru,Karnataka,Electronics,Laptop,4,12241.24,0.25
+ORD00445,2025-06-13,Nikhil Sharma,Delhi,Delhi,Stationery,Pen Set,3,62599.58,0.1
+ORD00396,2025-08-03,Pooja Kumar,Hyderabad,Telangana,Stationery,Marker,2,15588.28,0.05
+ORD00177,2025-12-15,Nikhil Patel,Mumbai,Maharashtra,Stationery,File Folder,10,57050.82,0.15
+ORD01043,2025-11-23,Vikas Sharma,Patna,Bihar,Clothing,Shoes,10,15879.2,0.05
+ORD01736,2025-01-14,Pooja Verma,Patna,Bihar,Furniture,Table,3,50147.22,0.1
+ORD01402,2025-05-31,Amit Das,Ahmedabad,Gujarat,Grocery,Biscuits,3,46661.51,0.2
+ORD01381,2025-08-30,Rahul Kumar,Ahmedabad,Gujarat,Clothing,Shoes,10,325.23,0.05
+ORD00596,2025-06-25,Rahul Singh,Bhopal,Madhya Pradesh,Clothing,Jeans,5,7202.45,0.25
+ORD00062,2025-09-23,Pooja Kumar,Mumbai,Maharashtra,Electronics,Laptop,7,37100.89,0.25
+ORD01297,2025-08-15,Arjun Singh,Delhi,Delhi,Furniture,Sofa,5,73964.21,0.1
+ORD00873,2025-01-17,Manish Kumar,Delhi,Delhi,Electronics,Keyboard,7,3428.14,0.0
+ORD01490,2025-10-10,Riya Singh,Ahmedabad,Gujarat,Electronics,Mobile Phone,5,10789.98,0.05
+ORD01879,2025-03-03,Nikhil Kumar,Delhi,Delhi,Clothing,Jeans,5,34405.34,0.05
+ORD00279,2025-10-04,Priya Patel,Kolkata,West Bengal,Stationery,File Folder,7,6248.69,0.25
+ORD00037,2025-02-21,Rahul Verma,Jaipur,Rajasthan,Clothing,T-Shirt,1,34506.84,0.2
+ORD01976,2025-03-26,Amit Sharma,Delhi,Delhi,Clothing,Jacket,4,23448.05,0.2
+ORD00663,2025-10-12,Kavita Singh,Pune,Maharashtra,Clothing,T-Shirt,5,68953.63,0.2
+ORD01954,2025-04-28,Rohit Patel,Bhopal,Madhya Pradesh,Stationery,File Folder,2,32942.84,0.1
+ORD01445,2025-04-23,Pooja Gupta,Bengaluru,Karnataka,Grocery,Cooking Oil,8,52967.83,0.1
+ORD00978,2025-05-18,Nikhil Das,Lucknow,Uttar Pradesh,Electronics,Keyboard,10,23859.8,0.0
+ORD01572,2025-12-06,Anjali Kumar,Ahmedabad,Gujarat,Grocery,Cooking Oil,10,56450.79,0.05
+ORD00739,2025-10-04,Pooja Kumar,Ahmedabad,Gujarat,Furniture,Desk,2,23525.47,0.1
+ORD00192,2025-04-10,Anjali Yadav,Bhopal,Madhya Pradesh,Stationery,Pen Set,9,18127.85,0.15
+ORD00920,2025-12-25,Rahul Patel,Kolkata,Unknown,Clothing,Kurta,1,36904.3,0.1
+ORD00457,2025-07-23,Arjun Sharma,Bhopal,Madhya Pradesh,Furniture,Bookshelf,6,61807.1,0.2
+ORD00676,2025-01-23,Nikhil Verma,Mumbai,Maharashtra,Clothing,Kurta,8,46832.87,0.15
+ORD00761,2025-08-22,Nikhil Das,Hyderabad,Telangana,Stationery,Pen Set,2,10507.22,0.15
+ORD01808,2025-09-09,Arjun Patel,Jaipur,Rajasthan,Grocery,Sugar,3,33688.17,0.0
+ORD01603,2025-08-04,Arjun Patel,Delhi,Delhi,Grocery,Biscuits,10,62066.38,0.2
+ORD00729,2025-12-28,Riya Patel,Ahmedabad,Gujarat,Grocery,Tea,3,44740.59,0.1
+ORD00413,2025-10-17,Suresh Patel,Kolkata,West Bengal,Clothing,Shoes,9,58662.27,0.1
+ORD01099,2025-10-02,Vikas Yadav,Chennai,Tamil Nadu,Stationery,File Folder,3,74222.24,0.05
+ORD00826,2025-08-26,Manish Singh,Mumbai,Maharashtra,Stationery,Calculator,10,2074.91,0.15
+ORD01640,2025-02-02,Nikhil Singh,Ahmedabad,Gujarat,Clothing,Kurta,5,7079.1,0.05
+ORD00617,2025-11-27,Vikas Gupta,Pune,Maharashtra,Clothing,Jacket,5,53354.9,0.2
+ORD00115,2025-11-03,Suresh Singh,Jaipur,Rajasthan,Furniture,Sofa,9,11061.99,0.05
+ORD00418,2025-04-07,Riya Yadav,Ahmedabad,Gujarat,Electronics,Headphones,10,42379.58,0.2
+ORD01911,2025-11-06,Kavita Kumar,Pune,Maharashtra,Stationery,Notebook,2,12541.39,0.05
+ORD00970,2025-07-04,Sneha Das,Hyderabad,Telangana,Grocery,Tea,5,46482.83,0.2
+ORD00605,2025-06-25,Anjali Singh,Mumbai,Maharashtra,Grocery,Biscuits,4,20388.27,0.2
+ORD01919,2025-06-13,Nikhil Verma,Ahmedabad,Gujarat,Grocery,Rice,5,66058.75,0.05
+ORD00090,2025-04-09,Anjali Sharma,Bhopal,Madhya Pradesh,Stationery,Marker,5,19042.42,0.0
+ORD00849,2025-01-29,Kavita Verma,Kolkata,West Bengal,Grocery,Cooking Oil,8,26965.17,0.1
+ORD01520,2025-02-25,Pooja Verma,Kolkata,West Bengal,Electronics,Keyboard,7,71371.44,0.2
+ORD01918,2025-09-26,Arjun Gupta,Patna,Bihar,Clothing,T-Shirt,9,59159.51,0.0
+ORD00754,2025-06-05,Nikhil Das,Pune,Maharashtra,Clothing,Jacket,10,59627.41,0.25
+ORD00499,2025-10-17,Neha Patel,Bengaluru,Karnataka,Clothing,T-Shirt,9,57622.77,0.2
+ORD01277,2025-02-10,Neha Sharma,Jaipur,Rajasthan,Grocery,Cooking Oil,1,11229.78,0.05
+ORD01326,2025-11-12,Arjun Das,Ahmedabad,Gujarat,Stationery,Pen Set,9,73018.4,0.05
+ORD00012,2025-10-15,Suresh Gupta,Kolkata,West Bengal,Stationery,Pen Set,5,10687.37,0.25
+ORD00397,2025-07-31,Sneha Patel,Mumbai,Maharashtra,Clothing,T-Shirt,1,69115.26,0.2
+ORD00285,2025-06-14,Neha Gupta,Pune,Maharashtra,Grocery,Biscuits,10,44944.35,0.25
+ORD01067,2025-07-12,Neha Das,Jaipur,Rajasthan,Grocery,Cooking Oil,4,36185.78,0.1
+ORD01192,2025-03-29,Vikas Kumar,Patna,Bihar,Electronics,Laptop,9,22568.7,0.2
+ORD01745,2025-05-22,Kavita Gupta,Jaipur,Rajasthan,Furniture,Office Chair,6,5139.6,0.25
+ORD00691,2025-04-05,Unknown,Chennai,Tamil Nadu,Electronics,Monitor,9,71157.97,0.0
+ORD01753,2025-05-12,Amit Kumar,Chennai,Tamil Nadu,Electronics,Headphones,8,56448.2,0.2
+ORD01876,2025-01-01,Rohit Yadav,Patna,Bihar,Electronics,Monitor,1,64323.16,0.1
+ORD00690,2025-12-02,Nikhil Singh,Bengaluru,Karnataka,Grocery,Cooking Oil,7,74677.51,0.05
+ORD00852,2025-07-09,Vikas Patel,Unknown,Telangana,Clothing,Shoes,3,53768.29,0.15
+ORD00160,2025-02-25,Anjali Patel,Ahmedabad,Gujarat,Grocery,Cooking Oil,3,49341.04,0.05
+ORD00896,2025-09-11,Kavita Das,Jaipur,Rajasthan,Grocery,Cooking Oil,9,4416.35,0.1
+ORD01576,2025-04-19,Nikhil Yadav,Chennai,Tamil Nadu,Electronics,Keyboard,9,51587.29,0.25
+ORD00258,2025-06-19,Sneha Yadav,Patna,Bihar,Grocery,Cooking Oil,4,4173.71,0.15
+ORD00336,2025-12-20,Suresh Singh,Jaipur,Rajasthan,Clothing,Shoes,8,57982.58,0.2
+ORD01880,2025-08-22,Riya Gupta,Jaipur,Rajasthan,Furniture,Office Chair,2,6685.62,0.05
+ORD01040,2025-01-05,Rahul Yadav,Chennai,Tamil Nadu,Stationery,Calculator,6,29159.64,0.25
+ORD00516,2025-10-08,Riya Patel,Mumbai,Maharashtra,Stationery,Calculator,9,22593.76,0.25
+ORD01349,2025-04-30,Suresh Sharma,Bhopal,Madhya Pradesh,Electronics,Headphones,6,35036.9,0.1
+ORD01016,2025-06-16,Rahul Das,Mumbai,Maharashtra,Grocery,Tea,8,50124.75,0.05
+ORD00769,2025-10-16,Rohit Kumar,Bengaluru,Karnataka,Furniture,Office Chair,10,56269.54,0.25
+ORD01747,2025-07-28,Priya Patel,Bengaluru,Karnataka,Grocery,Biscuits,6,17634.19,0.2
+ORD00762,2025-07-16,Anjali Verma,Ahmedabad,Gujarat,Furniture,Sofa,9,31953.32,0.15
+ORD01247,2025-11-24,Priya Gupta,Mumbai,Maharashtra,Furniture,Office Chair,9,18056.7,0.0
+ORD01204,2025-01-25,Priya Patel,Bhopal,Madhya Pradesh,Grocery,Biscuits,9,20511.28,0.0
+ORD01468,2025-09-19,Sneha Patel,Mumbai,Maharashtra,Grocery,Rice,2,45775.6,0.1
+ORD01984,2025-02-03,Neha Yadav,Patna,Bihar,Electronics,Mobile Phone,1,20096.7,0.15
+ORD00522,2025-11-12,Riya Verma,Pune,Maharashtra,Grocery,Rice,6,61098.46,0.0
+ORD00023,2025-10-29,Neha Kumar,Pune,Maharashtra,Electronics,Headphones,1,44226.08,0.05
+ORD00357,2025-06-29,Suresh Gupta,Ahmedabad,Gujarat,Furniture,Desk,4,60456.68,0.2
+ORD01278,2025-03-13,Sneha Gupta,Patna,Bihar,Grocery,Tea,3,57464.97,0.15
+ORD01313,2025-07-28,Rohit Kumar,Jaipur,Rajasthan,Furniture,Sofa,6,8742.11,0.25
+ORD01683,2025-11-28,Nikhil Patel,Pune,Maharashtra,Electronics,Keyboard,8,1434.79,0.1
+ORD00341,2025-08-10,Vikas Kumar,Jaipur,Rajasthan,Furniture,Sofa,3,14182.42,0.25
+ORD00432,2025-02-17,Anjali Yadav,Chennai,Tamil Nadu,Unknown,Sofa,3,54965.89,0.2
+ORD00474,2025-08-23,Priya Patel,Patna,Bihar,Furniture,Desk,4,25864.57,0.2
+ORD00218,2025-04-06,Pooja Das,Kolkata,West Bengal,Clothing,Jacket,4,72048.87,0.0
+ORD00912,2025-02-28,Priya Verma,Hyderabad,Telangana,Furniture,Bookshelf,10,17900.7,0.05
+ORD01228,2025-05-15,Sneha Verma,Bhopal,Madhya Pradesh,Grocery,Cooking Oil,4,21265.13,0.0
+ORD01597,2025-03-01,Manish Verma,Patna,Bihar,Furniture,Bookshelf,2,62804.79,0.15
+ORD01012,2025-06-05,Rohit Yadav,Patna,Bihar,Grocery,Cooking Oil,2,28017.18,0.1
+ORD01950,2025-12-24,Arjun Das,Ahmedabad,Gujarat,Furniture,Bookshelf,3,52833.36,0.2
+ORD00094,2025-06-24,Priya Kumar,Delhi,Delhi,Electronics,Monitor,5,35337.42,0.15
+ORD01009,2025-09-06,Sneha Yadav,Jaipur,Rajasthan,Stationery,File Folder,3,11039.88,0.05
+ORD01071,2025-01-11,Riya Singh,Mumbai,Maharashtra,Furniture,Office Chair,3,63255.39,0.0
+ORD01093,2025-12-20,Suresh Gupta,Chennai,Tamil Nadu,Furniture,Sofa,7,51510.77,0.15
+ORD01915,2025-12-04,Suresh Patel,Mumbai,Maharashtra,Electronics,Monitor,3,49931.91,0.15
+ORD01309,2025-02-17,Nikhil Das,Kolkata,West Bengal,Grocery,Cooking Oil,10,14009.85,0.0
+ORD00697,2025-08-23,Nikhil Verma,Delhi,Delhi,Furniture,Sofa,10,36873.23,0.1
+ORD01828,2025-05-09,Rohit Singh,Bengaluru,Karnataka,Clothing,Jeans,9,771.98,0.25
+ORD00997,2025-11-09,Nikhil Singh,Bhopal,Madhya Pradesh,Clothing,Jacket,1,62068.52,0.2
+ORD00154,2025-02-20,Manish Sharma,Ahmedabad,Gujarat,Grocery,Biscuits,8,38039.94,0.15
+ORD01100,2025-06-08,Vikas Yadav,Bhopal,Madhya Pradesh,Electronics,Keyboard,4,9962.44,0.05
+ORD01719,2025-07-02,Rahul Kumar,Bengaluru,Karnataka,Grocery,Biscuits,7,50106.64,0.1
+ORD01998,2025-03-29,Nikhil Das,Ahmedabad,Gujarat,Electronics,Laptop,10,265.93,0.05
+ORD00790,2025-07-19,Rohit Singh,Patna,Bihar,Stationery,Pen Set,1,69983.81,0.25
+ORD00581,2025-10-12,Pooja Gupta,Kolkata,West Bengal,Grocery,Sugar,8,13609.29,0.2
+ORD00704,2025-12-21,Arjun Singh,Jaipur,Rajasthan,Grocery,Cooking Oil,8,6990.93,0.1
+ORD01213,2025-02-08,Anjali Singh,Ahmedabad,Gujarat,Stationery,Pen Set,9,67808.95,0.05
+ORD01296,2025-07-06,Anjali Sharma,Chennai,Tamil Nadu,Furniture,Bookshelf,3,5345.1,0.2
+ORD01666,2025-09-20,Anjali Kumar,Kolkata,West Bengal,Stationery,File Folder,1,62417.66,0.0
+ORD01261,2025-10-06,Rohit Sharma,Hyderabad,Telangana,Grocery,Rice,1,61913.14,0.0
+ORD00488,2025-12-27,Vikas Gupta,Ahmedabad,Gujarat,Furniture,Bookshelf,9,72990.7,0.1
+ORD00560,2025-07-18,Pooja Yadav,Chennai,Tamil Nadu,Furniture,Office Chair,4,38961.92,0.1
+ORD01142,2025-09-02,Amit Patel,Bhopal,Madhya Pradesh,Electronics,Keyboard,7,55240.9,0.05
+ORD01120,2025-01-07,Vikas Verma,Chennai,Tamil Nadu,Clothing,Jeans,1,30309.93,0.1
+ORD00802,2025-08-07,Anjali Das,Delhi,Delhi,Stationery,Calculator,10,16737.8,0.05
+ORD00513,2025-12-21,Kavita Singh,Lucknow,Uttar Pradesh,Stationery,Calculator,8,69346.72,0.05
+ORD00634,2025-06-19,Rahul Singh,Kolkata,West Bengal,Clothing,Shoes,6,34910.41,0.0
+ORD01922,2025-07-31,Riya Patel,Jaipur,Rajasthan,Grocery,Rice,10,12563.77,0.25
+ORD01788,2025-09-01,Nikhil Das,Hyderabad,Telangana,Electronics,Monitor,9,5775.82,0.25
+ORD01546,2025-01-03,Kavita Gupta,Mumbai,Maharashtra,Electronics,Mobile Phone,8,27234.11,0.05
+ORD01151,2025-05-13,Nikhil Das,Mumbai,Maharashtra,Furniture,Office Chair,3,60736.1,0.05
+ORD00791,2025-09-09,Pooja Das,Bhopal,Madhya Pradesh,Clothing,Shoes,10,526.86,0.25
+ORD00117,2025-03-18,Pooja Yadav,Bengaluru,Karnataka,Clothing,Kurta,10,74917.95,0.15
+ORD00741,2025-06-20,Riya Verma,Mumbai,Maharashtra,Grocery,Sugar,10,46319.57,0.1
+ORD01691,2025-01-01,Rohit Yadav,Kolkata,West Bengal,Grocery,Tea,3,64304.45,0.25
+ORD01082,2025-08-27,Suresh Patel,Bengaluru,Karnataka,Stationery,Calculator,6,17455.77,0.0
+ORD00831,2025-03-12,Anjali Verma,Hyderabad,Telangana,Grocery,Rice,9,53272.95,0.05
+ORD00120,2025-06-19,Riya Sharma,Kolkata,West Bengal,Furniture,Sofa,1,9686.91,0.2
+ORD00657,2025-07-03,Arjun Yadav,Lucknow,Uttar Pradesh,Grocery,Tea,2,57529.69,0.2
+ORD01908,2025-02-26,Arjun Singh,Bengaluru,Karnataka,Furniture,Office Chair,5,45183.75,0.15
+ORD00636,2025-05-07,Sneha Kumar,Kolkata,West Bengal,Electronics,Laptop,4,29013.64,0.15
+ORD00370,2025-02-06,Neha Das,Patna,Bihar,Clothing,T-Shirt,7,52128.82,0.15
+ORD00269,2025-06-09,Sneha Sharma,Jaipur,Rajasthan,Clothing,Jeans,7,51534.0,0.25
+ORD00656,2025-12-03,Neha Singh,Delhi,Delhi,Furniture,Table,7,14412.17,0.2
+ORD00936,2025-04-16,Kavita Verma,Pune,Maharashtra,Clothing,Jacket,8,28810.0,0.15
+ORD00823,2025-01-18,Vikas Das,Kolkata,West Bengal,Electronics,Laptop,8,55077.35,0.2
+ORD00867,2025-02-22,Neha Singh,Chennai,Tamil Nadu,Stationery,File Folder,6,69087.83,0.05
+ORD00047,2025-06-20,Manish Das,Pune,Maharashtra,Furniture,Desk,7,2102.78,0.25
+ORD01374,2025-01-19,Kavita Gupta,Hyderabad,Telangana,Electronics,Mobile Phone,2,16663.59,0.0
+ORD01709,2025-11-01,Rahul Kumar,Bhopal,Madhya Pradesh,Grocery,Biscuits,4,69248.15,0.2
+ORD00992,2025-08-01,Anjali Verma,Chennai,Tamil Nadu,Clothing,Kurta,3,6621.23,0.1
+ORD00877,2025-09-28,Neha Verma,Lucknow,Uttar Pradesh,Grocery,Rice,2,61514.09,0.0
+ORD00774,2025-07-16,Neha Yadav,Mumbai,Maharashtra,Grocery,Cooking Oil,8,56518.91,0.15
+ORD01220,2025-07-11,Rohit Patel,Jaipur,Rajasthan,Electronics,Mobile Phone,5,17150.62,0.15
+ORD02000,2025-11-26,Manish Sharma,Mumbai,Maharashtra,Electronics,Keyboard,10,63966.56,0.05
+ORD00005,2025-08-24,Suresh Sharma,Delhi,Delhi,Clothing,Jacket,10,20022.93,0.0
+ORD01004,2025-06-29,Rohit Gupta,Pune,Maharashtra,Grocery,Sugar,9,63376.06,0.05
+ORD01724,2025-09-25,Amit Das,Bhopal,Madhya Pradesh,Electronics,Headphones,8,63954.42,0.2
+ORD00264,2025-05-12,Sneha Singh,Pune,Maharashtra,Electronics,Headphones,3,54901.16,0.25
+ORD01570,2025-09-17,Rahul Das,Ahmedabad,Gujarat,Clothing,Shoes,7,22687.95,0.05
+ORD01831,2025-07-09,Pooja Gupta,Ahmedabad,Gujarat,Clothing,Jacket,8,27018.91,0.15
+ORD00444,2025-03-06,Amit Das,Delhi,Delhi,Stationery,Pen Set,3,72919.32,0.05
+ORD01003,2025-01-03,Pooja Patel,Delhi,Delhi,Electronics,Laptop,8,22522.59,0.25
+ORD01078,2025-09-27,Sneha Yadav,Jaipur,Rajasthan,Grocery,Tea,3,24306.28,0.1
+ORD00838,2025-05-30,Neha Sharma,Jaipur,Rajasthan,Clothing,Shoes,8,55393.77,0.0
+ORD01791,2025-01-11,Vikas Gupta,Hyderabad,Telangana,Furniture,Sofa,5,66174.83,0.1
+ORD00305,2025-09-26,Priya Verma,Patna,Bihar,Grocery,Tea,3,8249.48,0.0
+ORD01366,2025-04-23,Nikhil Patel,Bengaluru,Karnataka,Stationery,Pen Set,9,8148.12,0.05
+ORD01558,2025-08-24,Rahul Verma,Ahmedabad,Gujarat,Electronics,Mobile Phone,1,16510.06,0.1
+ORD00314,2025-01-28,Rahul Das,Kolkata,West Bengal,Furniture,Office Chair,9,55972.88,0.1
+ORD00150,2025-09-15,Neha Kumar,Jaipur,Rajasthan,Stationery,Marker,9,44626.53,0.15
+ORD01149,2025-08-09,Priya Singh,Bhopal,Madhya Pradesh,Stationery,Calculator,7,49175.46,0.25
+ORD01214,2025-07-11,Rahul Patel,Lucknow,Uttar Pradesh,Clothing,T-Shirt,7,37289.21,0.05
+ORD00575,2025-01-23,Sneha Das,Ahmedabad,Gujarat,Grocery,Rice,7,39272.81,0.1
+ORD00051,2025-04-02,Kavita Gupta,Hyderabad,Telangana,Grocery,Biscuits,1,8871.8,0.1
+ORD01553,2025-09-22,Amit Das,Chennai,Tamil Nadu,Clothing,Jeans,10,54229.63,0.1
+ORD00727,2025-12-17,Anjali Patel,Ahmedabad,Gujarat,Clothing,Kurta,9,1649.2,0.2
+ORD00834,2025-08-29,Sneha Gupta,Chennai,Tamil Nadu,Stationery,File Folder,9,39619.52,0.0
+ORD01378,2025-05-03,Priya Patel,Lucknow,Uttar Pradesh,Grocery,Tea,5,63979.15,0.25
+ORD01116,2025-01-15,Amit Patel,Pune,Maharashtra,Clothing,Jeans,4,7081.14,0.15
+ORD01167,2025-02-03,Arjun Patel,Delhi,Delhi,Clothing,Jeans,10,57533.72,0.2
+ORD00471,2025-06-07,Vikas Patel,Hyderabad,Telangana,Clothing,T-Shirt,4,26807.43,0.25
+ORD00972,2025-11-17,Riya Verma,Patna,Bihar,Furniture,Sofa,3,48818.05,0.15
+ORD00654,2025-07-08,Manish Kumar,Jaipur,Rajasthan,Electronics,Headphones,9,55824.94,0.15
+ORD00400,2025-03-11,Manish Sharma,Chennai,Tamil Nadu,Stationery,Marker,4,5832.89,0.05
+ORD00512,2025-01-03,Suresh Kumar,Jaipur,Rajasthan,Stationery,Calculator,9,10314.04,0.15
+ORD00321,2025-11-03,Manish Patel,Delhi,Delhi,Electronics,Laptop,6,41677.93,0.2
+ORD00020,2025-03-06,Priya Yadav,Ahmedabad,Gujarat,Electronics,Laptop,8,61247.74,0.2
+ORD00685,2025-11-17,Rohit Verma,Kolkata,West Bengal,Furniture,Office Chair,6,51402.27,0.1
+ORD00036,2025-12-10,Arjun Gupta,Bengaluru,Karnataka,Furniture,Bookshelf,4,20104.68,0.05
+ORD00903,2025-07-06,Vikas Verma,Chennai,Tamil Nadu,Stationery,Calculator,6,12705.38,0.1
+ORD01779,2025-04-05,Rahul Sharma,Jaipur,Rajasthan,Stationery,Notebook,2,17341.22,0.15
+ORD00828,2025-12-24,Kavita Verma,Kolkata,West Bengal,Clothing,Kurta,1,22420.1,0.1
+ORD01854,2025-11-07,Pooja Gupta,Chennai,Tamil Nadu,Electronics,Headphones,8,20877.22,0.25
+ORD00408,2025-01-26,Priya Das,Mumbai,Maharashtra,Electronics,Headphones,2,3441.55,0.15
+ORD00921,2025-07-05,Pooja Patel,Lucknow,Unknown,Stationery,File Folder,4,72257.82,0.05
+ORD00538,2025-02-14,Rahul Kumar,Bhopal,Madhya Pradesh,Furniture,Office Chair,8,53835.9,0.0
+ORD00759,2025-08-02,Priya Gupta,Mumbai,Maharashtra,Furniture,Table,7,63288.74,0.1
+ORD01905,2025-12-17,Priya Kumar,Lucknow,Uttar Pradesh,Stationery,Pen Set,10,30942.88,0.0
+ORD01063,2025-06-26,Neha Verma,Patna,Bihar,Furniture,Table,9,64437.99,0.15
+ORD01200,2025-09-30,Rahul Das,Kolkata,West Bengal,Electronics,Monitor,4,6044.96,0.0
+ORD00246,2025-06-19,Arjun Sharma,Bhopal,Madhya Pradesh,Grocery,Biscuits,8,61227.23,0.1
+ORD01417,2025-03-13,Rohit Gupta,Mumbai,Maharashtra,Furniture,Bookshelf,10,25612.01,0.25
+ORD01128,2025-09-24,Manish Das,Bhopal,Madhya Pradesh,Clothing,Jeans,5,23986.01,0.0
+ORD00785,2025-06-15,Rohit Singh,Hyderabad,Telangana,Stationery,Marker,7,51993.56,0.25
+ORD01743,2025-09-12,Kavita Das,Jaipur,Rajasthan,Clothing,Kurta,1,34652.86,0.15
+ORD00490,2025-10-09,Priya Sharma,Patna,Bihar,Electronics,Laptop,2,62683.6,0.25
+ORD00155,2025-07-31,Anjali Yadav,Hyderabad,Telangana,Grocery,Cooking Oil,7,34003.73,0.05
+ORD00962,2025-02-10,Nikhil Yadav,Jaipur,Rajasthan,Grocery,Sugar,2,21980.05,0.15
+ORD00854,2025-06-08,Sneha Das,Bhopal,Madhya Pradesh,Stationery,File Folder,8,21825.39,0.25
+ORD01312,2025-06-12,Amit Singh,Delhi,Delhi,Grocery,Sugar,3,24449.01,0.25
+ORD00626,2025-06-26,Rohit Yadav,Bengaluru,Karnataka,Electronics,Laptop,9,61199.64,0.05
+ORD00686,2025-10-12,Rohit Verma,Lucknow,Uttar Pradesh,Clothing,T-Shirt,5,65931.13,0.0
+ORD01562,2025-07-17,Priya Verma,Chennai,Tamil Nadu,Grocery,Tea,3,2995.65,0.2
+ORD00570,2025-03-29,Neha Das,Delhi,Delhi,Furniture,Sofa,10,74459.99,0.15
+ORD01909,2025-12-01,Nikhil Singh,Delhi,Delhi,Furniture,Sofa,6,18865.94,0.15
+ORD00018,2025-01-01,Kavita Patel,Mumbai,Maharashtra,Clothing,Jeans,9,71524.11,0.2
+ORD00128,2025-05-28,Arjun Singh,Jaipur,Rajasthan,Clothing,Shoes,5,50096.34,0.15
+ORD01347,2025-04-06,Anjali Verma,Kolkata,West Bengal,Electronics,Laptop,3,60725.77,0.15
+ORD01280,2025-03-24,Amit Das,Mumbai,Maharashtra,Electronics,Laptop,10,56397.19,0.1
+ORD01969,2025-06-02,Rahul Das,Mumbai,Maharashtra,Electronics,Mobile Phone,2,45084.92,0.1
+ORD00928,2025-03-11,Amit Das,Jaipur,Rajasthan,Electronics,Laptop,3,47354.19,0.25
+ORD00981,2025-12-31,Vikas Das,Ahmedabad,Gujarat,Clothing,Kurta,8,37100.89,0.1
+ORD01965,2025-02-26,Sneha Verma,Ahmedabad,Gujarat,Clothing,Shoes,4,34257.08,0.25
+ORD00191,2025-05-02,Pooja Gupta,Bhopal,Madhya Pradesh,Stationery,Notebook,7,27481.38,0.25
+ORD01140,2025-07-17,Nikhil Singh,Hyderabad,Telangana,Grocery,Rice,7,66403.72,0.0
+ORD00993,2025-07-31,Nikhil Das,Mumbai,Maharashtra,Grocery,Tea,4,10565.08,0.15
+ORD01956,2025-12-29,Nikhil Singh,Patna,Bihar,Stationery,Marker,1,57113.09,0.0
+ORD01657,2025-11-13,Suresh Yadav,Kolkata,West Bengal,Clothing,Kurta,9,55491.52,0.05
+ORD00607,2025-12-18,Neha Sharma,Bengaluru,Karnataka,Stationery,Pen Set,10,10052.65,0.2
+ORD00181,2025-03-19,Amit Yadav,Jaipur,Rajasthan,Grocery,Cooking Oil,6,45474.19,0.2
+ORD00302,2025-04-22,Suresh Yadav,Kolkata,West Bengal,Furniture,Desk,2,53110.92,0.0
+ORD00497,2025-07-03,Kavita Kumar,Ahmedabad,Gujarat,Stationery,Calculator,8,13799.23,0.15
+ORD01721,2025-11-07,Suresh Das,Delhi,Delhi,Stationery,Calculator,10,62846.55,0.15
+ORD01710,2025-07-20,Manish Singh,Kolkata,West Bengal,Furniture,Desk,8,61727.48,0.05
+ORD01888,2025-02-14,Kavita Gupta,Mumbai,Maharashtra,Stationery,Calculator,7,27184.58,0.15
+ORD01992,2025-08-01,Pooja Kumar,Chennai,Tamil Nadu,Electronics,Keyboard,7,61175.8,0.05
+ORD00518,2025-06-15,Sneha Sharma,Hyderabad,Telangana,Furniture,Desk,9,40801.24,0.25
+ORD01985,2025-11-12,Sneha Patel,Mumbai,Maharashtra,Stationery,Notebook,2,50288.93,0.1
+ORD01070,2025-03-31,Anjali Verma,Pune,Maharashtra,Clothing,Jeans,4,37100.89,0.25
+ORD00477,2025-07-26,Vikas Yadav,Jaipur,Rajasthan,Electronics,Mobile Phone,10,32669.93,0.15
+ORD00158,2025-06-18,Arjun Sharma,Mumbai,Maharashtra,Grocery,Rice,10,71757.69,0.2
+ORD01244,2025-07-25,Kavita Gupta,Mumbai,Maharashtra,Stationery,Calculator,7,42296.77,0.15
+ORD01196,2025-03-07,Sneha Das,Mumbai,Maharashtra,Grocery,Sugar,4,44485.79,0.1
+ORD00017,2025-11-17,Rohit Verma,Bhopal,Madhya Pradesh,Clothing,Kurta,3,38199.21,0.0
+ORD01536,2025-05-11,Suresh Verma,Kolkata,West Bengal,Grocery,Biscuits,6,46931.44,0.15
+ORD01073,2025-02-03,Rahul Singh,Hyderabad,Telangana,Furniture,Table,10,66154.37,0.25
+ORD01972,2025-05-10,Pooja Das,Kolkata,West Bengal,Furniture,Desk,1,67562.64,0.15
+ORD00547,2025-08-25,Arjun Sharma,Pune,Maharashtra,Electronics,Mobile Phone,10,63955.77,0.2
+ORD01540,2025-03-12,Suresh Yadav,Mumbai,Maharashtra,Stationery,Notebook,6,6064.61,0.0
+ORD00659,2025-06-11,Suresh Patel,Hyderabad,Telangana,Furniture,Table,10,33365.16,0.1
+ORD01626,2025-02-07,Pooja Yadav,Jaipur,Rajasthan,Furniture,Bookshelf,2,24919.42,0.25
+ORD01020,2025-03-03,Arjun Singh,Ahmedabad,Gujarat,Grocery,Cooking Oil,8,37822.25,0.0
+ORD01663,2025-12-31,Sneha Patel,Bhopal,Madhya Pradesh,Electronics,Mobile Phone,2,37100.89,0.25
+ORD01505,2025-05-29,Rohit Verma,Jaipur,Rajasthan,Stationery,Calculator,7,51619.84,0.0
+ORD00960,2025-11-11,Priya Das,Ahmedabad,Gujarat,Grocery,Tea,2,56797.68,0.1
+ORD01882,2025-07-31,Priya Kumar,Kolkata,West Bengal,Stationery,Notebook,1,37432.4,0.15
+ORD00284,2025-01-29,Priya Gupta,Pune,Maharashtra,Electronics,Keyboard,8,17766.86,0.05
+ORD00798,2025-12-08,Suresh Yadav,Patna,Unknown,Clothing,T-Shirt,7,37100.89,0.25
+ORD01627,2025-08-19,Sneha Gupta,Pune,Maharashtra,Clothing,Unknown,10,51767.26,0.1
+ORD00226,2025-03-20,Rohit Singh,Mumbai,Maharashtra,Stationery,Calculator,1,62396.46,0.2
+ORD00027,2025-02-25,Neha Verma,Jaipur,Rajasthan,Electronics,Laptop,1,30345.94,0.1
+ORD01771,2025-04-27,Anjali Das,Bengaluru,Karnataka,Electronics,Mobile Phone,6,73834.05,0.15
+ORD00438,2025-02-16,Arjun Das,Bengaluru,Karnataka,Stationery,File Folder,8,67142.09,0.1
+ORD01949,2025-11-12,Vikas Yadav,Kolkata,West Bengal,Grocery,Biscuits,6,1798.51,0.2
+ORD01389,2025-11-10,Rahul Das,Bengaluru,Karnataka,Furniture,Office Chair,10,39125.81,0.1
+ORD00230,2025-10-23,Rohit Verma,Ahmedabad,Gujarat,Electronics,Laptop,2,3648.27,0.25
+ORD00038,2025-07-09,Rohit Singh,Lucknow,Uttar Pradesh,Clothing,Jeans,6,66094.6,0.05
+ORD00750,2025-08-16,Priya Gupta,Delhi,Delhi,Grocery,Sugar,8,24572.01,0.0
+ORD01046,2025-08-21,Amit Das,Pune,Maharashtra,Electronics,Monitor,10,19155.85,0.2
+ORD01399,2025-08-15,Sneha Patel,Lucknow,Uttar Pradesh,Furniture,Sofa,7,7429.16,0.2
+ORD00470,2025-10-14,Manish Singh,Bengaluru,Karnataka,Electronics,Keyboard,3,55633.69,0.25
+ORD01693,2025-03-08,Manish Singh,Jaipur,Rajasthan,Stationery,Calculator,4,9656.01,0.2
+ORD01968,2025-03-27,Suresh Yadav,Ahmedabad,Gujarat,Grocery,Tea,5,39379.41,0.15
+ORD00688,2025-11-06,Anjali Yadav,Kolkata,West Bengal,Furniture,Table,3,32128.26,0.1
+ORD01844,2025-12-24,Neha Singh,Hyderabad,Telangana,Stationery,Marker,9,25721.61,0.1
+ORD00640,2025-01-05,Amit Yadav,Patna,Bihar,Furniture,Bookshelf,10,9193.81,0.1
+ORD01713,2025-06-09,Suresh Sharma,Hyderabad,Telangana,Clothing,Jacket,1,47847.56,0.2
+ORD01219,2025-03-20,Vikas Sharma,Delhi,Delhi,Stationery,File Folder,4,6584.6,0.2
+ORD01159,2025-04-07,Amit Patel,Chennai,Tamil Nadu,Stationery,Calculator,8,38739.82,0.25
+ORD01416,2025-09-26,Vikas Sharma,Chennai,Tamil Nadu,Grocery,Sugar,4,26325.35,0.25
+ORD01528,2025-09-11,Priya Yadav,Mumbai,Maharashtra,Furniture,Sofa,2,3169.88,0.15
+ORD01656,2025-01-13,Anjali Das,Patna,Bihar,Furniture,Desk,5,22286.07,0.1
+ORD01301,2025-07-12,Priya Das,Bhopal,Madhya Pradesh,Grocery,Rice,3,64016.22,0.1
+ORD01823,2025-09-01,Riya Verma,Bhopal,Madhya Pradesh,Electronics,Keyboard,6,47002.52,0.05
+ORD00801,2025-10-30,Rahul Sharma,Mumbai,Maharashtra,Unknown,Headphones,2,34349.8,0.05
+ORD01604,2025-06-13,Anjali Yadav,Lucknow,Uttar Pradesh,Stationery,File Folder,9,1189.4,0.1
+ORD00161,2025-11-15,Kavita Kumar,Delhi,Delhi,Clothing,Kurta,4,60589.8,0.2
+ORD00957,2025-05-26,Arjun Singh,Kolkata,West Bengal,Electronics,Laptop,4,12429.82,0.15
+ORD01187,2025-02-18,Manish Singh,Ahmedabad,Gujarat,Unknown,Sugar,8,20710.93,0.25
+ORD00822,2025-10-30,Priya Kumar,Bhopal,Madhya Pradesh,Furniture,Desk,6,32710.09,0.05
+ORD01682,2025-02-03,Vikas Gupta,Kolkata,West Bengal,Stationery,File Folder,2,26762.41,0.1
+ORD00878,2025-04-20,Nikhil Yadav,Bengaluru,Karnataka,Furniture,Table,1,73025.1,0.0
+ORD00914,2025-12-04,Suresh Singh,Pune,Maharashtra,Furniture,Bookshelf,3,2428.35,0.1
+ORD00153,2025-12-31,Anjali Das,Delhi,Delhi,Furniture,Bookshelf,10,47572.49,0.2
+ORD01871,2025-12-20,Arjun Verma,Bhopal,Madhya Pradesh,Furniture,Desk,10,55243.76,0.1
+ORD01777,2025-05-14,Rahul Sharma,Hyderabad,Telangana,Stationery,Marker,9,21661.31,0.2
+ORD00510,2025-04-07,Rahul Das,Jaipur,Rajasthan,Furniture,Sofa,2,19258.13,0.05
+ORD01136,2025-06-03,Kavita Singh,Mumbai,Maharashtra,Stationery,Notebook,7,32197.95,0.0
+ORD01251,2025-12-03,Riya Sharma,Pune,Maharashtra,Clothing,Jeans,5,72877.45,0.2
+ORD01684,2025-09-23,Priya Singh,Patna,Bihar,Furniture,Desk,3,42452.3,0.05
+ORD00104,2025-02-11,Kavita Kumar,Bhopal,Madhya Pradesh,Stationery,Marker,9,40613.62,0.15
+ORD01446,2025-06-13,Sneha Sharma,Chennai,Tamil Nadu,Grocery,Biscuits,4,39631.6,0.1
+ORD01444,2025-12-03,Rahul Sharma,Bengaluru,Karnataka,Furniture,Table,7,36032.93,0.0
+ORD00587,2025-09-19,Suresh Verma,Patna,Bihar,Furniture,Table,5,14807.3,0.2
+ORD01769,2025-06-13,Rahul Verma,Pune,Maharashtra,Electronics,Keyboard,3,66953.62,0.25
+ORD01144,2025-11-26,Sneha Das,Ahmedabad,Gujarat,Grocery,Cooking Oil,1,8975.62,0.0
+ORD00054,2025-03-05,Sneha Gupta,Chennai,Tamil Nadu,Stationery,Notebook,6,46830.87,0.25
+ORD00152,2025-06-14,Kavita Singh,Kolkata,West Bengal,Electronics,Keyboard,8,5743.43,0.0
+ORD00404,2025-03-31,Amit Das,Chennai,Tamil Nadu,Stationery,Calculator,1,50869.46,0.1
+ORD01943,2025-06-12,Manish Verma,Lucknow,Uttar Pradesh,Clothing,Jeans,3,1965.82,0.2
+ORD00208,2025-07-23,Riya Yadav,Patna,Bihar,Furniture,Office Chair,6,70019.48,0.2
+ORD01895,2025-03-15,Nikhil Sharma,Mumbai,Maharashtra,Furniture,Office Chair,9,60045.16,0.15
+ORD01123,2025-07-18,Arjun Singh,Bengaluru,Karnataka,Electronics,Monitor,6,73610.84,0.25
+ORD01891,2025-10-06,Amit Sharma,Pune,Maharashtra,Stationery,Notebook,7,66084.05,0.2
+ORD00009,2025-03-25,Pooja Das,Bhopal,Madhya Pradesh,Electronics,Monitor,3,40176.96,0.05
+ORD01015,2025-09-01,Riya Singh,Ahmedabad,Gujarat,Clothing,Kurta,8,67546.47,0.15
+ORD01907,2025-09-09,Priya Yadav,Lucknow,Uttar Pradesh,Electronics,Headphones,10,9045.73,0.2
+ORD01061,2025-03-16,Priya Yadav,Ahmedabad,Gujarat,Stationery,Calculator,6,23511.32,0.2
+ORD00453,2025-05-18,Sneha Das,Pune,Maharashtra,Furniture,Bookshelf,8,58108.81,0.1
+ORD00254,2025-05-21,Rohit Sharma,Bhopal,Madhya Pradesh,Furniture,Sofa,6,36115.31,0.2
+ORD01328,2025-09-16,Rahul Das,Lucknow,Uttar Pradesh,Furniture,Sofa,4,7693.45,0.05
+ORD00897,2025-01-24,Priya Patel,Ahmedabad,Gujarat,Clothing,Jacket,6,4841.44,0.2
+ORD01734,2025-09-30,Anjali Das,Bhopal,Madhya Pradesh,Grocery,Tea,5,11145.97,0.1
+ORD00881,2025-05-28,Suresh Kumar,Delhi,Delhi,Grocery,Cooking Oil,8,57229.96,0.25
+ORD01596,2025-06-04,Vikas Das,Kolkata,West Bengal,Grocery,Rice,6,69576.18,0.25
+ORD01889,2025-12-15,Priya Kumar,Mumbai,Maharashtra,Clothing,Jacket,8,33944.96,0.2
+ORD00624,2025-06-08,Nikhil Patel,Hyderabad,Telangana,Grocery,Tea,9,48074.04,0.2
+ORD00346,2025-03-10,Anjali Sharma,Ahmedabad,Gujarat,Furniture,Bookshelf,10,44365.09,0.25
+ORD01703,2025-09-16,Priya Das,Mumbai,Maharashtra,Clothing,Jacket,8,32853.27,0.0
+ORD00263,2025-09-16,Pooja Gupta,Bengaluru,Karnataka,Stationery,Calculator,9,37169.95,0.05
+ORD01635,2025-03-03,Arjun Verma,Pune,Maharashtra,Furniture,Desk,5,45745.93,0.25
+ORD01322,2025-08-29,Rahul Patel,Pune,Maharashtra,Furniture,Sofa,9,28735.72,0.05
+ORD01439,2025-12-23,Priya Das,Hyderabad,Telangana,Electronics,Monitor,8,4147.5,0.15
+ORD00151,2025-02-01,Pooja Das,Bhopal,Madhya Pradesh,Grocery,Biscuits,8,48339.72,0.0
+ORD00473,2025-09-29,Rohit Das,Jaipur,Rajasthan,Furniture,Table,2,65095.46,0.15
+ORD00641,2025-03-22,Pooja Sharma,Bhopal,Madhya Pradesh,Grocery,Cooking Oil,6,57867.08,0.05
+ORD01983,2025-05-11,Nikhil Verma,Ahmedabad,Gujarat,Furniture,Sofa,3,32161.63,0.2
+ORD01883,2025-09-03,Neha Gupta,Ahmedabad,Gujarat,Electronics,Laptop,5,53315.16,0.25
+ORD00551,2025-12-31,Sneha Das,Kolkata,West Bengal,Furniture,Office Chair,6,18651.59,0.05
+ORD01780,2025-08-15,Kavita Kumar,Pune,Maharashtra,Stationery,Calculator,6,32998.61,0.05
+ORD00929,2025-05-08,Suresh Singh,Pune,Maharashtra,Clothing,Jacket,10,6396.85,0.05
+ORD00489,2025-09-04,Anjali Verma,Mumbai,Maharashtra,Electronics,Monitor,8,68299.16,0.25
+ORD01812,2025-11-29,Neha Gupta,Lucknow,Uttar Pradesh,Electronics,Keyboard,6,67959.79,0.0
+ORD01172,2025-03-16,Riya Gupta,Delhi,Delhi,Stationery,Notebook,9,63964.06,0.1
+ORD00147,2025-05-09,Manish Singh,Ahmedabad,Gujarat,Electronics,Headphones,3,74067.67,0.2
+ORD01705,2025-10-04,Neha Singh,Ahmedabad,Gujarat,Grocery,Sugar,1,60069.43,0.1
+ORD01929,2025-09-22,Kavita Sharma,Jaipur,Rajasthan,Clothing,T-Shirt,8,73148.19,0.2
+ORD00403,2025-03-17,Rahul Verma,Bhopal,Madhya Pradesh,Grocery,Rice,4,62735.38,0.1
+ORD00955,2025-05-25,Anjali Kumar,Chennai,Tamil Nadu,Grocery,Cooking Oil,4,64780.09,0.25
+ORD01878,2025-06-02,Manish Kumar,Bhopal,Madhya Pradesh,Clothing,T-Shirt,5,31457.16,0.0
+ORD00660,2025-10-07,Neha Das,Chennai,Tamil Nadu,Stationery,File Folder,6,45728.9,0.2
+ORD01373,2025-09-23,Vikas Sharma,Kolkata,West Bengal,Furniture,Table,5,39834.82,0.15
+ORD00464,2025-10-15,Arjun Gupta,Ahmedabad,Gujarat,Electronics,Laptop,9,74957.35,0.1
+ORD01350,2025-10-15,Rohit Sharma,Kolkata,West Bengal,Clothing,Kurta,4,39662.86,0.0
+ORD00187,2025-08-05,Suresh Patel,Hyderabad,Telangana,Clothing,Jeans,9,7235.61,0.25
+ORD01148,2025-01-01,Rahul Sharma,Bhopal,Madhya Pradesh,Stationery,Marker,1,74030.16,0.15
+ORD01225,2025-01-11,Priya Singh,Chennai,Tamil Nadu,Stationery,Calculator,7,10073.47,0.0
+ORD00609,2025-09-22,Suresh Patel,Jaipur,Rajasthan,Electronics,Mobile Phone,7,37594.94,0.25
+ORD00144,2025-08-21,Rahul Verma,Lucknow,Uttar Pradesh,Clothing,T-Shirt,7,20872.14,0.0
+ORD00752,2025-11-22,Manish Kumar,Hyderabad,Telangana,Electronics,Laptop,4,61323.26,0.2
+ORD01535,2025-04-09,Rohit Gupta,Delhi,Delhi,Clothing,Kurta,4,26035.57,0.0
+ORD00982,2025-12-20,Sneha Sharma,Hyderabad,Telangana,Clothing,Shoes,3,46732.72,0.1
+ORD00198,2025-12-23,Riya Singh,Mumbai,Maharashtra,Furniture,Office Chair,5,68825.36,0.15
+ORD01634,2025-06-25,Neha Gupta,Mumbai,Maharashtra,Stationery,File Folder,1,50238.68,0.0
+ORD00884,2025-12-11,Rahul Das,Jaipur,Rajasthan,Clothing,Jeans,1,74904.57,0.15
+ORD00280,2025-04-25,Riya Kumar,Delhi,Delhi,Furniture,Table,7,39780.98,0.25
+ORD00294,2025-04-15,Vikas Verma,Bhopal,Madhya Pradesh,Electronics,Keyboard,4,52248.06,0.25
+ORD01824,2025-12-13,Kavita Kumar,Bhopal,Madhya Pradesh,Stationery,Calculator,3,35323.48,0.25
+ORD00401,2025-03-03,Suresh Patel,Mumbai,Maharashtra,Electronics,Mobile Phone,8,35087.62,0.15
+ORD00123,2025-10-05,Amit Sharma,Hyderabad,Telangana,Grocery,Tea,6,47103.24,0.15
+ORD01208,2025-04-28,Rohit Sharma,Jaipur,Rajasthan,Grocery,Biscuits,5,71458.07,0.2
+ORD00203,2025-09-26,Anjali Sharma,Pune,Maharashtra,Grocery,Tea,3,49911.75,0.0
+ORD01463,2025-05-13,Rohit Kumar,Ahmedabad,Gujarat,Clothing,T-Shirt,9,53872.49,0.0
+ORD00836,2025-12-23,Priya Yadav,Mumbai,Maharashtra,Clothing,T-Shirt,2,12566.27,0.0
+ORD00247,2025-12-02,Manish Verma,Kolkata,West Bengal,Grocery,Biscuits,1,44868.99,0.1
+ORD01440,2025-11-12,Nikhil Patel,Bhopal,Madhya Pradesh,Stationery,Calculator,3,8889.84,0.0
+ORD01754,2025-01-07,Amit Patel,Lucknow,Uttar Pradesh,Electronics,Headphones,2,12846.36,0.2
+ORD01902,2025-02-14,Pooja Gupta,Hyderabad,Telangana,Stationery,Notebook,7,3140.7,0.15
+ORD01708,2025-01-01,Rahul Gupta,Jaipur,Rajasthan,Stationery,Marker,3,54185.69,0.1
+ORD01881,2025-03-20,Neha Sharma,Bengaluru,Karnataka,Electronics,Monitor,8,4980.47,0.25
+ORD01154,2025-02-19,Neha Kumar,Patna,Bihar,Electronics,Headphones,1,49982.84,0.0
+ORD01662,2025-12-05,Rohit Gupta,Lucknow,Uttar Pradesh,Electronics,Keyboard,4,24756.2,0.2
+ORD01427,2025-10-20,Riya Yadav,Chennai,Tamil Nadu,Furniture,Table,8,14462.73,0.05
+ORD00385,2025-05-18,Sneha Sharma,Chennai,Tamil Nadu,Grocery,Sugar,5,12730.48,0.05
+ORD01759,2025-06-22,Pooja Das,Delhi,Delhi,Stationery,Pen Set,10,11855.13,0.2
+ORD00855,2025-09-01,Riya Patel,Mumbai,Maharashtra,Grocery,Sugar,2,10987.04,0.1
+ORD01590,2025-07-09,ROHIT DAS,Jaipur,Rajasthan,Stationery,Marker,1,66715.15,0.25
+ORD00220,2025-08-16,Rahul Patel,Pune,Maharashtra,Electronics,Mobile Phone,2,34040.19,0.25
+ORD00642,2025-03-20,Sneha Sharma,Hyderabad,Telangana,Grocery,Biscuits,1,4718.19,0.25
+ORD00002,2025-09-16,Kavita Kumar,Ahmedabad,Gujarat,Stationery,Notebook,1,7253.72,0.05
+ORD00113,2025-02-28,Pooja Sharma,Bengaluru,Karnataka,Grocery,Rice,9,30747.3,0.05
+ORD00699,2025-05-06,Suresh Das,Lucknow,Uttar Pradesh,Electronics,Keyboard,8,62069.01,0.0
+ORD01916,2025-04-05,Kavita Das,Lucknow,Uttar Pradesh,Clothing,Shoes,2,72822.19,0.25
+ORD00952,2025-01-14,Rohit Sharma,Kolkata,West Bengal,Electronics,Mobile Phone,8,50848.91,0.1
+ORD01649,2025-06-25,Arjun Singh,Mumbai,Maharashtra,Electronics,Keyboard,5,7318.96,0.15
+ORD01637,2025-06-18,Suresh Sharma,Bhopal,Madhya Pradesh,Furniture,Bookshelf,1,30037.22,0.0
+ORD01886,2025-10-10,Suresh Singh,Jaipur,Rajasthan,Grocery,Cooking Oil,6,49480.45,0.1
+ORD01411,2025-05-04,Priya Verma,Mumbai,Maharashtra,Electronics,Mobile Phone,3,61436.62,0.25
+ORD01410,2025-11-12,Rahul Das,Pune,Maharashtra,Grocery,Biscuits,10,51178.7,0.25
+ORD01534,2025-11-16,Pooja Singh,Pune,Maharashtra,Electronics,Monitor,8,24994.88,0.0
+ORD01292,2025-09-14,Suresh Patel,Bhopal,Madhya Pradesh,Furniture,Desk,3,57719.72,0.05
+ORD01809,2025-06-03,Arjun Das,Chennai,Tamil Nadu,Electronics,Headphones,2,13498.35,0.2
+ORD00442,2025-10-21,Nikhil Verma,Kolkata,West Bengal,Grocery,Tea,9,51608.33,0.15
+ORD01521,2025-10-16,Rahul Gupta,Ahmedabad,Gujarat,Electronics,Keyboard,4,33669.63,0.15
+ORD01137,2025-05-26,Vikas Yadav,Lucknow,Uttar Pradesh,Furniture,Bookshelf,7,34907.93,0.15
+ORD01716,2025-12-21,Riya Yadav,Delhi,Delhi,Stationery,File Folder,10,12842.09,0.25
+ORD01257,2025-02-26,Riya Kumar,Bhopal,Madhya Pradesh,Electronics,Monitor,2,28496.17,0.0
+ORD01864,2025-07-22,Amit Gupta,Lucknow,Uttar Pradesh,Clothing,Jacket,7,56758.24,0.25
+ORD01632,2025-03-29,Anjali Singh,Bengaluru,Karnataka,Clothing,Kurta,9,30586.89,0.2
+ORD01696,2025-01-18,Sneha Das,Mumbai,Maharashtra,Clothing,Shoes,6,49674.84,0.2
+ORD01398,2025-02-13,Rohit Yadav,Bengaluru,Karnataka,Furniture,Sofa,9,15164.36,0.1
+ORD00664,2025-07-07,Nikhil Verma,Delhi,Delhi,Electronics,Keyboard,6,11919.01,0.1
+ORD01836,2025-06-22,Neha Kumar,Pune,Maharashtra,Electronics,Laptop,7,35553.54,0.1
+ORD01258,2025-03-15,Arjun Kumar,Hyderabad,Telangana,Electronics,Mobile Phone,4,57816.29,0.1
+ORD01774,2025-09-07,Rohit Kumar,Kolkata,West Bengal,Stationery,File Folder,5,63236.91,0.05
+ORD01701,2025-02-02,Manish Patel,Lucknow,Uttar Pradesh,Stationery,Notebook,6,57304.38,0.1
+ORD00318,2025-03-20,Sneha Das,Delhi,Delhi,Clothing,Jeans,7,53447.87,0.25
+ORD00649,2025-09-12,Manish Singh,Chennai,Tamil Nadu,Electronics,Monitor,7,14442.74,0.25
+ORD01435,2025-01-19,Anjali Sharma,Pune,Maharashtra,Stationery,Notebook,10,67848.21,0.25
+ORD01480,2025-03-07,Vikas Verma,Mumbai,Maharashtra,Grocery,Sugar,7,67843.46,0.1
+ORD00710,2025-08-21,Vikas Yadav,Ahmedabad,Gujarat,Stationery,Pen Set,4,44267.46,0.15
+ORD01383,2025-10-07,Rohit Yadav,Delhi,Delhi,Clothing,Jacket,8,36926.97,0.1
+ORD01283,2025-12-21,Pooja Yadav,Pune,Maharashtra,Stationery,Pen Set,9,45479.98,0.0
+ORD00973,2025-03-01,Priya Singh,Delhi,Delhi,Clothing,Shoes,3,35680.68,0.0
+ORD00628,2025-12-08,Vikas Verma,Patna,Bihar,Grocery,Biscuits,4,31027.26,0.2
+ORD00633,2025-09-10,Neha Patel,Bhopal,Madhya Pradesh,Stationery,Notebook,4,6992.22,0.0
+ORD01307,2025-08-05,Rohit Gupta,Jaipur,Rajasthan,Furniture,Office Chair,4,65134.54,0.25
+ORD01401,2025-06-04,Manish Verma,Lucknow,Uttar Pradesh,Electronics,Keyboard,2,56750.27,0.2
+ORD01409,2025-07-27,Pooja Singh,Lucknow,Uttar Pradesh,Stationery,File Folder,6,69471.82,0.1
+ORD01249,2025-10-09,Rohit Singh,Hyderabad,Telangana,Clothing,Kurta,6,24511.0,0.25
+ORD01953,2025-01-11,Pooja Das,Jaipur,Rajasthan,Electronics,Keyboard,10,26052.52,0.15
+ORD01255,2025-07-21,Arjun Verma,Bhopal,Madhya Pradesh,Furniture,Bookshelf,1,23434.48,0.05
+ORD01497,2025-04-23,Arjun Verma,Lucknow,Uttar Pradesh,Electronics,Laptop,4,10481.38,0.15
+ORD01372,2025-04-10,Rohit Verma,Chennai,Tamil Nadu,Electronics,Laptop,7,54967.12,0.15
+ORD01530,2025-03-14,Rohit Verma,Lucknow,Uttar Pradesh,Clothing,Kurta,6,42394.83,0.05
+ORD01664,2025-08-24,Anjali Patel,Chennai,Tamil Nadu,Stationery,Pen Set,3,24264.72,0.05
+ORD01355,2025-06-04,Rohit Patel,Hyderabad,Telangana,Electronics,Laptop,8,7360.21,0.15
+ORD01926,2025-11-25,Amit Patel,Kolkata,West Bengal,Electronics,Monitor,2,52909.46,0.05
+ORD01901,2025-08-05,Sneha Patel,Patna,Bihar,Clothing,Shoes,7,56530.62,0.0
+ORD01644,2025-08-15,Manish Verma,Bengaluru,Karnataka,Grocery,Rice,10,32374.23,0.0
+ORD01849,2025-10-15,Priya Gupta,Hyderabad,Telangana,Electronics,Headphones,6,61906.55,0.15
+ORD00796,2025-05-03,pooja das,Mumbai,Maharashtra,Electronics,Mobile Phone,1,54050.49,0.2
+ORD00646,2025-10-11,Priya Sharma,Lucknow,Uttar Pradesh,Clothing,Jacket,8,20830.5,0.2
+ORD01013,2025-05-26,Neha Singh,Patna,Bihar,Furniture,Desk,10,31776.33,0.1
+ORD01840,2025-11-20,Priya Patel,Lucknow,Uttar Pradesh,Stationery,Pen Set,7,36915.39,0.1
+ORD00557,2025-12-06,Neha Singh,Lucknow,Uttar Pradesh,Grocery,Rice,7,27448.95,0.0
+ORD00682,2025-07-17,Unknown,Kolkata,West Bengal,Clothing,Jacket,2,1676.1,0.25
+ORD00578,2025-09-24,Amit Das,Bengaluru,Karnataka,Furniture,Office Chair,1,43454.54,0.0
+ORD01110,2025-06-17,Arjun Yadav,Kolkata,West Bengal,Electronics,Laptop,5,8822.53,0.05
+ORD01267,2025-12-31,Manish Sharma,Chennai,Tamil Nadu,Electronics,Headphones,8,49714.45,0.1
+ORD01723,2025-08-04,Riya Das,Delhi,Delhi,Furniture,Unknown,10,50527.55,0.2
+ORD01184,2025-03-30,Arjun Das,Delhi,Delhi,Furniture,Sofa,8,22876.05,0.2
+ORD00525,2025-12-30,Arjun Patel,Pune,Maharashtra,Grocery,Tea,4,68383.61,0.25
+ORD01060,2025-01-31,Priya Gupta,Bhopal,Madhya Pradesh,Grocery,Tea,3,18425.65,0.0
+ORD00541,2025-07-03,Nikhil Sharma,Hyderabad,Telangana,Grocery,Rice,10,3652.38,0.0
+ORD01195,2025-06-03,Riya Verma,Bhopal,Madhya Pradesh,Electronics,Laptop,4,2995.86,0.05
+ORD01679,2025-03-25,Manish Verma,Delhi,Delhi,Furniture,Table,10,54407.75,0.0
+ORD00749,2025-02-09,Sneha Yadav,Ahmedabad,Gujarat,Clothing,Kurta,4,13188.14,0.25
+ORD01852,2025-01-13,Amit Das,Kolkata,West Bengal,Electronics,Headphones,5,15516.94,0.1
+ORD01431,2025-05-28,Rahul Verma,Bengaluru,Karnataka,Stationery,Marker,2,65465.08,0.05
+ORD00485,2025-05-10,Pooja Singh,Patna,Bihar,Electronics,Keyboard,8,28673.97,0.2
+ORD01758,2025-04-03,Kavita Singh,Lucknow,Uttar Pradesh,Electronics,Headphones,5,8306.18,0.25
+ORD00096,2025-03-02,Suresh Das,Mumbai,Maharashtra,Furniture,Table,5,6617.27,0.05
+ORD01021,2025-08-16,Rahul Patel,Patna,Bihar,Clothing,Jeans,4,62269.37,0.2
+ORD00564,2025-08-14,Priya Verma,Chennai,Tamil Nadu,Stationery,File Folder,10,743.18,0.05
+ORD01265,2025-08-08,Suresh Patel,Delhi,Delhi,Clothing,T-Shirt,1,45436.85,0.05
+ORD00743,2025-03-15,Riya Gupta,Jaipur,Rajasthan,Clothing,Shoes,8,17569.14,0.05
+ORD00864,2025-09-21,Neha Singh,Patna,Bihar,Clothing,Jacket,9,48011.25,0.0
+ORD01599,2025-05-21,Sneha Singh,Chennai,Tamil Nadu,Grocery,Tea,4,57113.75,0.15
+ORD01715,2025-07-15,Riya Gupta,Mumbai,Maharashtra,Electronics,Headphones,5,71224.22,0.0
+ORD01485,2025-04-29,Rohit Yadav,Mumbai,Maharashtra,Grocery,Sugar,5,70871.42,0.0
+ORD00892,2025-10-05,Anjali Kumar,Jaipur,Rajasthan,Furniture,Bookshelf,8,37100.89,0.1
+ORD01578,2025-08-06,Kavita Das,Mumbai,Maharashtra,Stationery,Marker,5,61529.38,0.25
+ORD01039,2025-08-16,Arjun Sharma,Lucknow,Uttar Pradesh,Electronics,Laptop,9,2563.33,0.25
+ORD00207,2025-01-19,Rohit Verma,Bhopal,Madhya Pradesh,Stationery,Pen Set,3,4966.77,0.15
+ORD00393,2025-11-15,Neha Yadav,Patna,Bihar,Clothing,Jeans,5,42394.55,0.1
+ORD00795,2025-08-13,Sneha Verma,Bengaluru,Karnataka,Stationery,Notebook,6,36616.14,0.25
+ORD00871,2025-03-14,Sneha Verma,Mumbai,Maharashtra,Clothing,T-Shirt,2,16871.25,0.25
+ORD00398,2025-07-21,Rahul Kumar,Jaipur,Rajasthan,Electronics,Monitor,2,37100.89,0.25
+ORD00767,2025-10-01,Manish Kumar,Hyderabad,Telangana,Grocery,Sugar,5,46074.67,0.1
+ORD01842,2025-02-02,Amit Yadav,Chennai,Tamil Nadu,Clothing,Jeans,6,42508.24,0.15
+ORD01242,2025-12-23,Priya Gupta,Kolkata,West Bengal,Grocery,Sugar,1,12728.4,0.1
+ORD01029,2025-10-12,Arjun Singh,Patna,Bihar,Clothing,Kurta,10,50713.53,0.05
+ORD01793,2025-08-24,sneha yadav,Hyderabad,Telangana,Clothing,Jeans,7,31730.26,0.15
+ORD00643,2025-06-27,Manish Yadav,Mumbai,Maharashtra,Stationery,Pen Set,6,73630.26,0.25
+ORD01892,2025-04-27,Arjun Patel,Ahmedabad,Gujarat,Electronics,Headphones,9,49931.61,0.05
+ORD00613,2025-11-29,Suresh Singh,Delhi,Delhi,Clothing,Kurta,4,43369.82,0.25
+ORD01763,2025-05-30,Arjun Das,Lucknow,Uttar Pradesh,Furniture,Bookshelf,6,10376.81,0.05
+ORD00961,2025-12-13,Neha Singh,Hyderabad,Telangana,Stationery,Notebook,1,38622.27,0.15
+ORD01571,2025-09-20,Priya Gupta,Kolkata,West Bengal,Clothing,Kurta,7,44582.43,0.05
+ORD00726,2025-01-29,Riya Gupta,Mumbai,Maharashtra,Stationery,Calculator,6,34819.64,0.15
+ORD00684,2025-06-06,Anjali Yadav,Lucknow,Uttar Pradesh,Stationery,Calculator,1,3221.49,0.2
+ORD00099,2025-10-10,Rahul Singh,Pune,Maharashtra,Furniture,Bookshelf,2,11990.02,0.05
+ORD00805,2025-03-10,Rahul Das,Lucknow,Uttar Pradesh,Furniture,Sofa,4,69444.25,0.0
+ORD01752,2025-07-25,Neha Verma,Mumbai,Maharashtra,Stationery,Marker,8,7032.4,0.1
+ORD01598,2025-12-22,Manish Kumar,Ahmedabad,Gujarat,Clothing,Jacket,10,38674.46,0.05
+ORD00407,2025-04-12,Nikhil Yadav,Ahmedabad,Gujarat,Grocery,Biscuits,2,1879.56,0.0
+ORD00503,2025-07-26,Riya Verma,Bengaluru,Karnataka,Electronics,Monitor,4,41399.54,0.15
+ORD01072,2025-07-09,MANISH PATEL,Kolkata,West Bengal,Electronics,Headphones,4,23054.16,0.05
+ORD01057,2025-02-21,Anjali Kumar,Jaipur,Rajasthan,Stationery,File Folder,7,66025.38,0.2
+ORD00930,2025-03-10,Rohit Singh,Ahmedabad,Gujarat,Stationery,Marker,8,36007.82,0.25
+ORD00780,2025-12-20,Priya Patel,Jaipur,Rajasthan,Furniture,Table,4,39116.44,0.25
+ORD00201,2025-09-13,Kavita Kumar,Patna,Bihar,Furniture,Sofa,10,34419.24,0.0
+ORD00135,2025-09-29,Suresh Gupta,Mumbai,Maharashtra,Furniture,Desk,9,65765.43,0.1
+ORD01052,2025-01-28,Riya Patel,Bengaluru,Karnataka,Furniture,Office Chair,8,18067.35,0.1
+ORD00041,2025-05-16,Suresh Yadav,Bengaluru,Karnataka,Grocery,Cooking Oil,6,15468.9,0.25
+ORD01018,2025-06-08,Suresh Sharma,Hyderabad,Telangana,Electronics,Mobile Phone,1,43006.61,0.25
+ORD00231,2025-10-07,Rohit Gupta,Ahmedabad,Gujarat,Stationery,Calculator,1,37478.34,0.25
+ORD01514,2025-07-13,Arjun Das,Patna,Bihar,Furniture,Desk,1,20616.25,0.0
+ORD01797,2025-07-31,Amit Verma,Delhi,Delhi,Grocery,Tea,5,67874.54,0.2
+ORD00379,2025-04-21,Amit Kumar,Jaipur,Rajasthan,Electronics,Laptop,10,5298.06,0.1
+ORD00289,2025-10-15,Vikas Das,Pune,Maharashtra,Furniture,Bookshelf,3,60481.77,0.0
+ORD00419,2025-04-30,Kavita Verma,Lucknow,Uttar Pradesh,Clothing,Jeans,8,3087.79,0.0
+ORD01699,2025-03-02,Sneha Gupta,Jaipur,Rajasthan,Furniture,Sofa,10,19894.65,0.15
+ORD00392,2025-06-17,Rahul Yadav,Kolkata,West Bengal,Electronics,Keyboard,5,58071.18,0.1
+ORD00593,2025-09-05,Manish Verma,Lucknow,Uttar Pradesh,Grocery,Biscuits,8,72462.65,0.2
+ORD01523,2025-10-18,Manish Verma,Delhi,Delhi,Furniture,Sofa,10,62895.76,0.2
+ORD01163,2025-08-28,Priya Yadav,Mumbai,Maharashtra,Stationery,Notebook,5,62468.47,0.2
+ORD01087,2025-10-06,Nikhil Gupta,Bengaluru,Karnataka,Clothing,Jeans,10,74850.18,0.25
+ORD01496,2025-09-24,Anjali Verma,Bhopal,Madhya Pradesh,Clothing,T-Shirt,7,7757.8,0.25
+ORD00648,2025-07-06,Manish Verma,Hyderabad,Telangana,Grocery,Tea,3,66249.19,0.2
+ORD01153,2025-12-11,Manish Sharma,Delhi,Delhi,Clothing,T-Shirt,10,17799.81,0.15
+ORD01368,2025-08-25,Nikhil Sharma,Kolkata,West Bengal,Furniture,Bookshelf,10,48716.63,0.05
+ORD00521,2025-02-01,Sneha Gupta,Pune,Maharashtra,Clothing,Jeans,5,51333.43,0.05
+ORD01863,2025-03-20,Riya Singh,Hyderabad,Telangana,Furniture,Sofa,1,3402.65,0.05
+ORD00065,2025-05-22,Manish Yadav,Bhopal,Madhya Pradesh,Stationery,File Folder,5,56445.31,0.25
+ORD01837,2025-05-23,Neha Verma,Jaipur,Rajasthan,Stationery,Pen Set,5,62275.92,0.2
+ORD00015,2025-01-06,Arjun Sharma,Kolkata,West Bengal,Stationery,Calculator,8,39801.3,0.2
+ORD01181,2025-02-22,Arjun Singh,Pune,Maharashtra,Furniture,Desk,1,27326.38,0.2
+ORD01065,2025-06-03,Vikas Patel,Ahmedabad,Gujarat,Clothing,Kurta,10,72239.1,0.2
+ORD00493,2025-12-06,Arjun Singh,Bhopal,Madhya Pradesh,Electronics,Laptop,1,973.01,0.05
+ORD00380,2025-12-26,Vikas Sharma,Kolkata,West Bengal,Grocery,Biscuits,9,57591.47,0.15
+ORD00188,2025-09-06,Neha Verma,Patna,Bihar,Clothing,Jacket,3,71349.91,0.1
+ORD00764,2025-10-18,Pooja Patel,Kolkata,West Bengal,Grocery,Sugar,6,2751.28,0.0
+ORD00217,2025-10-21,Priya Patel,Ahmedabad,Gujarat,Furniture,Sofa,6,28058.0,0.0
+ORD00792,2025-09-04,Rahul Patel,Kolkata,West Bengal,Electronics,Monitor,4,497.23,0.25
+ORD01077,2025-07-18,Manish Patel,Pune,Maharashtra,Electronics,Keyboard,10,5099.26,0.2
+ORD00879,2025-04-03,Riya Patel,Chennai,Tamil Nadu,Grocery,Cooking Oil,8,50596.05,0.0
+ORD00338,2025-09-05,Anjali Yadav,Chennai,Tamil Nadu,Clothing,Jacket,8,58874.18,0.2
+ORD01773,2025-05-20,Vikas Kumar,Hyderabad,Telangana,Grocery,Biscuits,4,70535.39,0.25
+ORD00720,2025-09-10,Manish Singh,Ahmedabad,Gujarat,Grocery,Tea,9,37100.89,0.15
+ORD01749,2025-04-03,Amit Yadav,Bhopal,Madhya Pradesh,Furniture,Desk,4,73488.7,0.05
+ORD00296,2025-08-29,Manish Patel,Chennai,Tamil Nadu,Grocery,Tea,8,7620.97,0.25
+ORD01726,2025-07-03,Riya Patel,Bengaluru,Karnataka,Stationery,Notebook,8,63744.9,0.1
+ORD01017,2025-08-15,Sneha Gupta,Kolkata,West Bengal,Unknown,Sofa,6,40689.34,0.25
+ORD01276,2025-12-06,Kavita Sharma,Kolkata,West Bengal,Electronics,Keyboard,6,4292.73,0.0
+ORD01751,2025-02-19,Rohit Patel,Kolkata,West Bengal,Stationery,File Folder,3,63583.1,0.05
+ORD01486,2025-09-18,Riya Das,Chennai,Tamil Nadu,Electronics,Monitor,9,67323.3,0.2
+ORD00456,2025-01-26,Nikhil Patel,Mumbai,Maharashtra,Furniture,Desk,1,18899.4,0.15
+ORD01997,2025-06-19,Rahul Kumar,Chennai,Tamil Nadu,Clothing,Kurta,2,3272.13,0.1
+ORD00816,2025-08-12,Priya Verma,Kolkata,West Bengal,Furniture,Office Chair,8,43985.65,0.0
+ORD01887,2025-08-28,Anjali Gupta,Chennai,Tamil Nadu,Clothing,Shoes,3,43620.83,0.1
+ORD00270,2025-09-02,Priya Yadav,Hyderabad,Telangana,Clothing,Jacket,10,16758.48,0.05
+ORD00996,2025-12-25,Suresh Gupta,Ahmedabad,Gujarat,Electronics,Monitor,5,31593.07,0.25
+ORD00202,2025-08-08,Amit Patel,Hyderabad,Telangana,Grocery,Sugar,4,53961.19,0.1
+ORD00162,2025-06-23,Anjali Kumar,Ahmedabad,Gujarat,Clothing,T-Shirt,3,20676.96,0.1
+ORD01580,2025-11-09,Kavita Das,Pune,Maharashtra,Clothing,Jacket,6,37733.83,0.0
+ORD00730,2025-07-10,Pooja Gupta,Bhopal,Madhya Pradesh,Electronics,Headphones,7,6738.13,0.05
+ORD00402,2025-02-16,Priya Gupta,Pune,Maharashtra,Stationery,Marker,8,20059.34,0.0
+ORD00703,2025-08-19,Amit Singh,Mumbai,Maharashtra,Grocery,Sugar,3,29631.74,0.1
+ORD01501,2025-06-03,Riya Verma,Hyderabad,Telangana,Clothing,Shoes,9,49356.34,0.05
+ORD01846,2025-11-16,Anjali Sharma,Patna,Bihar,Clothing,Kurta,2,28964.71,0.05
+ORD01796,2025-07-21,Priya Yadav,Jaipur,Rajasthan,Grocery,Tea,6,48389.0,0.05
+ORD01130,2025-09-24,Anjali Singh,Lucknow,Uttar Pradesh,Electronics,Mobile Phone,4,45702.72,0.15
+ORD00566,2025-12-12,Pooja Yadav,Hyderabad,Telangana,Furniture,Sofa,6,54089.11,0.15
+ORD01414,2025-01-18,Arjun Yadav,Jaipur,Rajasthan,Electronics,Monitor,7,1073.72,0.1
+ORD01022,2025-06-24,Vikas Singh,Kolkata,West Bengal,Grocery,Rice,8,64682.58,0.0
+ORD01026,2025-01-27,Neha Verma,Chennai,Tamil Nadu,Furniture,Sofa,6,19530.59,0.0
+ORD01412,2025-09-10,Anjali Gupta,Jaipur,Rajasthan,Stationery,Unknown,5,50148.28,0.2
+ORD01896,2025-10-05,Arjun Sharma,Bhopal,Madhya Pradesh,Clothing,Jeans,7,22888.61,0.05
+ORD01586,2025-03-01,Kavita Yadav,Kolkata,West Bengal,Electronics,Headphones,7,19584.02,0.25
+ORD01105,2025-12-24,Kavita Sharma,Ahmedabad,Gujarat,Stationery,File Folder,7,68334.77,0.05
+ORD00206,2025-11-26,Priya Yadav,Ahmedabad,Gujarat,Clothing,Jeans,1,26584.35,0.1
+ORD00035,2025-10-26,Kavita Patel,Ahmedabad,Gujarat,Grocery,Rice,10,6378.26,0.25
+ORD00776,2025-09-01,Sneha Verma,Delhi,Delhi,Electronics,Mobile Phone,8,30056.17,0.1
+ORD00509,2025-01-24,Nikhil Singh,Hyderabad,Telangana,Clothing,Kurta,9,28198.3,0.0
+ORD01452,2025-11-08,Manish Patel,Hyderabad,Telangana,Clothing,T-Shirt,9,57283.97,0.0
+ORD01479,2025-12-20,Priya Sharma,Bhopal,Madhya Pradesh,Electronics,Mobile Phone,1,62580.93,0.0
+ORD01971,2025-03-13,Arjun Gupta,Pune,Maharashtra,Stationery,Pen Set,8,64923.49,0.25
+ORD01391,2025-03-25,Rohit Yadav,Jaipur,Rajasthan,Furniture,Table,5,46878.69,0.25
+ORD00092,2025-01-08,Sneha Singh,Delhi,Delhi,Furniture,Unknown,4,27225.86,0.1
+ORD01364,2025-01-31,Neha Kumar,Lucknow,Uttar Pradesh,Furniture,Desk,2,5867.04,0.15
+ORD00898,2025-06-26,Anjali Das,Chennai,Tamil Nadu,Grocery,Rice,6,28697.86,0.15
+ORD00565,2025-07-05,Kavita Sharma,Delhi,Delhi,Grocery,Biscuits,4,11480.47,0.05
+ORD01370,2025-02-13,Anjali Das,Hyderabad,Telangana,Grocery,Tea,6,20102.01,0.2
+ORD00777,2025-01-07,Rohit Yadav,Kolkata,West Bengal,Stationery,File Folder,5,11099.95,0.15
+ORD00242,2025-10-13,Anjali Singh,Mumbai,Maharashtra,Electronics,Keyboard,6,59668.57,0.1
+ORD00014,2025-08-05,Kavita Sharma,Delhi,Delhi,Electronics,Laptop,3,47151.59,0.25
+ORD00316,2025-07-12,Vikas Singh,Patna,Bihar,Clothing,Shoes,8,17303.34,0.2
+ORD00601,2025-05-24,Vikas Verma,Ahmedabad,Gujarat,Clothing,Shoes,3,73833.5,0.2
+ORD00388,2025-01-02,Amit Kumar,Bengaluru,Karnataka,Electronics,Monitor,2,17323.23,0.2
+ORD01298,2025-07-25,Vikas Singh,Delhi,Delhi,Grocery,Tea,1,27419.54,0.1
+ORD00167,2025-05-26,Arjun Yadav,Bengaluru,Karnataka,Furniture,Table,2,26051.67,0.0
+ORD00841,2025-01-25,Priya Patel,Mumbai,Maharashtra,Clothing,Jeans,8,28049.7,0.1
+ORD00021,2025-04-19,Nikhil Verma,Lucknow,Uttar Pradesh,Furniture,Bookshelf,9,65464.37,0.15
+ORD00647,2025-07-07,Pooja Kumar,Lucknow,Uttar Pradesh,Furniture,Sofa,5,61501.54,0.2
+ORD01843,2025-04-30,Nikhil Patel,Chennai,Tamil Nadu,Stationery,Pen Set,4,70857.11,0.25
+ORD01509,2025-01-11,Manish Das,Ahmedabad,Gujarat,Grocery,Biscuits,3,45470.85,0.0
+ORD01155,2025-06-22,Kavita Das,Kolkata,West Bengal,Grocery,Sugar,5,69926.6,0.15
+ORD01529,2025-08-11,Rohit Gupta,Mumbai,Maharashtra,Grocery,Tea,7,942.07,0.0
+ORD00832,2025-04-18,Manish Verma,Lucknow,Uttar Pradesh,Electronics,Keyboard,10,65367.07,0.25
+ORD01268,2025-09-02,Riya Sharma,Patna,Bihar,Furniture,Desk,6,11296.57,0.15
+ORD01591,2025-07-02,Vikas Kumar,Chennai,Tamil Nadu,Clothing,T-Shirt,9,20225.86,0.1
+ORD01900,2025-09-13,Anjali Patel,Hyderabad,Telangana,Grocery,Sugar,1,51014.03,0.0
+ORD00563,2025-09-22,Vikas Patel,Ahmedabad,Gujarat,Electronics,Monitor,5,28380.58,0.05
+ORD01952,2025-10-16,Neha Sharma,Pune,Maharashtra,Stationery,Calculator,8,72058.97,0.25
+ORD00687,2025-09-24,Arjun Verma,Mumbai,Maharashtra,Clothing,Shoes,3,6812.68,0.15
+ORD00958,2025-12-17,Kavita Singh,Delhi,Delhi,Clothing,Shoes,7,55257.72,0.1
+ORD00190,2025-03-25,Priya Singh,Hyderabad,Telangana,Clothing,Kurta,3,44894.17,0.05
+ORD01807,2025-10-28,Sneha Patel,Mumbai,Maharashtra,Stationery,File Folder,7,35896.78,0.0
+ORD00976,2025-01-19,Pooja Das,Kolkata,West Bengal,Stationery,Calculator,10,54898.12,0.1
+ORD00700,2025-01-26,Neha Gupta,Bhopal,Madhya Pradesh,Electronics,Monitor,7,38830.47,0.25
+ORD01500,2025-07-14,Arjun Verma,Bhopal,Madhya Pradesh,Furniture,Office Chair,7,51676.63,0.2
+ORD01706,2025-04-26,Riya Singh,Chennai,Tamil Nadu,Furniture,Office Chair,3,47709.32,0.2
+ORD00511,2025-01-24,Nikhil Sharma,Pune,Maharashtra,Stationery,Pen Set,6,8305.49,0.15
+ORD01083,2025-06-12,Rohit Das,Kolkata,West Bengal,Stationery,File Folder,7,30819.22,0.15
+ORD00475,2025-06-10,Arjun Kumar,Bhopal,Madhya Pradesh,Furniture,Office Chair,8,25114.05,0.05
+ORD01585,2025-09-06,Arjun Das,Mumbai,Maharashtra,Grocery,Sugar,7,37100.89,0.0
+ORD00857,2025-05-29,Suresh Yadav,Lucknow,Uttar Pradesh,Unknown,Calculator,3,15144.5,0.15
+ORD00748,2025-10-30,Vikas Das,Jaipur,Rajasthan,Stationery,Notebook,6,15815.8,0.25
+ORD00253,2025-04-26,Rohit Gupta,Ahmedabad,Gujarat,Stationery,Pen Set,4,21105.73,0.1
+ORD00022,2025-08-20,Rahul Verma,Bhopal,Madhya Pradesh,Clothing,Shoes,6,32997.98,0.2
+ORD01338,2025-10-07,Amit Singh,Delhi,Delhi,Clothing,Jacket,8,74619.97,0.2
+ORD00460,2025-04-24,Arjun Verma,Patna,Bihar,Stationery,Notebook,3,64073.14,0.05
+ORD01185,2025-08-16,Anjali Kumar,Bhopal,Madhya Pradesh,Electronics,Keyboard,7,20822.4,0.25
+ORD00277,2025-02-05,Nikhil Yadav,Patna,Bihar,Stationery,Marker,2,40701.97,0.0
+ORD00956,2025-05-11,Priya Verma,Bhopal,Madhya Pradesh,Electronics,Monitor,10,28758.97,0.15
+ORD01216,2025-09-21,Riya Kumar,Patna,Bihar,Grocery,Tea,4,69248.46,0.25
+ORD00386,2025-12-31,Kavita Sharma,Patna,Bihar,Clothing,Shoes,5,39408.1,0.1
+ORD00806,2025-02-15,Sneha Gupta,Mumbai,Maharashtra,Electronics,Keyboard,2,724.63,0.05
+ORD01438,2025-10-01,Kavita Das,Pune,Maharashtra,Electronics,Laptop,1,58077.59,0.05
+ORD01516,2025-10-29,Manish Das,Patna,Bihar,Electronics,Monitor,10,68943.35,0.0
+ORD00344,2025-09-28,Arjun Patel,Pune,Maharashtra,Stationery,Notebook,5,37100.89,0.15
+ORD00770,2025-05-30,Manish Kumar,Hyderabad,Telangana,Stationery,Calculator,3,43071.28,0.25
+ORD01333,2025-01-12,Arjun Sharma,Hyderabad,Telangana,Electronics,Headphones,2,70139.45,0.25
+ORD01686,2025-03-19,Sneha Singh,Ahmedabad,Gujarat,Stationery,Pen Set,7,13138.39,0.2
+ORD00131,2025-12-18,Manish Kumar,Bhopal,Madhya Pradesh,Clothing,T-Shirt,7,20767.41,0.2
+ORD01688,2025-01-15,Nikhil Yadav,Bengaluru,Karnataka,Grocery,Biscuits,1,58799.35,0.1
+ORD00872,2025-12-20,Manish Sharma,Bengaluru,Karnataka,Furniture,Desk,3,73587.94,0.1
+ORD01124,2025-11-08,Nikhil Yadav,Chennai,Tamil Nadu,Furniture,Bookshelf,6,5296.63,0.0
+ORD01397,2025-10-24,Priya Verma,Ahmedabad,Gujarat,Clothing,Jeans,10,32827.27,0.1
+ORD00088,2025-05-05,Rohit Patel,Jaipur,Rajasthan,Electronics,Laptop,5,16814.33,0.25
+ORD01483,2025-09-18,Rahul Singh,Bengaluru,Karnataka,Stationery,Pen Set,3,54347.13,0.2
+ORD00331,2025-05-04,Rohit Singh,Bhopal,Madhya Pradesh,Electronics,Keyboard,8,10653.64,0.1
+ORD01239,2025-06-25,Rohit Yadav,Pune,Maharashtra,Stationery,Notebook,2,70650.9,0.2
+ORD00467,2025-05-13,Nikhil Das,Hyderabad,Telangana,Clothing,Jeans,1,49241.19,0.1
+ORD00122,2025-11-29,Rahul Patel,Delhi,Delhi,Stationery,Marker,6,46838.64,0.15
+ORD01639,2025-08-22,Priya Kumar,Pune,Maharashtra,Clothing,Jeans,6,17318.41,0.25
+ORD01045,2025-04-27,Nikhil Gupta,Delhi,Delhi,Grocery,Cooking Oil,2,9775.46,0.2
+ORD01725,2025-11-19,Anjali Sharma,Hyderabad,Telangana,Stationery,Notebook,4,42628.02,0.0
+ORD01096,2025-10-11,Priya Kumar,Ahmedabad,Gujarat,Stationery,Marker,2,37100.89,0.25
+ORD01131,2025-01-27,Arjun Singh,Jaipur,Rajasthan,Electronics,Laptop,8,5481.37,0.05
+ORD01295,2025-09-13,Rahul Yadav,Delhi,Delhi,Electronics,Mobile Phone,5,41148.42,0.0
+ORD00861,2025-12-18,Pooja Sharma,Ahmedabad,Gujarat,Stationery,Calculator,7,65158.86,0.25
+ORD01460,2025-10-10,Anjali Sharma,Kolkata,West Bengal,Electronics,Monitor,2,20914.31,0.2
+ORD01127,2025-05-02,Nikhil Yadav,Bengaluru,Karnataka,Furniture,Desk,7,15527.8,0.0
